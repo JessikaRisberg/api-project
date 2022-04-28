@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='user.css') }}" />
     <meta charset="UTF-8">
     <title>Dog API</title>
 </head>
 <body>
-
+<div class="container">
+        <thead>
+            <table>
+                <tr>
+                    <th>Age</th>
+                    <th>Name</th>
+                    <th>Sex</th>
+                    <th>Size</th>
+                    <th>Breed</th>
+                    <th>Color</th>
+                    <th>Coat</th>
+                    <th>Neutered</th>
+                    <th>Likes Children</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for i in data %}
+                <tr>
+                    <td>{{ i['age'] }}</td>
+                    <td>{{ i['name'] }}</td>
+                    <td>{{ i['sex'] }}</td>
+                    <td>{{ i['size'] }}</td>
+                    <td>{{ i['breed'] }}</td>
+                    <td>{{ i['color'] }}</td>
+                    <td>{{ i['coat'] }}</td>
+                    <td>{{ i['neutered'] }}</td>
+                    <td>{{ i['likes_children'] }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>
 
-{% extends "base-template.html" %}
