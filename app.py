@@ -4,6 +4,7 @@ import uuid
 from werkzeug.security import generate_password_hash, check_password_hash
 import jwt
 import datetime
+from functools import wraps
 
 app = Flask(__name__)
 
@@ -27,8 +28,29 @@ class Todo(db.Model):
     complete = db.Column(db.Boolean)
     user_id = db.Column(db.Integer)
 
+def token_required(f):
+    @wraps(f)
+    def decorated(*args, **kwargs):
+        token = None
+
+        if 'x-acces-token' in request.headers:
+            token = request.headers['x-acces-token']
+
+        if not token:
+            return jsonify({'message' : 'No token.'}), 401
+
+        try:
+            data = jwt.decode(token, app.config['SECRET-KEY'])
+            current_user = User.query.filter_by(public_id=data['public_id']).first()
+        except:
+            return jsonify({'message' : 'Token is invalid'}), 401
+
+        return f(current_user, *args, **kwargs)
+
+    return decorated
 
 @app.route('/user', methods=['GET'])
+@token_required
 def get_all_users():
 
     users = User.query.all()
@@ -118,7 +140,7 @@ def login():
     if check_password_hash(user.password, auth.password):
         token = jwt.encode({'public_id': user.public_id, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=30)}, app.config['SECRET_KEY'])
 
-        return jsonify({'token': token.decode('UTF-8')})
+        return jsonify({'token' : token.encode().decode('UTF-8')})
 
     return make_response('Could not verify', 401, {'WWW-Authenticate', 'Basic realm="Login required!"'})
 
