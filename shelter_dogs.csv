@@ -1,0 +1,2938 @@
+ID,name,age,sex,breed,color,coat,size,neutered,likes_children
+0,Gida,0.25,female,Unknown Mix,red,short,small,no,
+1,Frida Es Ricsi,0.17,female,Unknown Mix,black and white,short,small,no,yes
+2,,4.0,male,Unknown Mix,saddle back,short,medium,no,
+3,,1.0,male,Unknown Mix,yellow-brown,medium,medium,no,
+4,Amy,2.0,female,French Bulldog Mix,black,short,small,no,
+5,Alex,4.25,male,Unknown Mix,yellow-brown,short,small,yes,
+6,Ricsi Es Frida,0.17,male,Unknown Mix,brown,short,small,no,yes
+7,,0.17,female,Unknown Mix,gray and white,short,medium,no,
+8,,0.17,female,Unknown Mix,black,medium,medium,no,
+9,Ujhartyani Mazsi,0.17,female,Unknown Mix,brown and white,short,small,no,yes
+10,Vasi,3.67,male,Vizsla Mix,red,short,medium,yes,
+11,,1.0,male,Unknown Mix,saddle back,medium,medium,no,
+12,,5.0,female,Unknown Mix,brown,long,small,no,
+13,Ujhartyani Frenki,0.17,male,Unknown Mix,tricolor,short,small,no,yes
+14,Ficko,1.5,male,"Bull Terrier, Dachshund Mix",brown and white,short,medium,yes,yes
+15,,8.0,male,Unknown Mix,black,medium,medium,no,
+16,Ujhartyani Bori,0.17,female,Unknown Mix,tricolor,short,small,no,yes
+17,Dabasi Ixorn,0.83,male,Unknown Mix,black,wirehaired,small,yes,yes
+18,,1.0,male,Unknown Mix,yellow-brown,medium,medium,no,
+19,Gizmo,0.5,male,Unknown Mix,spotty,medium,small,yes,
+20,Saba,7.58,female,Kuvasz,white,medium,large,yes,
+21,Dome,1.0,male,Unknown Mix,black,medium,medium,,
+22,Jocelyn,0.17,female,Unknown Mix,apricot,short,small,,
+23,,0.67,female,Unknown Mix,yellow-brown,wirehaired,medium,no,
+24,Katica,0.58,female,Unknown Mix,black,short,small,,
+25,Bethany,5.0,female,Chinese Shar-Pei Mix,black and brown,short,medium,,
+26,Cotta,0.15,female,Staffordshire Terrier Mix,brown and white,short,medium,,
+27,Kehlani,0.42,female,German Shepherd Dog Mix,black and brown,short,medium,,
+28,,6.0,male,Unknown Mix,saddle back,medium,medium,no,
+29,Kakucsi Szikra,2.42,male,Hungarian Vizsla,brown,short,medium,no,yes
+30,Crosby,1.0,male,"Komondor, Puli Mix",golden,medium,medium,,
+31,,0.58,male,"Bull Terrier, Staffordshire Terrier Mix",striped,short,medium,no,
+32,,0.33,male,Unknown Mix,black,short,small,no,
+33,Bowen,1.0,male,Unknown Mix,brown,medium,large,,
+34,Panna,0.15,female,Staffordshire Terrier Mix,striped,short,medium,,
+35,Szolnoki Joker,1.0,male,Fox Terrier Mix,black and white,wirehaired,small,yes,yes
+36,Satoraljaujhelyi Dingo,2.0,male,Unknown Mix,yellow,short,medium,no,yes
+37,Valentin,0.67,male,Unknown Mix,apricot,short,small,,
+38,Szolnoki Chris,1.0,male,Fox Terrier Mix,brown and white,wirehaired,small,yes,yes
+39,,4.0,male,Unknown Mix,yellow-brown,medium,medium,no,
+40,Pufi,8.0,male,Unknown Mix,wild boar,short,small,no,
+41,Velencei Fiffi,9.25,female,Afghan Hound,brown,long,medium,yes,
+42,Szalkas Kan Kolyok,0.5,male,Unknown Mix,brown,wirehaired,medium,yes,
+43,Szakaldi Baro,1.42,male,Unknown Mix,brown and white,short,medium,no,yes
+44,,0.25,male,Unknown Mix,black and tan,wirehaired,small,no,
+45,Honapos Keverek Kan,0.5,male,Unknown Mix,tricolor,medium,medium,yes,
+46,Kormi,6.5,male,Unknown Mix,black,short,medium,yes,
+47,,0.25,female,Unknown Mix,saddle back,medium,medium,no,
+48,Velencei Shyne On,8.42,female,American Bulldog,striped,short,medium,yes,
+49,Lili,3.5,female,Unknown Mix,brown,short,medium,yes,
+50,Beagle Keverek Kutyusok,0.17,male,Beagle Mix,black and brown,short,medium,no,yes
+51,Honapos Szuka,0.5,female,Unknown Mix,brown,short,medium,yes,
+52,Beagle Keverek Kutyus,0.17,female,Beagle Mix,brown and white,short,medium,no,yes
+53,,1.58,male,Unknown Mix,yellow-brown,wirehaired,small,no,
+54,Satoraljaujhelyi Gesztenye,1.42,male,"Hungarian Vizsla, Staffordshire Terrier Mix",brown,short,medium,no,yes
+55,Kakucsi Henrik,1.42,male,Terrier Mix,yellow-brown,medium,small,no,yes
+56,Sajoorsi Foxi Es Maxi,0.17,male,Unknown Mix,black and brown,short,small,no,
+57,Elsa,2.33,female,Unknown Mix,brown,short,medium,yes,
+58,Velencei Gavaller,9.17,male,Hungarian Greyhound,brown and white,short,large,yes,
+59,,1.58,male,Unknown Mix,yellow-brown,wirehaired,small,no,
+60,Nagyhalaszi Szello,0.5,female,Greyhound Mix,yellow,short,medium,,
+61,Allegra,0.42,female,Unknown Mix,black and brown,short,small,,
+62,Dabasi Bors,1.0,male,Staffordshire Terrier Mix,brown,short,medium,no,yes
+63,Inarcsi Hektor,0.25,male,"German Shepherd Dog, Staffordshire Terrier Mix",yellow-brown,short,medium,no,yes
+64,Vlad,0.17,male,Unknown Mix,yellow-brown,short,small,no,
+65,Zsomi,6.0,male,Unknown Mix,yellow-brown,short,medium,no,
+66,Pongolina,0.58,female,Unknown Mix,apricot,short,medium,,
+67,Pola,2.0,female,"English Greyhound, Spanish Greyhound Mix",yellow,short,medium,yes,
+68,Bongo,2.0,male,Greyhound Mix,black and white,short,medium,yes,
+69,Lummia,0.33,female,Unknown Mix,black,short,medium,,
+70,King,2.92,male,Dachshund Mix,wild boar,short,medium,yes,yes
+71,Duster,1.0,male,Greyhound Mix,yellow,short,medium,,
+72,Barcsi Detre,0.5,male,Greyhound Mix,striped,short,medium,,
+73,,2.0,male,Unknown Mix,black,long,medium,no,
+74,Baboca,2.0,female,Greyhound Mix,spotty,short,medium,yes,
+75,,4.0,male,Unknown Mix,black,medium,medium,no,
+76,Szolnoki Sanyi,1.0,male,Terrier Mix,black and white,short,small,no,yes
+77,Ujszaszi Asz,4.0,male,Fox Terrier Mix,black and white,short,small,no,yes
+78,Szolnoki Puszedli,1.42,female,Unknown Mix,black and brown,medium,small,no,yes
+79,Szalkas Szuka,0.5,female,Unknown Mix,black and tan,wirehaired,small,yes,
+80,Chance,1.25,male,Unknown Mix,black,short,medium,,
+81,Hope,1.25,male,Unknown Mix,black,short,medium,,
+82,Nelly,3.08,female,Unknown Mix,black and white,short,medium,yes,
+83,,0.25,female,Unknown Mix,gray and white,short,medium,no,
+84,Pici,1.0,male,Unknown Mix,yellow-brown,short,medium,yes,
+85,Gyori Tictac,1.58,male,Greyhound Mix,black and white,short,medium,yes,
+86,,1.0,male,Staffordshire Terrier Mix,black and white,short,medium,,
+87,Tigris,5.0,male,Unknown Mix,striped,short,medium,yes,
+88,Gomez,0.5,male,Unknown Mix,white,short,small,,
+89,Aliz,5.58,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+90,Sebastian,0.17,male,Unknown Mix,apricot,short,small,,
+91,Vacok,2.42,male,"Dachshund, Fox Terrier Mix",apricot,short,medium,yes,yes
+92,Kakucsi Potyi,0.33,female,"Chinese Shar-Pei, Dachshund Mix",apricot,short,medium,,yes
+93,Doc,0.58,male,Unknown Mix,tricolor,short,medium,yes,yes
+94,Speedy,1.25,male,Unknown Mix,gray and black,medium,small,yes,yes
+95,Charlotte,3.08,female,Unknown Mix,black and white,short,small,,
+96,Chili,0.17,female,Staffordshire Terrier,golden,short,medium,yes,yes
+97,Martelyi Bence,0.75,male,Bull Terrier Mix,striped,short,medium,,
+98,Dabasi Kocos,7.0,female,Fox Terrier Mix,black and white,wirehaired,small,no,no
+99,,0.25,male,Unknown Mix,striped,short,medium,,
+100,Csopi,9.33,female,German Shepherd Dog Mix,saddle back,medium,large,no,
+101,Suzi,13.08,female,German Shepherd Dog Mix,sable,medium,large,yes,
+102,,5.0,male,Unknown Mix,black and white,short,large,yes,
+103,,1.0,male,Unknown Mix,yellow-brown,short,small,no,
+104,Miskolci Kuba,1.25,male,"Beagle, Hound Mix",tricolor,short,medium,no,yes
+105,Panna,7.58,female,Unknown Mix,black,wirehaired,medium,yes,
+106,Lorinci Balu,10.75,male,Greyhound Mix,spotty,short,medium,yes,
+107,,3.0,male,Unknown Mix,yellow-brown,short,small,no,
+108,Alfi,8.33,male,Unknown Mix,black,wirehaired,large,yes,
+109,Taxi,8.0,female,Unknown Mix,yellow-brown,short,large,no,
+110,Bambi,5.5,female,Unknown Mix,striped,short,large,no,
+111,Pecsi Kajla,1.0,male,Greyhound Mix,black,short,medium,yes,
+112,Benji,9.67,male,Terrier Mix,yellow-brown,wirehaired,medium,,
+113,Liza,1.08,female,Unknown Mix,black,short,medium,,yes
+114,Sajti,12.67,male,Unknown Mix,white,long,large,,
+115,Alsonemedi Sidney,0.42,female,"Dachshund, German Shepherd Dog Mix",black,short,small,no,yes
+116,Mazda,4.25,male,Unknown Mix,apricot,short,large,yes,
+117,Miskolci Lupidu,1.17,male,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+118,Gina Es Genova,0.17,female,Unknown Mix,black,short,medium,,yes
+119,,2.0,male,Unknown Mix,yellow-brown,short,small,no,
+120,,6.08,male,Staffordshire Terrier Mix,brown and white,short,medium,no,
+121,Kormi,6.5,male,Unknown Mix,black,short,medium,yes,
+122,*,1.08,female,German Shepherd Dog Mix,saddle back,medium,medium,no,
+123,Cezar,7.33,male,Unknown Mix,brown,short,large,,
+124,Lili,3.5,female,Cane Corso Mix,brown,short,large,yes,
+125,Zeno,0.5,male,Jagd Terrier Mix,black and tan,short,medium,,yes
+126,Marley,0.5,female,Unknown Mix,white,short,small,,
+127,Ozdi Hello,1.33,male,Unknown Mix,black,short,small,yes,yes
+128,Szolnoki Kiralyfi,2.25,male,Whippet Mix,spotty,short,medium,yes,
+129,Lujzi,1.42,female,Unknown Mix,black and brown,short,small,,
+130,Sun,0.5,male,Unknown Mix,black and brown,short,small,,
+131,Elsa,2.33,female,Unknown Mix,brown,short,medium,yes,
+132,Jockey,1.58,male,Unknown Mix,brown,short,large,yes,
+133,Ozdi Timon,3.25,male,Norfolk Terrier Mix,brown and white,short,small,yes,yes
+134,Lili,0.75,female,Unknown Mix,brown,short,small,,
+135,Aspen,1.58,female,Unknown Mix,apricot,medium,small,,
+136,Liza,2.58,female,Unknown Mix,brown and white,short,medium,yes,
+137,Szigetszentmiklosi Fuge,1.17,male,Greyhound Mix,spotty,short,medium,yes,
+138,Pongo,0.67,male,Unknown Mix,apricot,short,medium,,
+139,Leopold,0.15,male,Unknown Mix,black and brown,medium,medium,,
+140,Kincso,2.17,female,Dalmatian Mix,white,short,medium,,
+141,Petervasasrai Robin,0.25,male,Unknown Mix,white,short,medium,no,yes
+142,Siofoki Szafi,11.08,female,Greyhound Mix,yellow,short,medium,yes,yes
+143,Kira,3.17,female,Unknown Mix,striped,short,medium,yes,yes
+144,Petervasasrai Ralf,0.25,male,Unknown Mix,brown,short,medium,no,yes
+145,Nemesbikki Pandora,4.08,female,Bull Terrier Mix,striped,short,small,no,yes
+146,Szegedi Galagonya,0.92,male,Greyhound Mix,white,short,medium,yes,
+147,Greta,0.67,female,Unknown Mix,black,short,small,,
+148,Csengersimai Zumba,0.5,male,Greyhound Mix,black and white,short,medium,yes,yes
+149,Kormi,6.5,male,Unknown Mix,black,short,medium,yes,
+150,Bony,1.08,male,Unknown Mix,gray and black,wirehaired,large,no,
+151,Igor,3.08,male,Border Collie Mix,black and white,medium,medium,,no
+152,Jeremy,5.08,male,Unknown Mix,apricot,short,small,,
+153,Pulcsi,11.08,female,Puli Mix,black,long,medium,yes,yes
+154,Daniel,0.67,male,Unknown Mix,black and brown,medium,small,,yes
+155,Miskolci Abel,9.08,male,Unknown Mix,yellow-brown,long,medium,yes,no
+156,Monori Lucia,6.25,female,Unknown Mix,black and white,short,small,yes,yes
+157,Kinga,1.17,female,Terrier Mix,black and brown,wirehaired,medium,,yes
+158,Ocsai Pici,12.08,male,Unknown Mix,gray and black,wirehaired,medium,no,yes
+159,Gufi,0.67,male,Unknown Mix,black,short,small,,
+160,Lamoborgini,1.08,male,Unknown Mix,black and white,long,medium,,
+161,Beki,7.17,female,Labrador Retriever,yellow,short,large,,
+162,Kaposvari Remeny,0.58,male,Greyhound Mix,striped,short,medium,yes,yes
+163,Zsomi,5.17,male,"Golden Retriever, Labrador Retriever Mix",yellow,short,large,,
+164,Kaposvari Szikra,0.58,male,Greyhound Mix,striped,short,medium,yes,yes
+165,Jessie,1.17,female,Unknown Mix,brown and white,short,medium,yes,
+166,Sally,7.17,female,Golden Retriever,golden,medium,large,,
+167,Kakucsi Hazel,0.25,female,"German Shepherd Dog, Staffordshire Terrier Mix",yellow-brown,short,medium,no,yes
+168,Babi,1.17,female,Unknown Mix,apricot,short,medium,yes,
+169,Bruno,3.17,male,Labrador Retriever,yellow,short,large,,
+170,Ewoki,3.0,female,Unknown Mix,black and white,long,small,,
+171,Kunhegyesi Ficko,1.5,male,Unknown Mix,gray,wirehaired,medium,yes,yes
+172,Bodza,1.17,female,Labrador Retriever,yellow,short,medium,,
+173,,4.08,male,Unknown Mix,striped,short,large,no,
+174,Satoraljaujhelyi Parazs,1.08,male,German Shepherd Dog Mix,brown,short,medium,yes,yes
+175,Dzsidzso,3.67,male,Staffordshire Terrier Mix,brown and white,short,medium,no,
+176,Boy,1.17,male,Unknown Mix,black and brown,short,medium,,
+177,Colin,0.92,male,Border Collie Mix,black and white,medium,medium,yes,yes
+178,Poppy,0.5,female,"Dachshund, Spaniel Mix",brown and white,medium,small,,
+179,Rapi,10.42,male,Unknown Mix,black and white,short,medium,no,
+180,Rizi,11.17,female,Labrador Retriever,yellow,short,large,,
+181,Berci,6.25,male,Unknown Mix,tricolor,short,medium,yes,
+182,Ocsai Lajka,1.0,male,Labrador Retriever Mix,yellow-brown,short,medium,yes,yes
+183,Maxi,4.17,male,Golden Retriever,golden,medium,large,,
+184,Hummer,3.17,male,Labrador Retriever,yellow,short,large,,
+185,Kleo,0.5,female,Unknown Mix,black,medium,medium,yes,yes
+186,Mefi,13.17,female,Labrador Retriever,black,short,large,,
+187,Joker,4.58,male,Unknown Mix,brown,wirehaired,medium,,
+188,Sayla,1.25,female,Spaniel Mix,black and brown,medium,small,,
+189,Sarika,1.25,female,Chinese Shar-Pei Mix,brown,wirehaired,medium,,
+190,Ficko,11.17,male,Labrador Retriever,yellow,short,large,,
+191,Tristan,0.42,male,Unknown Mix,gray and white,short,medium,,
+192,Berci,12.17,male,Labrador Retriever,yellow,short,large,,
+193,Lucky,12.17,male,Labrador Retriever,black,short,large,,yes
+194,Janek,1.25,male,Dachshund Mix,black,short,small,,
+195,Boni,11.17,male,Golden Retriever,golden,short,large,,
+196,Gray,6.17,male,Labrador Retriever,yellow,short,large,,
+197,Bubuka,6.17,male,Labrador Retriever,black,short,large,yes,
+198,Beni,11.17,male,Labrador Retriever,yellow,short,large,,
+199,Erl,8.17,male,Labrador Retriever,yellow,short,large,,
+200,Talia,1.58,female,Pinscher Mix,apricot,short,small,,
+201,Amarillys,0.67,male,German Shepherd Dog Mix,black and brown,short,medium,,
+202,Latte,0.25,female,Unknown Mix,black,medium,medium,,
+203,Ronaldo,0.33,male,Unknown Mix,apricot,short,medium,,
+204,Emmi,0.92,female,Unknown Mix,black and brown,short,small,,
+205,Ramona,0.33,female,Unknown Mix,apricot,short,medium,,
+206,,2.17,male,Staffordshire Terrier Mix,striped,short,medium,no,
+207,Kyoko,1.25,male,Akita Mix,striped,medium,large,,yes
+208,Hunor,1.25,male,Unknown Mix,brown and white,short,medium,,
+209,Kaposvari Romeo,0.33,male,Greyhound Mix,striped,short,medium,,yes
+210,Kaposvari Julia,0.33,female,Greyhound Mix,striped,short,medium,,yes
+211,Elsa,2.33,female,Unknown Mix,brown,short,medium,yes,
+212,Jaki,11.17,male,Unknown Mix,red and white,medium,small,yes,
+213,Tonja,0.42,male,Unknown Mix,black and white,short,small,,
+214,Robi,9.17,male,German Shepherd Dog Mix,sable,medium,large,no,
+215,Melange,0.25,female,Unknown Mix,brown,medium,medium,,
+216,Andres,0.25,male,Unknown Mix,black,short,small,,
+217,Capuccino,0.25,male,Unknown Mix,black,medium,medium,,
+218,Lili,3.5,female,Unknown Mix,brown,short,large,yes,
+219,Zora,1.17,female,Unknown Mix,apricot,short,medium,,
+220,Siofoki Olivia,5.25,male,Jagd Terrier Mix,apricot,short,medium,,yes
+221,Diana,0.67,female,Unknown Mix,black and brown,medium,small,,
+222,Folti,7.33,male,Fox Terrier Mix,tricolor,wirehaired,medium,,
+223,Rozi,3.25,female,Unknown Mix,saddle back,short,large,yes,yes
+224,Pajti,6.92,male,Unknown Mix,tricolor,short,medium,no,
+225,Esztergomi Dodo,4.33,male,English Greyhound Mix,black and white,short,large,yes,
+226,Hiro,1.67,female,Fox Terrier Mix,brown and white,short,small,yes,yes
+227,Kifli,11.75,female,Golden Retriever Mix,yellow-brown,short,medium,yes,yes
+228,Foltos,5.17,male,Unknown Mix,black and white,short,medium,yes,
+229,Bambi,0.75,female,Unknown Mix,brown,short,medium,,
+230,Imrus,0.58,male,Mudi Mix,black,short,medium,,yes
+231,Lili,3.5,female,Cane Corso Mix,brown,short,large,yes,
+232,Suba,6.17,male,Unknown Mix,black,long,large,no,
+233,Elsa,2.33,female,Unknown Mix,brown,short,medium,yes,
+234,Hejobabai Gyomber,2.08,female,Poodle Mix,white,medium,small,yes,no
+235,Ujhartyani Puding,1.08,female,Staffordshire Terrier Mix,yellow-brown,short,medium,yes,yes
+236,Nagybajomi Boldizsar,5.92,male,Unknown Mix,yellow-brown,short,medium,yes,yes
+237,Pocak,0.42,male,Unknown Mix,black,short,medium,,
+238,Huba,0.5,male,Unknown Mix,brown,short,medium,,yes
+239,Gyomroi Barbi,1.5,female,Hungarian Greyhound Mix,spotty,short,medium,yes,yes
+240,Argo,2.42,male,German Dog,black,short,large,yes,yes
+241,Anna,0.42,female,Unknown Mix,black,short,medium,,
+242,Miskolci Minerva,1.67,female,German Shepherd Dog Mix,brown,short,medium,yes,yes
+243,Peter Parker,3.67,male,German Dog,black,short,large,yes,
+244,Oliver,2.33,male,Unknown Mix,apricot,short,medium,,
+245,Myles,1.0,male,Bulldog Mix,black and white,short,small,,
+246,Borzi,17.58,male,Unknown Mix,black and tan,short,small,yes,
+247,Momi,8.5,female,German Dog,gray,short,large,yes,yes
+248,Lili,3.5,female,Cane Corso Mix,brown,short,large,yes,
+249,Fitos,0.92,male,Unknown Mix,black and tan,short,medium,,yes
+250,Datolya,1.75,female,German Shepherd Dog Mix,apricot,medium,medium,yes,yes
+251,Gubanc,2.0,female,Unknown Mix,saddle back,medium,medium,yes,yes
+252,Marci Papa,12.67,male,German Pointer,brown and white,wirehaired,medium,yes,yes
+253,,10.25,male,German Shepherd Dog Mix,saddle back,medium,large,no,
+254,,1.25,male,Unknown Mix,black and tan,wirehaired,medium,no,
+255,Farsang,0.92,male,Unknown Mix,black,short,medium,,yes
+256,Miske,2.25,male,Unknown Mix,black and tan,medium,small,no,yes
+257,Vulpex,3.5,male,Unknown Mix,brown and white,short,medium,yes,yes
+258,Elias,9.92,male,Border Collie Mix,black and white,medium,medium,yes,no
+259,Oregnene,11.42,female,Unknown Mix,brown and white,medium,small,yes,yes
+260,Pinocchio,4.08,male,Unknown Mix,white,short,medium,yes,yes
+261,Tamara,5.67,female,Unknown Mix,saddle back,short,small,yes,yes
+262,Zsiraf,0.58,male,Unknown Mix,spotty,short,medium,yes,
+263,Kunhegyesi Frodo,0.92,male,"Greyhound, Labrador Retriever Mix",black,short,medium,yes,yes
+264,Tibi,10.0,male,Dachshund Mix,white,short,small,no,
+265,Todor,4.25,male,Dachshund Mix,gray and black,wirehaired,small,yes,yes
+266,Caramell,0.92,male,Unknown Mix,apricot,short,small,,
+267,Mia,1.58,female,Unknown Mix,striped,short,medium,yes,yes
+268,,2.83,male,Unknown Mix,yellow-brown,short,medium,no,
+269,Folti_,3.0,male,"Dachshund, Fox Terrier Mix",brown and white,short,small,yes,
+270,Alma,9.92,female,Unknown Mix,tricolor,short,medium,yes,yes
+271,Nagyatadi Palko,0.67,male,Greyhound Mix,black,short,small,yes,yes
+272,Kunhegyesi Zserbo,3.33,female,Dachshund Mix,brown,short,small,yes,yes
+273,Dugo,9.17,male,Pinscher Mix,tricolor,short,small,yes,yes
+274,Selli,8.42,female,Labrador Retriever Mix,black,short,large,yes,yes
+275,Bobo,4.17,male,Unknown Mix,black,short,medium,yes,yes
+276,Mano,5.75,female,Chihuahua Mix,tricolor,short,small,yes,yes
+277,Fules,7.25,female,Unknown Mix,golden,short,medium,yes,yes
+278,Suba,2.17,male,"Chinese Shar-Pei, Dachshund, Fox Terrier Mix",yellow-brown,wirehaired,small,,yes
+279,Dome,8.42,male,Labrador Retriever Mix,black,short,large,yes,yes
+280,Jeraldino,0.75,male,Unknown Mix,black,short,small,,
+281,Dodo,2.58,male,Unknown Mix,red,medium,medium,,yes
+282,Monk,1.83,male,Unknown Mix,black,short,medium,,
+283,Staffi,2.42,male,Staffordshire Terrier Mix,yellow-brown,short,medium,,
+284,Kiki,9.17,female,Rottweiler Mix,black and brown,short,large,yes,
+285,Kody,1.42,male,Dachshund Mix,black and brown,short,small,,
+286,Ficko,9.92,male,Dachshund Mix,black and brown,short,small,,
+287,Lili,3.5,female,Cane Corso Mix,brown,short,large,yes,
+288,Bella,1.42,female,Unknown Mix,apricot,short,small,yes,yes
+289,Kope,0.83,male,Unknown Mix,brown,medium,medium,yes,yes
+290,Melody,1.67,female,Unknown Mix,gray and black,short,large,yes,yes
+291,Niko,0.67,male,"Labrador Retriever, Poodle Mix",white,long,medium,no,yes
+292,Galadriel,1.58,female,Staffordshire Terrier Mix,brown and white,short,medium,yes,
+293,Rex,9.92,male,Unknown Mix,black and brown,medium,large,yes,yes
+294,Mirtill,2.92,female,Unknown Mix,brown and white,short,medium,yes,yes
+295,Fruzsi,1.0,female,Unknown Mix,black and brown,short,medium,yes,yes
+296,Morgo,6.5,male,Unknown Mix,black,short,medium,yes,yes
+297,Kugli,6.58,male,Unknown Mix,brown and white,short,large,no,
+298,Dabasi Baltazar,3.33,male,Komondor,white,long,large,yes,yes
+299,Soroksari Kody,2.42,male,Unknown Mix,striped,short,medium,no,yes
+300,Adonis,1.5,male,Dachshund Mix,apricot,short,small,,
+301,Dingo,1.92,male,Unknown Mix,brown,short,medium,yes,
+302,Kope,0.83,male,Unknown Mix,brown,medium,medium,yes,yes
+303,Ocsai Pamacs,2.42,male,Chinese Shar-Pei,red,short,medium,no,yes
+304,Brill,2.5,female,Unknown Mix,black and brown,short,medium,yes,
+305,Bogar,7.42,male,Unknown Mix,black,short,medium,,
+306,Delma,3.67,female,Unknown Mix,black and brown,short,medium,yes,
+307,Csutak,2.5,male,Unknown Mix,black and white,short,medium,yes,
+308,Rex,11.42,male,German Shepherd Dog Mix,sable,medium,large,no,
+309,Dome,2.58,male,Unknown Mix,striped,short,medium,yes,yes
+310,Lina,1.0,female,Unknown Mix,black and white,short,medium,,yes
+311,Emma,3.58,female,Unknown Mix,black and white,long,medium,yes,yes
+312,Blair,1.42,female,Staffordshire Terrier Mix,striped,short,medium,yes,
+313,Albertirsai Felix,2.42,male,"Pekingese, Tibetan Spaniel Mix",white,wirehaired,small,yes,yes
+314,Maci,11.42,female,Unknown Mix,gray,medium,medium,no,
+315,Porcsalmai Greti,8.08,female,Greyhound Mix,spotty,short,medium,yes,
+316,Inarcsi Mozes,4.42,male,Rottweiler Mix,black and tan,short,medium,yes,yes
+317,Sid,2.5,male,German Shepherd Dog Mix,black and tan,short,medium,yes,
+318,Pamacs,6.17,male,Unknown Mix,apricot,long,medium,yes,
+319,Nicol,1.0,female,Unknown Mix,apricot,short,medium,,
+320,Haven,1.42,female,Unknown Mix,apricot,short,small,yes,
+321,Dino,4.58,male,Unknown Mix,black and brown,short,medium,,yes
+322,Samuci,5.33,male,Dachshund Mix,black and tan,medium,small,yes,yes
+323,Thalia,3.0,female,Terrier Mix,striped,short,small,yes,yes
+324,Turkevei Gitta,2.5,female,Unknown Mix,striped,short,medium,yes,
+325,Berger,1.42,male,Unknown Mix,apricot,short,medium,,
+326,Kyd,1.33,male,Staffordshire Terrier Mix,black and white,short,medium,,
+327,Preston,0.92,male,Unknown Mix,black,medium,medium,,yes
+328,Morzsa,7.92,male,Dachshund Mix,black,medium,small,,
+329,Dunavarsanyi Domino,4.08,male,Puli Mix,black and white,wirehaired,medium,yes,yes
+330,Turkevei Zsoka,0.67,female,"Greyhound, Vizsla, Weimaraner Mix",striped,short,small,yes,
+331,Hajdusamsoni Bruno,12.58,male,Hungarian Greyhound,striped,short,medium,yes,
+332,Paris,0.92,female,Unknown Mix,gray,medium,medium,,yes
+333,Logan,2.5,male,Unknown Mix,black,short,medium,yes,
+334,Ocsai Black Jack,1.33,male,Unknown Mix,black,short,medium,yes,yes
+335,Dominika,9.5,female,Dachshund Mix,black and brown,short,small,,
+336,Hajduszoboszloi Titan,5.58,male,Greyhound Mix,striped,short,medium,yes,
+337,Zorka,1.67,female,Unknown Mix,white,short,medium,yes,yes
+338,Colin,8.5,male,Scotch Collie,tricolor,long,medium,yes,yes
+339,,3.5,male,German Shepherd Dog Mix,black,medium,medium,no,
+340,Carmen,0.83,female,Unknown Mix,black,short,medium,,yes
+341,Felsopakonyi Boxi,1.08,male,Siberian Husky Mix,gray and white,short,medium,yes,yes
+342,Zeusz,2.58,male,Unknown Mix,yellow-brown,short,medium,no,
+343,Pilla,11.17,female,Unknown Mix,black,short,medium,no,
+344,e,11.75,female,Unknown Mix,black,medium,medium,no,
+345,Arzen,11.75,female,Unknown Mix,saddle back,short,medium,yes,
+346,Kormi,2.58,male,Unknown Mix,black,short,medium,yes,yes
+347,,2.58,male,Unknown Mix,yellow-brown,short,medium,no,
+348,Adel,10.33,female,Unknown Mix,black and brown,short,small,,
+349,Borzas,2.58,male,Unknown Mix,gray,long,medium,,yes
+350,Baileys,7.92,female,Unknown Mix,black,medium,medium,yes,
+351,Csimbok,7.75,male,Puli Mix,black,long,medium,no,
+352,Paca_,9.17,male,Unknown Mix,white,wirehaired,medium,no,
+353,Abby,1.58,female,German Shepherd Dog Mix,brown,short,medium,yes,
+354,Wolfi,1.75,male,Unknown Mix,yellow-brown,medium,medium,yes,yes
+355,Rike,11.92,female,German Shepherd Dog Mix,black and brown,short,medium,yes,
+356,Tibi,3.58,male,Unknown Mix,apricot,short,medium,,yes
+357,Csengersimai Pamilla,7.58,female,Greyhound Mix,spotty,short,medium,yes,
+358,Bimbi,7.17,female,Dachshund Mix,black,short,small,yes,
+359,Alpha,1.42,male,Unknown Mix,black and tan,medium,medium,no,
+360,,1.67,male,German Shepherd Dog Mix,striped,short,medium,no,
+361,Tequila_,11.92,male,Unknown Mix,black,medium,medium,no,
+362,Erdi Bella,9.75,female,Mastiff Mix,black and white,short,large,,yes
+363,Zseton,1.67,male,"Bearded Collie, Labrador Retriever Mix",black,short,small,yes,yes
+364,,2.67,male,Unknown Mix,tricolor,short,medium,no,
+365,Yoko,1.92,male,Dachshund Mix,white,short,small,,
+366,Debreceni Finlay,4.0,male,Greyhound Mix,yellow-brown,short,medium,yes,
+367,Bolka,2.42,male,Unknown Mix,brown and white,short,medium,yes,yes
+368,Dani,3.67,male,Unknown Mix,gray,medium,medium,yes,yes
+369,Nathan,1.0,male,Unknown Mix,brown,short,medium,,
+370,Lola,1.92,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+371,Bobek,11.67,male,Labrador Retriever,black,medium,large,no,yes
+372,Lora,4.75,female,Unknown Mix,brown,short,medium,yes,yes
+373,Alex,4.67,male,German Shepherd Dog Mix,brown,short,medium,no,
+374,Csengersimai Kende,0.92,male,"Greyhound, Hungarian Greyhound Mix",brown and white,short,medium,yes,yes
+375,Nadine,5.83,female,Unknown Mix,black and brown,short,medium,,
+376,Ujhartyani Bruno,4.58,male,"Australian Shepherd, Labrador Retriever Mix",black,medium,medium,no,yes
+377,John,1.5,male,Dachshund Mix,apricot,short,small,,
+378,Borcsa,1.42,female,Unknown Mix,apricot,short,small,,
+379,Hank,1.83,male,Unknown Mix,brown and white,short,medium,,
+380,Judit,2.25,female,Unknown Mix,yellow-brown,wirehaired,large,yes,
+381,,1.75,male,Unknown Mix,black,medium,medium,no,
+382,Kolyki,1.42,female,"German Shepherd Dog, Hound Mix",black and brown,short,medium,,
+383,Ropi,13.08,male,Yorkshire Terrier,gray and white,medium,small,yes,
+384,Ilcsi,5.75,female,Unknown Mix,black and brown,medium,large,yes,
+385,Balu,2.0,male,Unknown Mix,black,short,large,,
+386,Annie,1.75,female,Unknown Mix,brown,short,medium,,yes
+387,Nyiregyhazi Beci,4.75,male,"Belgian Malinois, German Shepherd Dog Mix",yellow-brown,short,medium,yes,yes
+388,Babi,1.08,female,Unknown Mix,black and brown,short,medium,,
+389,Nyurga,2.42,male,Unknown Mix,yellow-brown,wirehaired,medium,yes,
+390,Penny,1.75,female,Dachshund Mix,brown and white,short,small,yes,
+391,Kolyki,1.42,male,Unknown Mix,black and brown,short,medium,no,
+392,Chop,5.08,male,Unknown Mix,brown,medium,large,yes,yes
+393,Robert,3.75,male,Unknown Mix,apricot,short,small,,
+394,Paco,1.75,male,Dachshund Mix,brown and white,short,small,yes,
+395,Blacky,8.92,female,Unknown Mix,black,short,medium,yes,yes
+396,Ors,7.08,male,Puli Mix,black,long,medium,yes,yes
+397,Ursula Temperamentumos,8.83,female,Terrier Mix,gray and black,short,small,yes,
+398,Stoppos,6.0,male,Unknown Mix,black,short,medium,,
+399,Karo,7.08,male,Unknown Mix,gray,wirehaired,medium,yes,
+400,Panka,3.92,female,English Cocker Spaniel Mix,golden,long,medium,yes,
+401,Malvin,9.25,male,Vizsla Mix,golden,short,medium,yes,
+402,Romana,4.08,female,Terrier Mix,black and tan,wirehaired,medium,yes,
+403,Simi,3.25,female,English Cocker Spaniel Mix,golden,long,medium,yes,
+404,Dennis,1.75,male,Unknown Mix,black,short,medium,,
+405,Ocsi,5.33,male,Terrier Mix,gray,wirehaired,medium,yes,
+406,Pancho,4.0,male,English Cocker Spaniel Mix,saddle back,long,large,yes,
+407,Smart,9.92,male,"English Cocker Spaniel, Labrador Retriever Mix",black,short,medium,yes,
+408,Sly,4.25,male,English Cocker Spaniel Mix,golden,long,large,yes,
+409,Miss Siss,4.0,female,English Cocker Spaniel Mix,black and tan,long,medium,yes,
+410,Roka,4.92,male,"English Cocker Spaniel, Terrier Mix",golden,long,medium,yes,
+411,Tirion,8.5,male,"Dachshund, English Cocker Spaniel Mix",black and white,long,medium,yes,
+412,Sarolt,4.42,female,Labrador Retriever Mix,black,short,medium,yes,
+413,Sally,4.92,female,Unknown Mix,gray,short,small,yes,yes
+414,Teddy,2.58,male,English Cocker Spaniel,red and white,long,medium,yes,
+415,Huba,2.25,male,Unknown Mix,striped,wirehaired,medium,yes,yes
+416,Sancho,3.58,male,English Cocker Spaniel Mix,saddle back,long,medium,yes,
+417,Bonnie,1.75,female,Unknown Mix,black and white,short,medium,yes,
+418,Sunny,9.58,female,English Cocker Spaniel,golden,long,medium,yes,
+419,Lizi,4.92,female,"Golden Retriever, Terrier Mix",apricot,short,medium,yes,
+420,Dexter,5.92,male,English Cocker Spaniel Mix,black,long,medium,yes,
+421,Kimi,7.25,male,English Cocker Spaniel Mix,black,long,large,yes,
+422,Jeno,4.92,male,"Rottweiler, Transylvanian Hound Mix",black and tan,short,medium,yes,
+423,Jacint,4.5,male,"English Cocker Spaniel, Vizsla Mix",black,short,medium,yes,
+424,Ginger,7.58,female,Unknown Mix,apricot,long,medium,yes,
+425,Kiki,11.08,female,Unknown Mix,black,long,large,yes,
+426,Lancelot,7.25,male,English Cocker Spaniel,golden,long,medium,yes,
+427,Jason,5.5,male,English Cocker Spaniel Mix,black and tan,long,medium,yes,
+428,Jep,6.67,male,English Cocker Spaniel,golden,long,medium,yes,
+429,Dundika,4.33,female,"English Cocker Spaniel, Spitz Mix",black,long,small,yes,
+430,Jedi,6.92,male,English Cocker Spaniel,golden,long,medium,yes,
+431,Elton,8.25,male,English Cocker Spaniel,golden,long,medium,yes,
+432,Change,4.33,male,Puli Mix,black,long,medium,yes,
+433,Dezso,3.0,male,Unknown Mix,black,long,medium,yes,
+434,Challenge,4.33,male,Unknown Mix,brown,long,medium,yes,
+435,Dedi,4.75,male,"Dachshund, English Cocker Spaniel Mix",saddle back,long,small,yes,
+436,Ginnie,5.92,female,"English Cocker Spaniel, Spitz Mix",apricot,long,medium,yes,
+437,Brain,4.0,male,Border Collie Mix,brown and white,long,medium,yes,
+438,Derrick,11.58,male,English Cocker Spaniel,golden,long,medium,yes,
+439,Gyemant,8.33,male,Unknown Mix,black,long,small,yes,
+440,Bambus,4.83,male,Staffordshire Terrier Mix,brown and white,short,medium,,
+441,Axa,2.25,female,"Akita, Boxer Mix",dotted,short,large,yes,
+442,Ole,1.75,male,Unknown Mix,apricot,short,medium,,
+443,Smart,1.0,male,Unknown Mix,white,short,small,,
+444,Kiki,9.17,female,Rottweiler Mix,black and brown,short,medium,yes,yes
+445,,1.83,female,Unknown Mix,black,short,medium,no,
+446,Artur,6.25,male,Unknown Mix,black and brown,short,medium,yes,
+447,Porc,4.67,male,Dachshund,black and tan,short,small,yes,yes
+448,Beno,11.17,male,English Cocker Spaniel,golden,long,medium,yes,
+449,Daisy,6.83,female,Bolognese Mix,white,long,small,yes,no
+450,Bodza,7.67,female,English Cocker Spaniel,golden,long,small,yes,
+451,Anubis,3.33,female,Akita Mix,white,long,medium,yes,
+452,Amor,9.25,male,English Cocker Spaniel,golden,long,medium,yes,
+453,Aldo,2.75,male,"Akita, Labrador Retriever Mix",dotted,medium,large,yes,
+454,Bogyi,1.83,male,Unknown Mix,brown and white,short,small,yes,yes
+455,Rex,9.92,male,Vizsla Mix,brown,short,medium,,yes
+456,Arnold,2.25,male,"Akita, Boxer Mix",striped,short,large,yes,
+457,Maci,7.83,male,Labrador Retriever Mix,black,short,large,yes,yes
+458,Torpi,2.25,male,"German Shepherd Dog, Greyhound Mix",black and tan,short,medium,yes,yes
+459,Mariah,8.92,female,Unknown Mix,brown,short,medium,yes,
+460,Bento,8.92,male,Chihuahua Mix,yellow-brown,short,small,no,
+461,Tina,2.0,female,Unknown Mix,black,short,medium,yes,yes
+462,Ribizli,3.92,female,Dachshund Mix,black and brown,short,medium,yes,
+463,Cleo,7.08,female,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+464,Nina,5.17,female,Akita,brown and white,medium,large,yes,yes
+465,Fusti,8.42,male,"German Shepherd Dog, Siberian Husky Mix",tricolor,medium,medium,yes,yes
+466,Pogi,1.92,female,Unknown Mix,apricot,short,large,yes,yes
+467,Hera&Amp,1.92,male,Unknown Mix,black and tan,short,medium,,
+468,Scooby,1.08,male,Unknown Mix,yellow-brown,short,small,,yes
+469,Malna,1.67,female,Staffordshire Terrier Mix,apricot,short,medium,yes,
+470,Nero,12.92,male,German Shepherd Dog Mix,black and brown,short,medium,,
+471,Nina,3.42,female,Unknown Mix,brown and white,short,medium,yes,
+472,Cezar,4.0,male,Unknown Mix,brown,medium,small,yes,
+473,Gotti,1.0,male,Schnauzer Mix,black,wirehaired,medium,yes,yes
+474,Johnny,6.67,male,"Caucasian Ovtcharka, German Shepherd Dog Mix",brown,short,large,yes,yes
+475,Furge,2.17,male,Greyhound Mix,black and brown,medium,medium,yes,
+476,Alfonzina,2.0,female,Chinese Shar-Pei Mix,apricot,short,medium,yes,
+477,Erdi Bella,5.67,female,"Dachshund, Labrador Retriever Mix",black,short,medium,,yes
+478,Boromir,2.5,male,Chinese Shar-Pei Mix,apricot,short,medium,,
+479,Simon,1.5,male,Unknown Mix,saddle back,short,medium,yes,
+480,Ali,4.92,male,Bull Terrier Mix,apricot,short,medium,yes,
+481,Sanyi,1.58,male,Unknown Mix,black and white,short,medium,,
+482,Misa,9.0,male,Unknown Mix,black and white,short,medium,yes,
+483,Hera,2.17,female,Staffordshire Terrier Mix,striped,short,medium,yes,
+484,Berci,7.83,male,Unknown Mix,yellow-brown,short,medium,no,
+485,Ali,4.92,male,Bull Terrier Mix,apricot,short,medium,yes,
+486,Orsi,2.08,female,Unknown Mix,brown and white,short,medium,yes,yes
+487,Bosco,2.67,male,Unknown Mix,apricot,short,medium,yes,
+488,Robin,9.5,male,Beagle Mix,saddle back,short,small,yes,yes
+489,Ninuska,3.5,female,Unknown Mix,apricot,short,medium,yes,
+490,Regi,3.08,female,Unknown Mix,black,wirehaired,large,,
+491,Bosco,2.67,male,Unknown Mix,apricot,short,medium,yes,
+492,Ocsai Adolf,7.5,male,American Bulldog Mix,white,short,medium,yes,yes
+493,Domper,3.58,male,French Bulldog,black and white,short,small,yes,no
+494,Ninuska,3.58,female,Unknown Mix,apricot,short,medium,yes,
+495,Soroksari Csicsi,4.0,female,German Shepherd Dog Mix,saddle back,short,medium,yes,yes
+496,Mezokovacshazi Dama,1.33,female,"Fox Terrier, Staffordshire Terrier Mix",black,short,medium,yes,yes
+497,,2.5,male,Unknown Mix,black,short,medium,no,
+498,Mezokovacshazi Hilda,1.33,female,"Fox Terrier, Staffordshire Terrier Mix",black,short,medium,yes,yes
+499,Marcipan,2.5,male,Unknown Mix,apricot,short,medium,,
+500,Morzsi,9.58,male,Dachshund Mix,yellow-brown,short,small,no,
+501,Zsemle,13.5,male,Dachshund Mix,yellow-brown,short,small,no,
+502,Jazz,1.5,female,Dachshund Mix,black and white,short,small,yes,yes
+503,Teo,5.33,male,Unknown Mix,yellow,short,medium,yes,yes
+504,Izmenyi Nelly,3.25,female,Greyhound,black and white,short,medium,yes,
+505,Bobi,3.75,male,Schnauzer Mix,black,medium,medium,yes,yes
+506,Szofi,5.83,female,Unknown Mix,black and brown,short,medium,yes,yes
+507,Bizsu,2.92,female,Unknown Mix,yellow-brown,short,small,yes,
+508,Henrik,5.5,male,German Dog,black and white,short,large,,
+509,Obudai Lori,2.25,male,German Shepherd Dog Mix,striped,short,medium,yes,yes
+510,Zizi,2.75,female,Dachshund Mix,brown,short,small,yes,yes
+511,Indy,1.33,male,Unknown Mix,black,short,small,yes,yes
+512,Tanya,2.92,female,German Shepherd Dog Mix,saddle back,short,large,yes,
+513,Borka,4.67,female,German Shepherd Dog Mix,sable,short,medium,yes,yes
+514,Demon,9.17,male,"German Shepherd Dog, Transylvanian Hound Mix",black and brown,short,medium,no,yes
+515,Kulonc,2.5,female,Schnauzer Mix,black,short,medium,yes,
+516,Netty,5.25,female,German Shepherd Dog Mix,brown,medium,medium,yes,
+517,Rozsa,2.17,female,Unknown Mix,black and tan,short,medium,yes,
+518,Bolka,2.67,male,Unknown Mix,yellow-brown,medium,small,no,
+519,Pici,3.25,female,Unknown Mix,black and tan,short,medium,,
+520,Tappancs,7.92,male,Dachshund Mix,black and tan,short,small,no,yes
+521,Lea,5.5,female,Staffordshire Terrier Mix,striped,short,large,yes,no
+522,Ari,2.25,female,Unknown Mix,yellow-brown,short,small,yes,
+523,Kutyus,14.33,male,Unknown Mix,gray and black,wirehaired,medium,no,
+524,Bogancs,5.75,male,Puli,black,long,medium,yes,
+525,Orsi,2.0,female,Unknown Mix,striped,short,medium,yes,
+526,Casper,2.17,male,Unknown Mix,yellow,short,medium,yes,yes
+527,Pisze,10.25,male,Unknown Mix,black and brown,short,medium,no,
+528,Vitez,3.75,male,Puli,black,medium,medium,no,
+529,Matyi,3.92,male,Unknown Mix,tricolor,short,medium,no,
+530,Topi,2.67,male,Unknown Mix,brown,short,small,no,
+531,Oszi,2.0,male,Unknown Mix,yellow-brown,short,medium,no,
+532,Valdo,2.67,male,Puli Mix,white,medium,small,yes,
+533,Erno,2.25,male,Unknown Mix,gray,short,medium,no,yes
+534,Tiki,4.5,male,Schnauzer Mix,black,medium,medium,yes,no
+535,Guluke,13.0,male,Unknown Mix,black,medium,medium,no,
+536,Taki,4.5,male,Schnauzer Mix,black,medium,medium,yes,yes
+537,Dante,3.83,male,Staffordshire Terrier Mix,striped,short,medium,yes,
+538,,8.33,male,Unknown Mix,brown and white,short,medium,no,
+539,Fulop,8.25,male,Unknown Mix,black,short,medium,no,
+540,Dongo,8.33,male,Unknown Mix,black and tan,short,medium,no,
+541,Toll,11.42,male,"Puli, Pumi Mix",gray,medium,medium,yes,
+542,Pacha,6.25,male,Unknown Mix,black and white,short,medium,no,
+543,Lucky.,5.42,female,Unknown Mix,yellow,short,small,yes,yes
+544,Ninuska,3.58,female,Bull Terrier Mix,apricot,short,medium,yes,
+545,Logan,5.33,male,Unknown Mix,yellow,short,medium,yes,yes
+546,Saci,8.75,female,Dachshund Mix,brown,short,small,yes,yes
+547,,5.83,male,Unknown Mix,black and white,short,medium,no,
+548,Oliver,3.5,male,Unknown Mix,black and brown,short,small,yes,yes
+549,Gina,12.42,female,Unknown Mix,black and brown,short,medium,yes,yes
+550,Zeusz,11.33,male,Unknown Mix,black and brown,short,large,no,
+551,Reka,4.42,female,Unknown Mix,gray and white,short,small,yes,yes
+552,Paca_,10.83,male,Unknown Mix,sable,short,medium,no,
+553,Pumba,5.33,male,Central Asian Ovtcharka Mix,yellow-brown,short,large,yes,yes
+554,,2.33,male,Unknown Mix,black,medium,medium,no,
+555,Alfred,6.5,male,Mastiff Mix,yellow,short,large,yes,no
+556,Fules,11.42,female,"Puli, Pumi Mix",gray,medium,medium,yes,yes
+557,,6.33,male,Unknown Mix,black and brown,medium,large,no,
+558,Joy,1.5,female,Dachshund Mix,brown,short,medium,yes,yes
+559,Ozike,5.17,female,Unknown Mix,gray and black,short,large,yes,yes
+560,Panni,8.42,male,Schnauzer Mix,gray and black,wirehaired,medium,yes,
+561,Csipike,3.58,female,Pinscher,black and tan,short,small,,
+562,Siriusb,6.67,male,German Shepherd Dog,black and tan,medium,medium,yes,
+563,Stewie,6.75,male,Staffordshire Terrier Mix,brown and white,short,medium,yes,
+564,Gombi,9.5,male,Unknown Mix,brown,short,large,yes,
+565,Wilbur,11.5,male,Unknown Mix,black and brown,medium,medium,,
+566,Kormika,5.0,female,Unknown Mix,black,medium,small,yes,yes
+567,Noel,3.42,male,Unknown Mix,brown,wirehaired,medium,,
+568,Ficanka,1.58,female,Unknown Mix,black,short,medium,,
+569,Sion,2.08,male,Unknown Mix,apricot,short,medium,yes,
+570,Rocco,5.17,male,Rottweiler Mix,black and brown,short,medium,,
+571,Molly,8.58,female,"Hungarian Vizsla, Labrador Retriever Mix",apricot,medium,medium,yes,yes
+572,Athos,2.33,male,"Chinese Shar-Pei, Staffordshire Terrier Mix",apricot,short,medium,yes,
+573,Debreceni Bosco,2.5,male,Unknown Mix,striped,short,medium,yes,yes
+574,Umas,1.83,male,Akita Mix,apricot,short,large,yes,
+575,Porthos,3.17,male,"Chinese Shar-Pei, Staffordshire Terrier Mix",apricot,short,medium,yes,
+576,,2.42,female,Unknown Mix,yellow-brown,short,medium,yes,
+577,Tomi,10.17,male,Rottweiler Mix,black and brown,short,medium,yes,
+578,Ihar,4.5,male,Mudi,black,medium,medium,yes,
+579,Mona,2.42,female,Unknown Mix,yellow-brown,short,medium,,
+580,Mogyoro,2.58,male,Unknown Mix,red,short,medium,no,yes
+581,Chaplin,6.67,male,Belgian Malinois,striped,short,large,yes,
+582,Lay,2.33,male,Unknown Mix,apricot,short,medium,yes,
+583,P.Petra,4.75,female,German Pointer Mix,brown and white,medium,medium,yes,yes
+584,Mia,3.58,female,Unknown Mix,red and white,short,medium,yes,
+585,Robi,3.33,male,Unknown Mix,sable,wirehaired,medium,no,yes
+586,Betyar,7.08,male,Komondor,white,long,large,no,yes
+587,Roni,2.5,male,Unknown Mix,sable,medium,large,yes,
+588,Berci,3.08,male,Unknown Mix,white,short,medium,no,
+589,Kisteleki Ubi,2.67,male,Greyhound Mix,striped,short,medium,yes,yes
+590,Bob,4.5,male,Puli,black,medium,medium,yes,
+591,Maci/Borisz,3.5,male,Unknown Mix,sable,medium,large,yes,
+592,Monthy,3.0,male,Terrier Mix,black and white,medium,small,yes,yes
+593,Macaron,2.42,male,Staffordshire Terrier Mix,apricot,short,medium,yes,
+594,Demon,3.08,male,Unknown Mix,black,short,medium,,
+595,Nash,1.92,male,Unknown Mix,brown,short,medium,,yes
+596,Rachel,3.58,female,Dachshund Mix,apricot,short,small,yes,
+597,Mancs,13.58,male,Chow Chow Mix,black,medium,medium,,yes
+598,Leila,3.67,female,Unknown Mix,brown and white,short,medium,yes,
+599,Miskolci Pindi,4.58,male,"Azawakh, Hungarian Greyhound Mix",striped,short,medium,yes,
+600,River,5.75,male,"Alaskan Malamute, Caucasian Ovtcharka, German Shepherd Dog Mix",gray and black,medium,large,yes,yes
+601,Mickey,2.58,male,Unknown Mix,spotty,short,small,yes,
+602,Sajo,2.58,male,Unknown Mix,brown and white,short,medium,,
+603,Hippi,4.0,female,Unknown Mix,brown,short,medium,yes,
+604,Mali,5.75,male,Belgian Malinois Mix,saddle back,medium,medium,yes,
+605,Sajo,8.42,female,"Kuvasz, Pumi Mix",white,long,medium,yes,
+606,Sasha,2.83,male,Unknown Mix,brown and white,short,medium,yes,
+607,Levedia,2.5,female,Unknown Mix,gray,short,medium,yes,
+608,Imola,2.83,female,Vizsla Mix,black,short,medium,yes,
+609,Happy,2.25,female,Unknown Mix,black and brown,wirehaired,medium,,
+610,Gizmo,2.17,male,Unknown Mix,black and brown,wirehaired,medium,yes,
+611,,3.92,male,Unknown Mix,brown and white,short,large,no,
+612,Szonja,11.92,female,Dachshund Mix,tricolor,short,small,yes,
+613,Kunhegyesi Lola,2.17,female,"Schnauzer, Terrier Mix",black and white,short,medium,,yes
+614,Effi,2.92,female,Unknown Mix,black and brown,short,medium,yes,
+615,Aga,11.92,male,Mudi,black,medium,medium,yes,yes
+616,Irisz,3.25,female,Unknown Mix,black and white,medium,medium,,
+617,Venezia,9.75,female,German Shepherd Dog,black and brown,short,medium,yes,
+618,Jolly,3.75,female,Unknown Mix,white,short,medium,yes,
+619,Gomboc,2.17,female,Unknown Mix,black,medium,medium,,yes
+620,Foltos,5.0,male,"Beagle, Dachshund Mix",brown and white,short,medium,,
+621,Pici,3.17,male,Unknown Mix,gray and black,medium,medium,yes,
+622,Komi,2.67,male,Vizsla Mix,black,short,large,yes,yes
+623,Kisujszallasi Simi,2.58,female,"Greyhound, Labrador Retriever Mix",apricot,short,large,yes,yes
+624,Kantor,9.17,male,Unknown Mix,sable,short,medium,yes,
+625,Jamie,5.42,male,Unknown Mix,black,short,medium,yes,
+626,Tucsi,7.75,female,German Shepherd Dog Mix,yellow-brown,short,medium,yes,yes
+627,Suti,5.83,male,German Dog Mix,apricot,short,large,,
+628,Mocsok,4.25,male,Unknown Mix,brown,short,medium,yes,
+629,Hugo,2.67,male,Unknown Mix,black and white,short,medium,yes,yes
+630,Kithara,13.5,female,Puli Mix,black,medium,medium,yes,
+631,Dream,5.08,male,Schnauzer Mix,black,wirehaired,small,no,no
+632,Manci,6.58,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+633,Eben,4.25,female,Unknown Mix,black,short,medium,yes,
+634,Angel,2.33,female,"Belgian Malinois, Labrador Retriever Mix",brown,short,medium,yes,yes
+635,Sheeva,3.17,female,Unknown Mix,black and white,short,medium,yes,
+636,Betti,12.0,female,Jack Russell Terrier,tricolor,short,small,yes,yes
+637,Bogi,17.0,female,Jack Russell Terrier,tricolor,short,small,,yes
+638,Baba,6.67,female,Unknown Mix,apricot,short,medium,yes,
+639,Bali,2.58,male,German Shepherd Dog Mix,brown,medium,large,,
+640,,4.33,male,Unknown Mix,black,medium,medium,yes,
+641,Kiskutyak,2.58,male,Chinese Shar-Pei Mix,black,short,medium,,yes
+642,Endre,3.33,male,Unknown Mix,brown,short,medium,,
+643,Dolly,4.33,female,"Dachshund, Jack Russell Terrier Mix",white,short,small,no,yes
+644,Nyerc,2.58,female,Belgian Sheepdog Mix,saddle back,short,medium,no,
+645,Cleo,7.08,female,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+646,,3.17,male,Unknown Mix,black and white,short,medium,yes,
+647,Picur,2.58,male,Unknown Mix,tricolor,short,medium,no,yes
+648,Egyed/Orfeusz,2.58,male,Unknown Mix,black and white,short,large,,
+649,Banzai,3.75,male,"German Shepherd Dog, Greyhound Mix",striped,short,medium,yes,yes
+650,Medard,5.83,male,Puli,gray and black,medium,medium,yes,
+651,Jonas,2.58,male,"German Shepherd Dog, Labrador Retriever Mix",black and brown,short,medium,no,yes
+652,Ordog,9.33,male,Unknown Mix,black,medium,medium,yes,
+653,,4.33,male,Unknown Mix,black,short,large,yes,
+654,Nanook,6.42,male,Unknown Mix,yellow-brown,medium,medium,,yes
+655,Amy,6.42,female,Unknown Mix,black and white,short,medium,yes,
+656,Szormok,3.75,male,Unknown Mix,black and brown,medium,small,no,
+657,Otis,8.58,male,German Shepherd Dog,black and tan,short,large,yes,yes
+658,Janka,2.58,female,"Dachshund, German Shepherd Dog, Labrador Retriever Mix",black,short,small,no,yes
+659,Vihar,7.83,male,Unknown Mix,black and white,short,large,yes,
+660,Zeusz,3.5,male,Unknown Mix,black and white,short,medium,yes,
+661,Kira,4.17,female,Unknown Mix,brown,short,large,yes,
+662,Maja,4.67,female,German Shepherd Dog Mix,black and brown,medium,medium,no,yes
+663,Domino,5.58,male,Unknown Mix,black and white,short,small,no,yes
+664,Mama,4.42,female,Dachshund Mix,black and brown,short,small,yes,yes
+665,Botond,6.67,male,Unknown Mix,apricot,short,medium,yes,
+666,Bella,3.25,female,Unknown Mix,black and white,short,medium,yes,yes
+667,Alma,3.92,female,Unknown Mix,black and brown,wirehaired,medium,yes,
+668,Baba,2.58,male,Unknown Mix,red,short,medium,no,
+669,Zizi,11.25,female,Unknown Mix,black,long,medium,,
+670,Sophie,8.67,female,German Shepherd Dog Mix,wild boar,short,large,yes,yes
+671,Brigi/Bella,2.67,female,Unknown Mix,black and white,short,medium,yes,
+672,Gyozo,7.58,male,Newfoundland Mix,black,medium,large,no,no
+673,Arany,4.17,female,Puli,black,medium,medium,yes,
+674,Gitta,7.58,female,Staffordshire Terrier Mix,brown and white,short,medium,,
+675,Sari,4.67,female,Unknown Mix,yellow-brown,medium,small,no,yes
+676,Gina,5.67,female,Unknown Mix,brown,medium,small,no,yes
+677,Lady,3.67,female,German Shepherd Dog Mix,black and brown,short,medium,no,yes
+678,Billy,3.42,male,Unknown Mix,striped,short,medium,yes,yes
+679,Mazli,2.67,male,Unknown Mix,sable,short,medium,no,
+680,Muki,3.67,male,Unknown Mix,black,short,small,yes,yes
+681,Kajla,3.67,male,Dachshund Mix,yellow-brown,short,small,no,yes
+682,Suti,5.75,male,Unknown Mix,apricot,short,large,,
+683,Robi,9.58,male,German Shepherd Dog Mix,sable,medium,large,no,
+684,Tano,10.75,male,Unknown Mix,black,short,medium,yes,
+685,Sherry,4.67,male,Unknown Mix,black and white,short,medium,no,yes
+686,Omaha,3.08,female,Unknown Mix,white,short,small,yes,
+687,Lili,4.67,female,Unknown Mix,brown,short,small,no,yes
+688,Reni,4.67,male,German Shepherd Dog Mix,black and brown,short,medium,no,
+689,Benjy,3.67,male,Unknown Mix,gray and white,medium,small,no,yes
+690,Kevin,3.67,male,Dachshund Mix,yellow,short,small,,yes
+691,Bejgli,3.75,female,Unknown Mix,black,medium,small,yes,yes
+692,Voice,3.5,male,Unknown Mix,brown and white,short,medium,yes,
+693,Andris,3.67,male,Unknown Mix,black and brown,short,medium,no,yes
+694,Bubika,3.5,female,German Shepherd Dog Mix,sable,short,medium,no,
+695,Betti,5.75,female,Unknown Mix,black and brown,short,medium,yes,
+696,Amigo,3.67,male,Unknown Mix,black and tan,short,medium,no,yes
+697,Kefir,3.67,male,Dachshund Mix,red and white,short,small,no,yes
+698,Wendy,3.0,female,Unknown Mix,black,short,medium,,
+699,Geda,4.67,male,Unknown Mix,yellow,short,medium,no,
+700,Kondas,4.83,male,Puli,black,long,medium,no,
+701,Tyson,5.5,male,Staffordshire Terrier,striped,short,medium,,yes
+702,Lehel,3.67,male,German Shepherd Dog Mix,red,medium,large,,yes
+703,Mister,3.67,male,Unknown Mix,yellow-brown,short,large,,yes
+704,Aliz,3.75,female,Vizsla Mix,brown,short,medium,yes,yes
+705,Nana,10.17,female,Kuvasz,white,medium,large,,yes
+706,Hekus,4.83,male,German Shepherd Dog Mix,black and tan,medium,large,,yes
+707,Kajla,3.83,female,Unknown Mix,red,medium,medium,,yes
+708,Erik,3.83,male,Unknown Mix,brown,long,small,,yes
+709,Alaska,5.33,female,West Highland White Terrier Mix,gray and white,long,small,,yes
+710,Maxim,3.83,male,German Shepherd Dog Mix,saddle back,medium,medium,,yes
+711,Pici,10.0,female,Unknown Mix,tricolor,short,small,yes,
+712,Barki,5.83,male,Unknown Mix,brown,short,medium,no,yes
+713,Afgan,10.83,male,Afghan Hound,apricot,long,medium,yes,yes
+714,Kerry,4.75,female,Unknown Mix,black,medium,small,yes,yes
+715,Kevin,8.17,male,Unknown Mix,white,short,medium,yes,
+716,Bajnok,6.75,male,Vizsla Mix,brown,short,medium,yes,
+717,Baily,3.17,male,Unknown Mix,yellow-brown,short,small,no,yes
+718,Viki,8.5,female,Unknown Mix,black,short,medium,yes,
+719,Vandor,11.0,male,Unknown Mix,black and brown,short,medium,,yes
+720,Astra,5.92,male,Siberian Husky,black and white,medium,medium,yes,yes
+721,Pulcsi,8.83,male,Puli,black,medium,medium,no,
+722,Pajtas,4.83,male,Vizsla Mix,yellow-brown,short,medium,yes,yes
+723,Egri Vitez,4.92,male,"Bearded Collie, Staffordshire Terrier Mix",black and white,short,medium,yes,yes
+724,Rocky,4.92,male,Unknown Mix,spotty,short,medium,no,
+725,Alma,4.92,female,Unknown Mix,black,short,medium,yes,
+726,Odon,5.17,male,Unknown Mix,brown,medium,medium,,
+727,Tacsika,4.92,male,Dachshund Mix,wild boar,short,small,no,
+728,Rotika,4.42,male,Rottweiler Mix,black and tan,short,medium,no,
+729,Leo,13.08,male,Siberian Husky,black and white,medium,medium,yes,
+730,Todor,3.92,male,Labrador Retriever Mix,black,short,large,yes,yes
+731,Szamoskeri Fanta,4.17,female,"German Shepherd Dog, Greyhound Mix",black,short,medium,yes,yes
+732,Rex,8.0,male,German Shepherd Dog Mix,black and brown,medium,large,yes,yes
+733,Gizmo,4.83,female,Pekingese Mix,black,short,small,yes,yes
+734,Romi,5.0,male,Labrador Retriever Mix,yellow-brown,short,medium,no,yes
+735,Conor,5.5,male,Unknown Mix,black,short,large,yes,yes
+736,Bibo,5.92,male,Unknown Mix,black,medium,medium,,yes
+737,Blacky,4.92,male,Labrador Retriever Mix,black,short,medium,no,
+738,Orzse,5.0,female,Unknown Mix,tricolor,short,medium,yes,
+739,Lotti,5.0,female,Staffordshire Terrier Mix,golden,short,medium,yes,
+740,Keres Emil,8.92,male,Unknown Mix,white,short,large,yes,
+741,Paul,3.5,male,Unknown Mix,black,medium,small,no,yes
+742,Lord,4.58,male,Dachshund Mix,black and white,short,small,no,
+743,Gina,6.83,female,Staffordshire Terrier Mix,brown,short,medium,yes,yes
+744,Maci/Zoe,3.25,female,Unknown Mix,brown,medium,medium,,yes
+745,Mokus,3.25,female,"Dachshund, English Cocker Spaniel, Whippet Mix",yellow-brown,medium,medium,no,
+746,,3.75,female,Unknown Mix,black,short,small,no,yes
+747,Smokey,4.0,male,Unknown Mix,black,wirehaired,medium,no,yes
+748,Bogi,3.92,female,Puli Mix,black,medium,medium,yes,
+749,Morzsa/Demon,3.17,female,Unknown Mix,black and brown,short,medium,,yes
+750,Felix,6.08,male,Puli Mix,apricot,medium,medium,yes,yes
+751,Dezso,5.08,male,Unknown Mix,yellow,short,medium,,
+752,Donna,7.58,female,Staffordshire Terrier Mix,brown,short,large,yes,yes
+753,Coyote,4.92,male,German Shepherd Dog Mix,sable,medium,large,yes,
+754,Pirinyo,9.17,female,"Chihuahua, Pinscher Mix",black and tan,short,small,,yes
+755,Kis Jani,4.08,male,Briard Mix,yellow-brown,medium,large,yes,
+756,Ferdinand,9.42,male,German Shepherd Dog Mix,tricolor,medium,medium,yes,
+757,Beno,11.83,male,Labrador Retriever Mix,black,short,large,yes,yes
+758,Lavor,8.08,female,Labrador Retriever Mix,black,short,large,yes,
+759,Rudolf,5.0,male,Unknown Mix,black,wirehaired,medium,yes,yes
+760,Rocky,11.08,male,German Shepherd Dog,black and tan,short,large,yes,
+761,Gitta,4.83,female,Unknown Mix,brown,short,small,yes,
+762,Oreo,5.67,male,Dachshund Mix,black,short,small,,yes
+763,Tirza,7.33,female,Staffordshire Terrier Mix,striped,short,medium,,
+764,Fonok,4.67,male,Unknown Mix,sable,short,large,yes,
+765,Grisella,14.0,female,German Shepherd Dog,gray,medium,large,yes,
+766,Csorba,4.67,male,Unknown Mix,gray,wirehaired,large,yes,
+767,Mojka,4.83,female,Unknown Mix,gray and white,short,medium,,
+768,Soki,5.33,male,Unknown Mix,black,short,medium,yes,
+769,Tadeus,14.75,male,Unknown Mix,black and tan,wirehaired,medium,,
+770,Mali,4.58,female,Unknown Mix,yellow-brown,short,medium,,
+771,Csubakka,4.67,male,Unknown Mix,gray,medium,large,,
+772,Bombur,8.5,male,Labrador Retriever Mix,black,short,medium,yes,
+773,Ferina,5.33,female,Unknown Mix,yellow-brown,medium,large,yes,
+774,Vicus,4.5,female,Unknown Mix,yellow-brown,short,small,,
+775,Lajka,3.42,male,Vizsla Mix,black and brown,short,medium,,yes
+776,Csiperke,3.5,female,Unknown Mix,yellow-brown,short,small,yes,
+777,Allergra,10.83,female,Staffordshire Terrier Mix,brown and white,short,medium,yes,
+778,Cintia,5.33,female,Unknown Mix,yellow-brown,short,medium,,
+779,Csutak,3.67,male,Pekingese Mix,red and white,long,small,no,yes
+780,Hera,4.58,female,Staffordshire Terrier Mix,brown,short,medium,yes,yes
+781,Juli,4.92,female,Unknown Mix,brown,wirehaired,large,,yes
+782,Onkentes,10.92,male,German Shepherd Dog Mix,black and brown,medium,large,yes,
+783,Jimmy,4.42,male,Unknown Mix,apricot,short,medium,yes,
+784,Fulop,4.08,male,Schnauzer Mix,black,medium,small,,
+785,Lex,7.83,male,Unknown Mix,yellow-brown,short,large,,
+786,Semyr,3.92,male,Belgian Malinois Mix,saddle back,short,medium,no,
+787,Perecesi Gazdikereso,3.92,female,Unknown Mix,black,medium,medium,no,yes
+788,Chris,3.58,male,Staffordshire Terrier Mix,black and tan,short,medium,yes,yes
+789,Butyok,5.42,female,"Puli, Pumi Mix",black,medium,medium,yes,
+790,Gombi,11.83,male,German Shepherd Dog Mix,black and tan,short,medium,yes,yes
+791,Lime,13.5,female,English Cocker Spaniel,black,medium,medium,yes,
+792,Cibil,4.42,female,Unknown Mix,brown and white,short,medium,yes,
+793,Liza,4.33,female,Rottweiler Mix,black and tan,short,medium,,
+794,Nike,4.42,female,Unknown Mix,black and tan,short,medium,,yes
+795,Dagi,5.83,male,"Dachshund, Terrier Mix",black and brown,medium,small,,yes
+796,Mona,5.5,female,Dachshund Mix,striped,short,small,yes,
+797,Rupert,3.83,male,Pumi Mix,black,medium,medium,no,yes
+798,Toffife,4.33,male,Unknown Mix,black and brown,short,small,yes,
+799,Hobo,5.83,male,Giant Schnauzer,black,medium,large,,yes
+800,Befogadott Kutya Gazdat Keres,7.5,male,"Dachshund, Labrador Retriever Mix",brown and white,short,medium,no,
+801,Saci,9.5,female,"Schnauzer, Spaniel Mix",black,medium,medium,yes,
+802,Fancsi,4.58,female,Staffordshire Terrier Mix,black and white,short,medium,yes,yes
+803,Lucy,9.08,female,Unknown Mix,black and white,short,medium,yes,yes
+804,Hendo,11.58,male,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+805,Laki,5.92,male,Unknown Mix,black,short,large,yes,yes
+806,Gombi,11.75,male,Unknown Mix,gray,wirehaired,medium,no,yes
+807,Ledi,6.75,female,Unknown Mix,black,short,medium,no,yes
+808,Ivett,8.08,female,Cane Corso,black,short,large,yes,no
+809,Szentgotthardi Rex,7.5,male,"Belgian Malinois, Greyhound Mix",yellow,short,medium,yes,yes
+810,Eddy,10.42,male,Unknown Mix,black and brown,short,large,no,no
+811,Kormi,9.67,male,Unknown Mix,black and brown,wirehaired,medium,no,yes
+812,Uj Gazdat Keres,9.5,female,Havanese,black and white,medium,small,,
+813,Dorren,12.75,male,Unknown Mix,gray,wirehaired,medium,yes,yes
+814,Pita I.,3.83,female,Unknown Mix,tricolor,short,medium,,yes
+815,Kolos,4.58,male,Unknown Mix,black,wirehaired,medium,yes,yes
+816,Hudini,5.33,male,Unknown Mix,black,short,medium,yes,yes
+817,Jily,7.5,female,Unknown Mix,black,wirehaired,large,yes,yes
+818,Kicsi,4.5,female,Unknown Mix,brown,short,small,yes,yes
+819,Gizi,5.25,female,Vizsla Mix,brown,short,medium,no,yes
+820,Camy,10.42,male,Staffordshire Terrier,black,short,medium,yes,yes
+821,Borzos,11.83,male,Old German Shepherd,black and brown,medium,large,no,no
+822,Bundas,6.58,female,Unknown Mix,black and brown,medium,medium,yes,
+823,Belgak,8.58,male,Belgian Sheepdog Mix,black and brown,medium,medium,,
+824,Becky,5.92,female,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+825,Bodri,6.58,male,Puli,gray,long,medium,,
+826,Betyar,8.75,male,Unknown Mix,brown,short,medium,no,no
+827,Lennox,4.5,male,Unknown Mix,brown and white,medium,medium,yes,yes
+828,Dalton,5.75,male,Unknown Mix,striped,short,medium,no,yes
+829,Lati,7.58,male,Unknown Mix,sable,short,medium,no,
+830,Buksi,11.67,male,Setter Mix,black,medium,medium,no,yes
+831,Greg,6.5,male,Unknown Mix,brown and white,short,medium,yes,yes
+832,Bobi,9.58,male,Unknown Mix,gray,short,medium,yes,yes
+833,Marcus,4.5,male,Unknown Mix,black and brown,short,medium,yes,yes
+834,Buena,4.58,female,Unknown Mix,black and brown,short,large,no,yes
+835,Boxi,4.67,male,Unknown Mix,brown,short,large,no,yes
+836,Beka,4.42,female,Unknown Mix,black,short,medium,no,yes
+837,Brissi,4.75,female,Unknown Mix,black,short,small,yes,yes
+838,Jose,5.58,male,Unknown Mix,brown and white,short,medium,yes,
+839,Bald,4.75,male,Unknown Mix,brown,short,small,no,yes
+840,Mazsi,12.92,female,Labrador Retriever Mix,black,short,medium,yes,
+841,Szami,10.92,female,Unknown Mix,black,short,medium,yes,
+842,Linda,11.92,female,Unknown Mix,black,short,medium,yes,
+843,Janka,8.5,female,Unknown Mix,black,short,medium,yes,
+844,Tucsok,12.92,female,Dachshund Mix,black and tan,short,small,yes,
+845,Huncutka,12.92,female,German Shepherd Dog Mix,black and tan,short,medium,yes,
+846,Artur,12.92,male,Unknown Mix,gray and white,wirehaired,medium,no,
+847,Lady,14.92,female,Unknown Mix,yellow-brown,short,medium,yes,
+848,Bodrog,12.92,male,Unknown Mix,yellow-brown,wirehaired,medium,no,
+849,Bobi,7.83,male,German Shepherd Dog Mix,sable,medium,large,no,
+850,Gigi,13.92,female,Pointer Mix,dotted,short,medium,yes,
+851,Rexi,6.58,male,Unknown Mix,sable,short,medium,no,yes
+852,Johnny,6.75,male,Unknown Mix,saddle back,short,large,yes,yes
+853,Bea,9.33,female,German Shepherd Dog Mix,sable,short,large,yes,
+854,Homar,6.58,male,Unknown Mix,black,short,medium,,yes
+855,Tancos,5.0,male,Unknown Mix,yellow-brown,short,medium,yes,
+856,Frenki,11.92,male,Labrador Retriever Mix,yellow-brown,short,large,no,
+857,Lui,10.92,male,Unknown Mix,black,short,small,no,
+858,Suti,7.58,male,Beagle,tricolor,short,medium,no,yes
+859,Hajni,11.92,female,Unknown Mix,black,wirehaired,medium,yes,
+860,Baltazar,6.42,male,Pumi Mix,black,short,medium,,yes
+861,Bogyo,4.92,female,Dachshund Mix,brown,short,small,yes,
+862,Torma,10.92,male,Unknown Mix,black and tan,wirehaired,small,no,
+863,Csopi,19.92,female,Unknown Mix,saddle back,short,medium,no,
+864,Sajovamosi  Gazdikereso,4.67,male,Unknown Mix,striped,wirehaired,medium,no,
+865,Bogyi,6.17,female,Unknown Mix,black,short,medium,yes,
+866,Bob,8.67,male,Unknown Mix,yellow,short,small,no,
+867,Nemet Juhasz Gazdat Keres,11.58,male,German Shepherd Dog,black and tan,medium,large,no,
+868,Lucy,5.58,female,Hovawart Mix,black and brown,long,large,,
+869,Nusi,7.67,female,Unknown Mix,brown,medium,small,,
+870,Aliz,7.17,female,Unknown Mix,black,short,medium,yes,
+871,Dorka,13.92,female,German Pointer Mix,brown,wirehaired,large,yes,
+872,Bessy,10.67,female,German Shepherd Dog,black and tan,medium,large,no,yes
+873,Keverek Kutyus Gazdit Keres,5.58,female,Dachshund Mix,black and brown,short,small,no,
+874,Angel,6.58,female,Unknown Mix,yellow-brown,wirehaired,medium,no,yes
+875,Keverek Kiskutya Gazdit Keres,3.67,male,Unknown Mix,white,short,small,no,yes
+876,Gyufa,8.58,male,Dachshund Mix,black and white,short,small,yes,
+877,,7.67,female,Unknown Mix,yellow-brown,short,small,,
+878,Linda,12.25,female,Unknown Mix,brown,short,medium,,
+879,Gabi,4.75,male,German Shepherd Dog Mix,black and brown,short,medium,,yes
+880,Tacsi Pacsi,4.83,male,Unknown Mix,black,medium,medium,,
+881,Demi,18.92,male,Dachshund Mix,brown,medium,small,,
+882,Gazdat Keres,6.67,female,Caucasian Ovtcharka,saddle back,medium,large,yes,
+883,Katie,8.17,female,Labrador Retriever Mix,yellow,short,medium,yes,
+884,Roxana,15.58,female,Fox Terrier Mix,tricolor,short,small,,
+885,Thomas,4.83,male,Unknown Mix,tricolor,short,medium,yes,
+886,Cuki,9.08,male,Unknown Mix,red,short,medium,,
+887,Adel,5.92,female,Unknown Mix,striped,short,medium,,
+888,Irisz,3.92,female,Unknown Mix,black,short,medium,,
+889,Kendi,5.92,female,Unknown Mix,black and brown,short,small,,
+890,Cipo,4.08,male,Unknown Mix,tricolor,wirehaired,small,,
+891,Cinke,9.33,female,Fox Terrier Mix,black and white,short,small,,
+892,Morgen,9.17,male,Unknown Mix,brown,long,large,,
+893,Isti,3.92,male,Unknown Mix,black,short,medium,,
+894,Lora,8.5,female,Unknown Mix,black,short,medium,,
+895,Mazli,5.92,male,Dachshund Mix,black,short,medium,,
+896,Dani,11.75,male,Unknown Mix,yellow-brown,short,small,,
+897,Cliff,10.08,male,Staffordshire Terrier Mix,black and brown,short,medium,yes,
+898,Vendi,5.75,male,Unknown Mix,brown,short,medium,,
+899,Polly,8.5,female,Unknown Mix,black,short,medium,,
+900,Szigethalmi Maci,12.75,male,Caucasian Ovtcharka,gray and white,long,large,no,yes
+901,Gleda,3.92,female,Unknown Mix,black,short,medium,,
+902,Stella,12.67,female,Unknown Mix,black,wirehaired,small,,
+903,Klio,5.92,male,Unknown Mix,black and white,long,medium,yes,
+904,Gandalf,3.92,male,Unknown Mix,white,short,medium,,
+905,Gomez,3.92,male,Unknown Mix,white,short,medium,,
+906,Gixer,3.92,male,Unknown Mix,saddle back,short,medium,,
+907,Csipszi,5.0,female,Whippet Mix,black and brown,short,medium,,
+908,Hudini,9.92,female,Unknown Mix,red and white,short,small,yes,
+909,Samson,5.25,male,Unknown Mix,gray,long,large,yes,
+910,Greta,3.92,female,Unknown Mix,black and brown,medium,medium,,
+911,Garbo,3.92,male,Unknown Mix,brown,long,medium,,
+912,Gamma,3.92,female,Unknown Mix,brown,short,medium,,
+913,Mecset,5.5,male,Unknown Mix,white,long,medium,yes,
+914,Nemet Juhasz Keverek Gazdat Keres,10.67,male,"German Shepherd Dog, Siberian Husky Mix",black and brown,long,large,no,
+915,Dezi Es Bogar,14.75,female,German Shepherd Dog,black and tan,short,large,,
+916,Piroska,4.83,female,Pinscher Mix,brown,short,small,,
+917,Glenda,3.92,female,Unknown Mix,black,short,medium,,
+918,Cuki,4.42,female,Unknown Mix,spotty,short,small,yes,
+919,Afonya,4.83,female,Beagle Mix,yellow,short,medium,,
+920,Noel,5.92,male,Spaniel Mix,black and white,medium,medium,yes,
+921,Nemet Juhasz Gazdatol Hirdetve,7.75,male,German Shepherd Dog,black and tan,short,large,no,
+922,Kira,4.5,female,"Chinese Shar-Pei, Vizsla Mix",black,short,medium,,
+923,Kormi,5.25,female,Dachshund Mix,black,short,small,no,yes
+924,Pongo,5.83,male,Puli Mix,black,medium,medium,yes,
+925,Klotild,4.67,female,Unknown Mix,black and white,short,medium,yes,
+926,Mente,8.08,female,Unknown Mix,black,wirehaired,small,no,
+927,Suti,4.58,female,Unknown Mix,black and white,medium,medium,yes,
+928,Bella,4.5,female,Unknown Mix,brown,short,medium,yes,
+929,Brenda,4.17,female,Unknown Mix,black and brown,short,medium,,
+930,Szormok,5.25,male,Dachshund Mix,wild boar,wirehaired,small,yes,
+931,Rozikakutya,11.83,female,Spaniel Mix,golden,medium,medium,yes,
+932,Dorzsi,5.5,male,Welsh Terrier Mix,black and tan,short,medium,yes,
+933,Puli Gazdatol Hirdetve,9.75,female,Puli,black,long,medium,yes,
+934,Bundi,4.08,female,Unknown Mix,black and brown,medium,medium,no,yes
+935,Gazdiereso Kolykok,4.0,male,Unknown Mix,brown and white,short,medium,,yes
+936,Nono,6.25,female,"Fox Terrier, Staffordshire Terrier Mix",tricolor,short,medium,yes,yes
+937,Boroka,4.17,female,Unknown Mix,black,wirehaired,medium,no,yes
+938,Sarolta,4.58,female,Unknown Mix,black and white,short,medium,yes,
+939,Keverek Kutya Befogadotol Hirdetve,5.75,male,Unknown Mix,black and brown,short,medium,no,yes
+940,Forest,6.25,male,English Cocker Spaniel,brown,medium,medium,yes,
+941,Kende,9.75,male,Unknown Mix,black and tan,medium,medium,,
+942,Agota,4.0,female,Labrador Retriever Mix,black,short,medium,,
+943,Tipi,6.5,male,Unknown Mix,gray,medium,small,yes,
+944,Arvan Maradt Kutyus Gazdit Keres,8.83,male,Unknown Mix,black,long,medium,no,
+945,Szultan Es Jessy,9.83,male,Schnauzer Mix,gray,short,medium,no,
+946,Uj Gazdat Keres,4.42,male,Canary Dog Mix,apricot,short,medium,,
+947,Malyiban Talalt Kutyus,4.83,female,Dachshund Mix,tricolor,short,small,,
+948,Keverek Kutyusok Gazdit Keresnek,4.08,male,Unknown Mix,black and white,medium,large,no,yes
+949,Negro,10.83,male,Schnauzer Mix,black,wirehaired,medium,no,
+950,Bornike,11.92,male,Fox Terrier Mix,brown and white,wirehaired,medium,no,
+951,Gazdatol Hirdetve,4.33,male,Unknown Mix,tricolor,wirehaired,medium,no,
+952,Keverek Szuka Kutyus Befogadotol,4.5,female,Unknown Mix,black and white,short,medium,no,
+953,Almos,4.0,male,Labrador Retriever Mix,black,short,medium,,
+954,Arvacska,4.0,female,Labrador Retriever Mix,black,short,small,,
+955,Zazi,8.17,male,Puli Mix,black,medium,medium,no,
+956,Rex,6.5,male,German Shepherd Dog,saddle back,medium,large,no,no
+957,Manuel,9.42,male,Puli,black,long,medium,,
+958,Rodolfo,4.5,male,Unknown Mix,black,short,small,yes,
+959,Ocsai Borsa,5.83,male,Schnauzer Mix,black,wirehaired,medium,yes,yes
+960,Balint,11.0,male,"Dachshund, Spaniel Mix",brown,medium,small,,
+961,Lui,7.25,male,Labrador Retriever Mix,black,short,medium,yes,yes
+962,Bingo,4.5,male,Dachshund Mix,black and white,short,small,no,yes
+963,Luna,11.83,female,Unknown Mix,black,medium,medium,yes,
+964,Agi,6.0,female,Labrador Retriever Mix,black,short,medium,,
+965,Agnes,4.0,male,Labrador Retriever Mix,black,short,small,,
+966,Molly,5.58,female,Unknown Mix,brown,short,medium,yes,
+967,Wilbur,10.92,male,Unknown Mix,apricot,short,large,yes,
+968,Loki,5.0,male,Unknown Mix,striped,short,large,,yes
+969,Venusz,6.17,female,Unknown Mix,brown,short,large,yes,
+970,Uj Gazdat Keres,12.92,male,German Shepherd Dog Mix,black and tan,medium,medium,no,
+971,Soma,6.33,male,Spaniel Mix,black and tan,short,medium,yes,
+972,Maci,8.0,male,Tibetan Mastiff Mix,black,medium,large,,
+973,Hoffmann,11.92,male,Labrador Retriever Mix,black,short,large,,
+974,Vojtek,4.92,male,Unknown Mix,black and white,long,medium,yes,yes
+975,Lobo,6.92,male,Unknown Mix,black,wirehaired,large,no,
+976,Lui,7.0,male,Labrador Retriever,black,short,medium,yes,yes
+977,Tea,14.92,female,German Shepherd Dog Mix,black and brown,wirehaired,large,yes,
+978,Fules,7.92,male,Dachshund Mix,black and brown,short,small,no,
+979,Bundi,10.92,female,Puli Mix,black,long,medium,,
+980,Vagany,5.67,male,Unknown Mix,gray,long,medium,,
+981,Akela,4.83,female,Unknown Mix,saddle back,short,medium,yes,
+982,Stella,4.75,female,Unknown Mix,black,short,medium,yes,
+983,Mary,5.0,female,Unknown Mix,saddle back,short,medium,yes,
+984,Bora,4.92,female,Terrier Mix,black and tan,wirehaired,medium,yes,
+985,Borcsa,4.92,female,Terrier Mix,brown,wirehaired,medium,yes,
+986,Janka,10.5,female,Puli Mix,apricot,long,medium,yes,
+987,Lusti,9.0,female,"Dachshund, Pekingese Mix",tricolor,short,small,yes,
+988,Teperto,5.67,male,Unknown Mix,black,wirehaired,large,no,
+989,Toki,4.5,male,Unknown Mix,golden,short,medium,no,
+990,Felix,5.92,male,Fox Terrier,tricolor,wirehaired,medium,no,
+991,Negro,4.58,male,Unknown Mix,black,short,medium,no,yes
+992,Bingo,4.92,male,Terrier Mix,brown,wirehaired,medium,no,
+993,Dini,4.92,male,Unknown Mix,brown,short,medium,no,
+994,Morzsi,14.92,male,German Shepherd Dog Mix,saddle back,short,large,yes,
+995,Pici,9.92,female,Unknown Mix,black and brown,wirehaired,medium,yes,
+996,Pafrany,5.92,female,Unknown Mix,black,medium,medium,yes,
+997,Dixi,7.92,male,Unknown Mix,black,short,large,no,
+998,Pamacs,8.92,female,Unknown Mix,black,medium,large,yes,
+999,Ilka,5.92,female,Dachshund Mix,saddle back,short,small,yes,
+1000,Devil,8.17,male,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+1001,Kormi,9.25,female,Unknown Mix,black,wirehaired,large,no,
+1002,Bodri,7.17,male,Unknown Mix,black and white,wirehaired,small,no,yes
+1003,Sandy,5.08,female,Labrador Retriever Mix,golden,medium,medium,no,yes
+1004,Lola,5.58,female,Spaniel,black,short,medium,yes,
+1005,Anics,4.5,female,Unknown Mix,yellow-brown,short,medium,,
+1006,Bencus,6.17,male,Unknown Mix,yellow-brown,wirehaired,medium,yes,yes
+1007,Emodi Gazdikeresok,4.67,male,German Shepherd Dog Mix,black and brown,short,medium,no,
+1008,Jenny,11.08,female,Unknown Mix,black and brown,wirehaired,medium,no,yes
+1009,Noroka,19.83,male,Unknown Mix,black,medium,medium,,
+1010,Kanga,6.33,female,Schnauzer Mix,black,medium,medium,yes,
+1011,Lottie,4.83,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+1012,Szemi,7.25,female,Vizsla Mix,black,short,large,no,
+1013,Tacsi Keverek Gazdit Keres,5.25,male,"Dachshund, Fox Terrier Mix",black and brown,wirehaired,medium,no,yes
+1014,Paul,4.67,male,Unknown Mix,yellow-brown,short,medium,no,yes
+1015,Gaspar,8.92,male,English Cocker Spaniel Mix,black,short,medium,yes,
+1016,Bocskaikerti Minnie,4.58,female,Unknown Mix,black,short,medium,no,yes
+1017,Retro,11.25,male,Unknown Mix,brown,long,medium,,
+1018,Bocskaikerti Mickey,4.58,male,Unknown Mix,black,short,medium,yes,yes
+1019,Cedrus,9.83,male,Unknown Mix,black,medium,medium,yes,
+1020,Charlie &Amp,6.25,male,Unknown Mix,black and tan,wirehaired,medium,no,
+1021,Roland,6.83,male,Puli Mix,black,long,medium,,
+1022,Brutusz,4.92,male,Unknown Mix,brown,medium,medium,,
+1023,Johnny,5.5,male,Unknown Mix,white,short,medium,,
+1024,Rozi,10.58,female,"German Shepherd Dog, Transylvanian Hound Mix",black and tan,medium,large,,
+1025,Vilu,6.92,female,Unknown Mix,yellow-brown,short,large,,
+1026,Nutella,10.83,female,Unknown Mix,black and brown,medium,medium,yes,
+1027,Mirza,5.75,female,English Cocker Spaniel,black and brown,medium,medium,yes,
+1028,Gombocka,5.25,male,"Border Collie, Spaniel Mix",black and white,medium,medium,,yes
+1029,Ugro,5.5,male,Labrador Retriever Mix,black,short,medium,,
+1030,Rexi,9.0,male,"Labrador Retriever, Staffordshire Terrier Mix",brown,short,medium,,
+1031,Gomboc,8.75,male,Unknown Mix,black and tan,long,medium,,
+1032,Morzsika,4.75,male,Unknown Mix,gray,wirehaired,small,no,yes
+1033,Bogyo,6.25,male,German Shepherd Dog,sable,medium,large,,yes
+1034,Kajla,6.25,male,Unknown Mix,tricolor,wirehaired,medium,no,
+1035,Borzas,6.33,male,Puli Mix,black,long,medium,,yes
+1036,Zakia,5.92,female,Unknown Mix,black,short,medium,,
+1037,Virgonc,6.25,male,Unknown Mix,black and brown,short,medium,,yes
+1038,Afonya,4.58,female,"Bull Terrier, Fox Terrier, Staffordshire Terrier Mix",striped,short,small,no,
+1039,Vandor,7.25,male,Unknown Mix,black and brown,short,medium,,yes
+1040,Ekes,6.83,female,German Shepherd Dog Mix,sable,short,large,yes,
+1041,Ragcsa,7.75,female,Unknown Mix,black,medium,medium,,
+1042,Zulu,10.75,male,German Shepherd Dog Mix,black and brown,medium,medium,yes,
+1043,Brunhilde,16.33,female,Unknown Mix,black and brown,medium,medium,no,no
+1044,Kozep,11.42,male,Central Asian Ovtcharka,brown and white,medium,large,,
+1045,Orfeusz,12.42,male,German Shepherd Dog Mix,black and tan,short,large,no,yes
+1046,Taltos,9.5,male,"Greyhound, Transylvanian Hound Mix",black,short,large,yes,yes
+1047,Bundas,5.83,male,Labrador Retriever Mix,yellow-brown,short,medium,,yes
+1048,June,10.33,female,Caucasian Ovtcharka Mix,gray,long,medium,yes,yes
+1049,Vili,5.33,male,Unknown Mix,black,wirehaired,medium,,yes
+1050,Maxi,4.58,male,Unknown Mix,black and tan,short,small,no,yes
+1051,Max,5.83,male,Unknown Mix,saddle back,short,medium,yes,
+1052,Tequila,4.83,male,Unknown Mix,black,short,large,,yes
+1053,Bodri,10.83,female,Jagd Terrier Mix,black and brown,short,small,yes,
+1054,Bumbi,7.58,female,Komondor,white,long,large,yes,
+1055,Janos,5.92,male,Unknown Mix,black,short,medium,yes,
+1056,Bonnie,5.83,female,German Shepherd Dog Mix,black and brown,short,large,no,
+1057,Zorro,12.33,male,Caucasian Ovtcharka Mix,brown,medium,large,yes,
+1058,Bigyo,7.92,female,Unknown Mix,black,short,medium,yes,
+1059,Kacer,7.0,female,Unknown Mix,brown and white,medium,medium,yes,
+1060,Labi,4.92,male,Labrador Retriever Mix,brown and white,short,large,no,
+1061,Fecske Mama,6.92,female,Transylvanian Hound Mix,black and brown,medium,medium,yes,
+1062,Negro,9.42,male,Unknown Mix,black,short,medium,yes,no
+1063,Dexi,8.58,male,Komondor Mix,yellow-brown,medium,large,yes,
+1064,Parazs,7.92,female,Unknown Mix,brown,short,medium,yes,
+1065,Bond,13.58,male,Unknown Mix,yellow-brown,medium,medium,yes,
+1066,Szorme,5.92,male,Unknown Mix,black,long,medium,yes,
+1067,Riky,8.92,male,German Shepherd Dog Mix,sable,medium,large,yes,
+1068,Tuba,14.5,male,German Pointer Mix,brown,short,medium,yes,
+1069,Szendroi Kutyus Gazdit Keres,4.92,female,Unknown Mix,black and brown,short,medium,no,
+1070,Ms. Daisy,14.92,female,Beagle,tricolor,short,medium,yes,
+1071,Grul,11.92,male,Unknown Mix,black and brown,short,medium,yes,
+1072,Lucky,7.5,male,"Boxer, Hungarian Vizsla Mix",brown,short,medium,,yes
+1073,Ladanyi Turmix,7.75,female,Dachshund Mix,striped,short,small,yes,
+1074,Wombi,5.42,male,Unknown Mix,yellow-brown,medium,small,,
+1075,Miro,5.42,male,Unknown Mix,brown,short,small,yes,
+1076,Kistestu Kutya,6.42,female,"Dachshund, Fox Terrier Mix",black and brown,medium,small,yes,
+1077,Mendei Mia,5.5,female,Unknown Mix,brown,medium,medium,yes,yes
+1078,Pannika,9.42,female,Unknown Mix,brown,short,large,yes,
+1079,Penna,13.92,female,Vizsla Mix,black and white,short,medium,yes,
+1080,Sos,5.5,male,German Shepherd Dog Mix,black,short,medium,no,yes
+1081,,6.5,female,Unknown Mix,black,wirehaired,medium,no,
+1082,Herceg,10.92,male,Dogo Argentino Mix,white,short,large,,
+1083,Nina,5.5,female,Unknown Mix,black and tan,short,medium,yes,yes
+1084,Kond,5.42,male,"Dachshund, Pekingese Mix",brown,short,small,no,yes
+1085,Rebeka Es Molli,6.5,female,Unknown Mix,black,short,medium,,
+1086,Buci,5.5,male,Boxer Mix,striped,short,medium,no,yes
+1087,Nebo,7.92,male,Unknown Mix,black and brown,wirehaired,medium,yes,yes
+1088,Potty,9.58,female,Unknown Mix,black,short,small,yes,yes
+1089,Negra,11.58,female,Unknown Mix,gray,medium,medium,yes,yes
+1090,Pille,7.0,female,Bernese Mountain Dog Mix,tricolor,short,large,yes,yes
+1091,Furge,17.92,male,Unknown Mix,red,long,medium,,
+1092,Ond,5.42,male,"Dachshund, Pekingese Mix",brown,wirehaired,small,no,yes
+1093,Solyom,15.92,male,Unknown Mix,brown,medium,large,,
+1094,Lencsi,6.5,female,Dachshund Mix,brown,short,small,yes,yes
+1095,Tsiki,5.58,female,Unknown Mix,striped,short,large,,
+1096,Molli,11.42,female,Siberian Husky Mix,tricolor,short,large,,
+1097,Sos,7.5,female,Puli,black,long,medium,no,yes
+1098,Lali,10.58,male,Kuvasz Mix,white,medium,large,,
+1099,Kicsi,9.67,male,Unknown Mix,brown,medium,medium,,
+1100,Matyas,12.58,male,Unknown Mix,black,short,medium,,yes
+1101,Feco,8.58,male,Newfoundland Mix,black,short,medium,no,yes
+1102,Lujzi,6.58,female,Unknown Mix,red and white,short,large,no,yes
+1103,Zafir,6.92,female,"Chinese Shar-Pei, Labrador Retriever Mix",white,short,medium,yes,
+1104,Frici,11.58,male,"Kuvasz, Labrador Retriever Mix",yellow-brown,short,medium,no,yes
+1105,Zeno,8.58,male,Labrador Retriever,yellow-brown,medium,medium,no,yes
+1106,Shadow,10.83,female,German Shepherd Dog Mix,saddle back,medium,large,,yes
+1107,Bullmasztiff Gazdatol Hirdetve,6.58,male,Bullmastiff,yellow-brown,short,large,,
+1108,Inarcsi Artur,6.58,male,"Hound, Vizsla Mix",saddle back,short,medium,yes,yes
+1109,Suti,5.58,female,Fox Terrier Mix,black and white,wirehaired,small,yes,yes
+1110,Budakeszi Snoopy,10.75,male,Labrador Retriever Mix,black and white,short,medium,yes,yes
+1111,Rozi,6.67,female,Labrador Retriever Mix,yellow-brown,short,medium,no,
+1112,Pamacs,17.67,male,Pekingese Mix,brown and white,long,small,no,yes
+1113,Tango,6.92,male,Unknown Mix,black,short,medium,no,
+1114,Kopo,5.42,male,Hound Mix,black and tan,short,medium,no,
+1115,Mano,6.58,female,Siberian Husky Mix,gray and white,short,medium,no,yes
+1116,Dagi,10.92,male,Rottweiler Mix,black and brown,short,large,no,
+1117,Barni,9.58,male,Unknown Mix,black,short,medium,,
+1118,Miskolci Bleki,10.58,male,Hound Mix,black and tan,short,medium,no,no
+1119,Macko,6.58,female,Siberian Husky Mix,gray and white,medium,medium,no,yes
+1120,Murphy,11.67,male,"American Bulldog, Dogo Argentino Mix",white,short,large,,
+1121,Zeusz,7.67,male,"Hound, Staffordshire Terrier Mix",brown and white,short,medium,yes,yes
+1122,Vanda,7.67,female,Dogo Argentino,white,short,large,yes,yes
+1123,Ali,8.67,male,American Bulldog,white,short,large,,no
+1124,Parsifal,10.17,male,Dogo Argentino,white,short,large,yes,yes
+1125,Pocak,11.0,male,Spaniel Mix,black and brown,medium,medium,yes,
+1126,Baro,8.67,male,Staffordshire Terrier,yellow-brown,short,medium,yes,yes
+1127,Spike,8.67,male,Dogo Argentino,white,short,large,yes,
+1128,Szotyi,5.17,male,Schnauzer Mix,black,wirehaired,medium,no,yes
+1129,Lonci,8.67,female,Labrador Retriever Mix,brown,short,medium,no,
+1130,Luna,12.67,female,Dogo Argentino,white,short,large,yes,yes
+1131,Pocahontas,12.83,female,English Cocker Spaniel Mix,black,medium,medium,yes,
+1132,Bodancs,7.92,male,Unknown Mix,black,medium,medium,yes,
+1133,Lina,9.67,female,Staffordshire Terrier,white,short,medium,yes,yes
+1134,Bator,11.08,male,Unknown Mix,black,medium,medium,yes,
+1135,Tequila,9.67,male,Dachshund Mix,brown,short,medium,,yes
+1136,Scarlett,6.25,female,"Dogo Argentino, Staffordshire Terrier Mix",white,short,medium,,yes
+1137,Sultan,11.67,male,Dogo Argentino,white,short,large,yes,yes
+1138,Keverek Kiskutyak!,5.08,male,Unknown Mix,black and brown,short,medium,no,yes
+1139,James,6.25,male,Dogo Argentino,white,short,large,yes,yes
+1140,Mennydorges,6.5,male,Unknown Mix,red,short,large,,
+1141,Picike,6.5,female,Unknown Mix,red,short,large,,
+1142,Barat,8.67,male,"Dachshund, German Shepherd Dog Mix",black and brown,medium,small,,
+1143,Coco,5.75,female,Dachshund Mix,black,wirehaired,small,yes,yes
+1144,Boti,9.83,male,Unknown Mix,black and white,long,medium,,
+1145,Eperjesi Musi,5.17,female,Unknown Mix,black and tan,wirehaired,medium,,
+1146,Lara,9.75,female,Staffordshire Terrier Mix,yellow-brown,short,medium,no,yes
+1147,Jambor,7.5,male,Unknown Mix,red,short,large,,
+1148,Picur,6.08,male,Fox Terrier Mix,yellow-brown,wirehaired,medium,no,
+1149,Bumerang,9.83,male,Jack Russell Terrier,tricolor,short,small,yes,yes
+1150,Omar/Rex,5.5,male,Unknown Mix,black and brown,short,medium,yes,yes
+1151,Szepfiu,6.5,male,Unknown Mix,brown,short,large,,
+1152,Lego,7.33,male,Tibetan Terrier Mix,white,long,medium,,
+1153,Fannie,6.17,female,Chinese Shar-Pei Mix,black,short,large,,
+1154,Fredi,14.25,male,Dachshund Mix,brown,short,small,yes,yes
+1155,Tapi,12.5,female,Unknown Mix,brown,short,large,,
+1156,Nero,6.67,male,Golden Retriever Mix,yellow-brown,wirehaired,medium,no,
+1157,Toni,13.17,male,Unknown Mix,black,medium,medium,,
+1158,Drazse,8.83,male,Dachshund Mix,black and tan,short,small,yes,
+1159,Hajnal,6.5,female,Unknown Mix,red,short,large,,
+1160,Zseton,5.33,female,Unknown Mix,black,medium,small,,
+1161,Pentek,15.0,male,Unknown Mix,black,short,medium,,
+1162,Chilli,9.5,male,German Shepherd Dog Mix,black and brown,short,large,no,yes
+1163,Baba,6.83,female,Unknown Mix,spotty,short,medium,,
+1164,Nandi,6.0,male,Unknown Mix,black and white,short,medium,,yes
+1165,Lucky,5.67,male,German Shepherd Dog Mix,black and tan,short,medium,yes,yes
+1166,Hekk,13.25,male,Dachshund Mix,brown and white,short,small,yes,
+1167,Fulop,11.08,male,Unknown Mix,saddle back,short,large,yes,
+1168,Keverek Kutya Gazdat Keres,6.83,male,Unknown Mix,red,short,large,no,yes
+1169,Kolykok,5.83,male,Unknown Mix,apricot,short,medium,,yes
+1170,Porkolt,13.83,male,"German Shepherd Dog, Schnauzer Mix",gray and white,medium,large,yes,yes
+1171,Henry,7.83,male,German Shepherd Dog,saddle back,medium,medium,yes,yes
+1172,Bogyo,5.92,female,"Labrador Retriever, Vizsla Mix",black,short,medium,,
+1173,Dolfie,5.58,male,Rottweiler Mix,black and tan,short,medium,yes,yes
+1174,Morfeusz,15.0,male,Unknown Mix,yellow-brown,medium,medium,,
+1175,Luca,5.33,female,Unknown Mix,white,short,medium,,
+1176,Kyra,8.0,female,Unknown Mix,black and tan,short,medium,yes,
+1177,Dzsoki,7.58,male,French Bulldog Mix,black,short,small,,
+1178,Tala,9.5,female,"Dachshund, Labrador Retriever Mix",white,medium,medium,yes,
+1179,Nessie,6.92,female,Dachshund Mix,yellow-brown,medium,small,yes,yes
+1180,Kakucsi Ficko,8.08,male,Puli Mix,black,long,medium,yes,yes
+1181,Bobi,14.08,male,Unknown Mix,brown,short,medium,,yes
+1182,Luck,7.92,male,Chinese Shar-Pei Mix,brown,short,medium,yes,
+1183,Morgo,7.5,male,Unknown Mix,spotty,medium,medium,no,yes
+1184,Bones,7.0,female,German Pointer,gray and black,short,large,,yes
+1185,Maszat,8.25,male,Unknown Mix,brown,short,medium,no,
+1186,,8.0,female,Unknown Mix,red,short,medium,,
+1187,Hektor,10.42,male,Unknown Mix,black and tan,short,medium,yes,yes
+1188,Balfi,13.17,male,Labrador Retriever Mix,yellow-brown,short,medium,yes,
+1189,,6.0,female,German Shepherd Dog,black and brown,medium,medium,no,
+1190,Clinton,8.67,male,Unknown Mix,brown,short,medium,yes,
+1191,Gertrud,9.58,female,Labrador Retriever Mix,black,short,medium,yes,
+1192,Rokkfort,9.25,male,Unknown Mix,black and tan,medium,medium,yes,no
+1193,Hajas,8.33,male,"Dachshund, Vizsla Mix",golden,medium,small,,
+1194,Virgonc,6.58,female,Unknown Mix,apricot,medium,medium,yes,yes
+1195,Csibesz,11.67,male,Unknown Mix,black,medium,large,,
+1196,Benji Es Morzsi,8.0,male,Unknown Mix,yellow-brown,short,large,no,
+1197,Marci,14.5,male,Golden Retriever,golden,long,medium,no,yes
+1198,Don Juan,7.17,male,Chihuahua,apricot,short,small,,yes
+1199,Hipo,10.5,male,"Havanese, Poodle Mix",white,medium,small,,
+1200,Forget,9.17,male,Hovawart Mix,golden,medium,large,,
+1201,Tony,5.67,male,Unknown Mix,black,short,medium,no,
+1202,Mira,7.92,female,Unknown Mix,yellow-brown,short,small,yes,
+1203,Tracy,7.33,female,Fox Terrier Mix,tricolor,short,small,yes,yes
+1204,Felsopakonyi Beni,11.33,male,German Shepherd Dog Mix,yellow,short,medium,no,yes
+1205,Shy,10.17,female,Unknown Mix,black,short,medium,,
+1206,Gin,5.5,male,German Shepherd Dog Mix,saddle back,medium,medium,yes,yes
+1207,Jazmin,6.33,female,Unknown Mix,brown,short,medium,yes,yes
+1208,Kozma,8.08,male,Unknown Mix,black,long,medium,yes,yes
+1209,Spakli,7.33,male,Unknown Mix,wild boar,wirehaired,medium,yes,
+1210,Luca,11.08,female,Unknown Mix,black and brown,short,medium,yes,yes
+1211,Hattyu,6.67,female,Unknown Mix,black and white,short,medium,,
+1212,Mufurc,13.83,male,Chinese Shar-Pei Mix,black,medium,large,,
+1213,Index,7.0,male,Unknown Mix,black and white,wirehaired,medium,,
+1214,,5.33,male,"Boxer, Schnauzer Mix",striped,short,small,,
+1215,Aramis,12.33,male,German Shepherd Dog Mix,black and brown,short,medium,no,yes
+1216,Vili,8.08,male,Unknown Mix,yellow,medium,medium,yes,yes
+1217,Boni,16.08,male,Puli Mix,black,medium,medium,yes,yes
+1218,Petra,14.33,female,German Shepherd Dog,black and brown,short,medium,yes,yes
+1219,Bumerang,5.83,female,Hound Mix,black and brown,short,medium,yes,
+1220,Niko,6.42,male,Caucasian Ovtcharka Mix,apricot,short,medium,,
+1221,Wellington,14.92,male,Unknown Mix,black and white,short,medium,,yes
+1222,Szizo,12.33,male,German Shepherd Dog Mix,black and brown,medium,large,no,yes
+1223,Ostya,5.5,female,Labrador Retriever Mix,yellow-brown,short,medium,,
+1224,Csobor,17.92,male,Pumi Mix,black,medium,medium,,
+1225,Csibesz,5.75,male,Labrador Retriever Mix,black,short,medium,no,yes
+1226,Hasso,9.92,male,Staffordshire Terrier,striped,short,medium,,
+1227,Alsonemedi Sumi,6.92,male,"Schnauzer, Terrier Mix",gray,short,medium,no,yes
+1228,Dio,5.67,female,"Spaniel, Terrier Mix",gray,medium,small,,
+1229,Bora,5.5,female,"Labrador Retriever, Vizsla Mix",black,short,medium,,
+1230,Matka,6.67,female,"Puli, Terrier Mix",black,long,small,,
+1231,"""Potyi""",7.67,male,Fox Terrier,tricolor,short,medium,no,yes
+1232,Said,13.5,male,"Kuvasz, Labrador Retriever Mix",yellow-brown,short,large,yes,
+1233,Panka,6.33,female,German Shepherd Dog Mix,sable,short,medium,no,yes
+1234,Betty,8.5,female,Staffordshire Terrier Mix,yellow-brown,short,medium,,yes
+1235,Pisze,6.25,female,German Shepherd Dog Mix,black,short,medium,no,yes
+1236,Murphy,6.08,male,Unknown Mix,brown,short,medium,,
+1237,Nyafi,5.58,female,Dachshund Mix,black and tan,medium,small,,
+1238,Csikoska,6.67,male,Dachshund Mix,tricolor,short,small,,yes
+1239,Artur,8.25,male,Unknown Mix,saddle back,short,medium,no,
+1240,Penelope,6.58,female,Unknown Mix,black,medium,medium,,
+1241,Paula,7.83,female,Chinese Shar-Pei Mix,yellow-brown,short,medium,,yes
+1242,Bongo,7.17,male,Unknown Mix,black and white,medium,medium,,
+1243,Bonna,5.83,female,Unknown Mix,black and white,short,medium,,
+1244,Toni,5.67,male,Unknown Mix,brown,short,medium,,
+1245,Teddy,5.67,male,Unknown Mix,black and brown,short,medium,,
+1246,Csibesz,5.83,male,Labrador Retriever Mix,black and white,short,large,no,yes
+1247,Bonzo,9.67,male,Unknown Mix,black and brown,short,medium,,
+1248,Mia,6.58,female,Unknown Mix,golden,medium,medium,,yes
+1249,Alesandro,14.42,male,Unknown Mix,brown,medium,large,no,yes
+1250,Bia,7.67,female,Unknown Mix,black,medium,medium,,
+1251,Mozart,10.58,male,Unknown Mix,black and white,medium,medium,,yes
+1252,Oscar,6.25,male,Unknown Mix,white,medium,medium,,yes
+1253,Nandi,5.67,male,Unknown Mix,black,short,medium,,yes
+1254,Tyson,7.58,male,Chinese Shar-Pei,red and white,short,large,yes,
+1255,Bunny,7.17,female,Unknown Mix,brown and white,short,medium,,
+1256,Vincent,12.92,male,Unknown Mix,gray,short,medium,,
+1257,Guriga,6.92,male,Unknown Mix,brown and white,short,medium,yes,
+1258,Rozsdas,6.58,male,Hungarian Vizsla,brown,short,medium,,yes
+1259,Tino,5.67,male,Unknown Mix,black and brown,short,medium,,
+1260,Murci,13.42,female,"Boxer, Staffordshire Terrier Mix",striped,short,medium,yes,yes
+1261,Maszat,6.25,male,Dachshund Mix,black and brown,short,small,no,yes
+1262,Extra Sos!,13.5,male,"Beagle, Labrador Retriever, Scotch Collie Mix",tricolor,short,large,no,
+1263,Kyra,7.42,female,Unknown Mix,black and brown,short,medium,,yes
+1264,Tedi,11.0,male,German Pointer Mix,brown,short,large,,
+1265,Brutus,6.08,male,Staffordshire Terrier Mix,brown and white,short,medium,no,yes
+1266,,6.17,male,Unknown Mix,black,short,large,no,yes
+1267,Bonnie,7.92,female,Unknown Mix,black and white,short,medium,,
+1268,Borzas,8.5,male,Fox Terrier Mix,apricot,medium,medium,yes,
+1269,Hanzi,8.42,male,Unknown Mix,tricolor,short,medium,yes,yes
+1270,Csibesz,5.83,male,Labrador Retriever Mix,black,short,medium,no,yes
+1271,Kormos,10.5,male,"German Shepherd Dog, Labrador Retriever Mix",black,short,medium,no,
+1272,Vinu,6.0,female,Unknown Mix,black and brown,short,medium,yes,yes
+1273,Osza,15.42,male,Puli Mix,gray,long,medium,,yes
+1274,Acel,6.17,male,"Belgian Malinois, Belgian Sheepdog Mix",black,medium,large,,
+1275,Barka,7.0,female,Vizsla Mix,dotted,short,medium,yes,
+1276,Brutus,6.42,male,Dogo Argentino Mix,white,short,medium,yes,yes
+1277,Lara,7.5,female,Unknown Mix,apricot,short,small,yes,yes
+1278,Jelcin,6.92,male,"Pumi, Schnauzer Mix",gray and white,medium,medium,yes,yes
+1279,Alkony,5.5,male,"Belgian Malinois, Belgian Sheepdog Mix",yellow-brown,medium,large,,
+1280,Melanie,9.0,female,Unknown Mix,black and white,short,medium,,
+1281,Stan,11.5,male,Spitz,apricot,long,small,,
+1282,Bourboun,7.0,male,Unknown Mix,apricot,medium,large,yes,
+1283,ony,13.5,male,Labrador Retriever Mix,black,short,large,yes,
+1284,Tamara,8.58,female,Unknown Mix,tricolor,short,medium,,
+1285,Mango,7.75,female,Unknown Mix,apricot,short,small,yes,
+1286,Bubi,6.5,female,Unknown Mix,apricot,short,medium,yes,
+1287,Otto,7.92,male,Unknown Mix,yellow-brown,short,medium,,yes
+1288,Ramina,9.92,female,Unknown Mix,black,short,medium,,
+1289,Imola Es Ilcsi,6.5,female,Terrier Mix,brown and white,short,small,no,
+1290,Bogarka,8.5,female,Unknown Mix,black and white,short,small,no,yes
+1291,Emily,6.5,female,Unknown Mix,yellow-brown,wirehaired,medium,,
+1292,Cinti,6.58,female,Unknown Mix,black,short,medium,,
+1293,,6.17,male,Unknown Mix,black,short,medium,no,yes
+1294,Scott,14.0,male,Shih Tzu Mix,apricot,long,small,,
+1295,Bruno,5.92,male,Unknown Mix,brown,short,large,no,yes
+1296,Hanry,7.67,male,Unknown Mix,black and brown,short,medium,,
+1297,Stella,5.75,female,Unknown Mix,brown and white,medium,small,no,yes
+1298,Enzo,7.67,male,Unknown Mix,black and white,short,large,,yes
+1299,Diamond,7.5,female,Unknown Mix,apricot,short,small,,
+1300,Berta,7.5,female,Beagle Mix,apricot,short,medium,,
+1301,Dandy,6.17,male,Unknown Mix,yellow-brown,short,medium,,
+1302,Draffy,6.17,male,Unknown Mix,yellow-brown,short,medium,,
+1303,Lapu,14.0,female,Pekingese,apricot,long,small,,
+1304,Dasa,7.5,female,Unknown Mix,apricot,short,medium,,
+1305,Csopke,6.92,male,"Dachshund, Pekingese Mix",black and brown,medium,small,yes,
+1306,Kormos Lali,10.58,male,Puli Mix,gray,medium,large,yes,yes
+1307,Konrad,7.17,male,Unknown Mix,yellow-brown,short,medium,,
+1308,Zsanna,10.92,female,Dachshund Mix,apricot,wirehaired,small,yes,
+1309,Sophia,7.67,female,Unknown Mix,brown and white,short,medium,,
+1310,Ruby,6.75,female,Unknown Mix,sable,short,medium,,yes
+1311,Lucifer,8.5,male,Unknown Mix,apricot,short,medium,,
+1312,Debby,6.17,female,Unknown Mix,yellow-brown,short,medium,,
+1313,Darwin,6.17,male,Unknown Mix,yellow-brown,short,medium,,
+1314,,6.08,male,Unknown Mix,golden,short,medium,,yes
+1315,,7.5,male,Golden Retriever,golden,short,medium,,
+1316,Katja,9.67,female,German Shepherd Dog Mix,black and brown,short,medium,,yes
+1317,Dana,6.17,female,Unknown Mix,black,short,medium,,
+1318,Csongi,6.58,male,Jagd Terrier Mix,black and brown,short,small,,
+1319,Hillary,7.67,female,Unknown Mix,sable,short,medium,,yes
+1320,Betyar,7.42,male,Unknown Mix,black,medium,medium,no,
+1321,Fricike,15.92,male,"Dachshund, Golden Retriever Mix",yellow-brown,short,medium,yes,
+1322,Elvis,8.92,male,Unknown Mix,brown and white,medium,medium,,
+1323,,5.92,male,"Fox Terrier, Whippet Mix",black and white,short,medium,no,yes
+1324,Bacon,6.83,male,Unknown Mix,black,wirehaired,medium,,yes
+1325,Scott,6.92,male,Staffordshire Terrier,brown and white,short,medium,,yes
+1326,Bronco,9.67,male,Unknown Mix,brown and white,medium,medium,,yes
+1327,Kevin,7.17,male,Unknown Mix,yellow-brown,short,medium,,
+1328,Janett,6.5,female,Unknown Mix,brown,short,medium,,yes
+1329,Paco,7.42,male,Unknown Mix,white,short,medium,,yes
+1330,Loki,6.83,male,Unknown Mix,gray,short,medium,,yes
+1331,Camillo,8.17,male,Unknown Mix,black and brown,short,medium,,yes
+1332,Gus,15.75,male,Unknown Mix,brown and white,medium,medium,,yes
+1333,Dalia,6.75,female,Unknown Mix,brown and white,short,medium,,yes
+1334,Dori,6.17,female,"Dachshund, Havanese, Setter Mix",tricolor,medium,medium,,yes
+1335,Coby,8.17,male,Unknown Mix,sable,short,medium,,
+1336,Pandora,6.83,female,Unknown Mix,black and brown,short,medium,,yes
+1337,Arpad,8.75,male,Kuvasz,white,medium,medium,,yes
+1338,Perec,8.08,male,Unknown Mix,white,medium,medium,yes,
+1339,Heves,5.83,male,German Shepherd Dog Mix,yellow-brown,medium,large,,
+1340,Jill,10.92,female,Unknown Mix,black and brown,short,medium,,
+1341,Lexy,8.75,female,Unknown Mix,black and brown,short,medium,,yes
+1342,Emily,7.75,female,Unknown Mix,white,short,medium,yes,yes
+1343,Vackor,6.17,male,Unknown Mix,black,medium,medium,no,yes
+1344,Hogolyo,12.75,male,Dachshund Mix,spotty,short,small,yes,yes
+1345,Alex,11.0,male,Boxer,yellow,short,large,yes,yes
+1346,Marvin,6.83,male,Unknown Mix,brown,short,medium,,
+1347,Szuzy,7.92,female,Unknown Mix,tricolor,medium,medium,yes,yes
+1348,Dylan,9.17,male,"Irish Setter, Vizsla Mix",black,medium,medium,yes,
+1349,Csopi,14.67,female,Fox Terrier,brown and white,short,medium,no,yes
+1350,Bobo,6.92,male,Unknown Mix,apricot,short,medium,yes,
+1351,Zoard,6.83,male,Dachshund Mix,black and tan,short,small,,
+1352,Buci,11.08,male,Unknown Mix,gray and black,short,medium,yes,
+1353,Vanda,8.75,female,German Shepherd Dog Mix,tricolor,short,medium,yes,
+1354,Mano,8.75,male,Unknown Mix,black and white,short,medium,yes,
+1355,Bobi,8.75,male,Unknown Mix,brown,short,small,yes,yes
+1356,Fruzsi,6.83,female,Dachshund Mix,brown and white,short,small,,
+1357,Fules,8.67,male,Unknown Mix,red,short,medium,yes,
+1358,Dzsini,6.0,female,Unknown Mix,black,short,medium,yes,
+1359,Rasmus,7.5,male,Unknown Mix,golden,short,medium,,yes
+1360,Cheril,6.92,female,Unknown Mix,brown and white,wirehaired,medium,,
+1361,Kitty,6.92,female,Puli,black,wirehaired,medium,,yes
+1362,Loretta,7.5,female,Dachshund Mix,brown and white,short,medium,,yes
+1363,Tasso,7.0,male,Unknown Mix,golden,short,medium,,yes
+1364,Brando,7.83,male,Dachshund Mix,brown,short,medium,,yes
+1365,Rosienda,6.92,female,Unknown Mix,brown,short,medium,,yes
+1366,Maci,6.17,male,Unknown Mix,brown,wirehaired,medium,,
+1367,Colorado,6.92,male,Fox Terrier Mix,black and brown,short,medium,,yes
+1368,Tyron,6.92,male,Rottweiler Mix,black and brown,short,medium,,yes
+1369,Fergie,11.83,female,Beagle,tricolor,short,medium,,yes
+1370,Gomez,11.83,male,Staffordshire Terrier,black and white,short,medium,,yes
+1371,Kiwi,6.92,male,Puli,black,wirehaired,medium,,yes
+1372,Tyson,6.92,male,Rottweiler Mix,black and brown,short,medium,,yes
+1373,Blanka,7.83,female,German Shepherd Dog Mix,black and tan,short,medium,yes,yes
+1374,Agatha,8.5,female,Unknown Mix,yellow-brown,short,medium,,yes
+1375,Dabas,10.67,male,"Pumi, Schnauzer Mix",gray,wirehaired,medium,,
+1376,Mancs,13.75,female,Fox Terrier Mix,apricot,short,medium,yes,
+1377,Lili,7.75,female,"Hungarian Vizsla, Labrador Retriever Mix",brown,short,medium,yes,
+1378,Priscilla,6.58,female,Unknown Mix,black,medium,medium,,yes
+1379,Ruby,6.42,female,Staffordshire Terrier Mix,black and white,short,medium,,yes
+1380,Valentin,6.92,male,Unknown Mix,black and brown,wirehaired,medium,,
+1381,Donna,15.83,female,Unknown Mix,sable,short,medium,,
+1382,Hanga,8.75,female,Dachshund,black and tan,short,small,,
+1383,Mancs,13.75,female,Fox Terrier Mix,apricot,short,medium,yes,
+1384,Maggie,9.83,female,Rottweiler,black and brown,short,medium,,
+1385,Domi,6.0,male,Schnauzer Mix,yellow-brown,wirehaired,medium,,
+1386,Tomaj,9.75,male,Pumi Mix,black,medium,medium,yes,
+1387,Kilroy,6.92,male,Rottweiler,black and brown,short,medium,,yes
+1388,Belinda,7.33,female,Central Asian Ovtcharka,brown and white,short,medium,,yes
+1389,Champ,8.5,male,Unknown Mix,black,wirehaired,medium,,yes
+1390,Marci,12.92,male,Puli,black,wirehaired,medium,,
+1391,Aladar,7.17,male,Unknown Mix,white,medium,medium,,
+1392,Buksi,8.75,male,Dachshund Mix,red,medium,medium,yes,
+1393,Buco,6.0,male,Unknown Mix,black,short,small,no,
+1394,Keksz,6.5,male,Unknown Mix,sable,short,medium,yes,yes
+1395,Dori,10.75,female,Unknown Mix,red,short,medium,no,yes
+1396,Rajmund,6.5,male,Unknown Mix,brown and white,medium,medium,,
+1397,Rambo,7.42,male,Rhodesian Ridgeback,black and brown,short,medium,,
+1398,Maja,6.25,female,Unknown Mix,black and brown,short,medium,,
+1399,Nero,8.17,male,Unknown Mix,saddle back,short,medium,,yes
+1400,Moricka,6.75,male,Fox Terrier Mix,tricolor,short,small,,yes
+1401,Borzaska,7.17,female,"Puli, Spaniel Mix",gray and black,medium,medium,,yes
+1402,Betsy,7.17,female,Basset Hound Mix,tricolor,short,medium,,yes
+1403,Scott,14.5,male,Shih Tzu Mix,white,medium,small,no,
+1404,Alma,11.5,female,Rottweiler Mix,black and brown,short,large,yes,
+1405,Jack,12.83,male,Labrador Retriever Mix,red and white,medium,large,no,
+1406,Vince,8.17,male,Unknown Mix,black,medium,small,,
+1407,Benji,6.75,male,German Shepherd Dog Mix,sable,long,medium,no,yes
+1408,Dome,11.25,male,Pekingese Mix,red and white,long,small,no,
+1409,Csopike,13.75,male,Dachshund Mix,black and brown,short,small,yes,yes
+1410,Twinky,7.92,female,Unknown Mix,black,short,medium,yes,
+1411,Lucifer,8.67,male,Unknown Mix,white,medium,medium,no,
+1412,Dugo,9.92,male,Unknown Mix,white,short,small,no,
+1413,Limbo,10.25,female,Unknown Mix,spotty,short,small,yes,
+1414,Ropi,11.33,female,German Shepherd Dog,black and brown,long,large,yes,
+1415,Yoko,9.17,female,Unknown Mix,apricot,medium,medium,yes,
+1416,Dotty,6.25,female,Unknown Mix,black,short,medium,,yes
+1417,Barni,7.92,male,Unknown Mix,yellow-brown,short,medium,no,
+1418,Vandor,8.0,male,Unknown Mix,black,medium,large,no,
+1419,Bandita,7.75,male,Unknown Mix,black,short,medium,no,yes
+1420,Skippy,6.75,male,Unknown Mix,brown and white,short,medium,,yes
+1421,Zsuzsi,6.08,female,Unknown Mix,black and white,medium,small,,
+1422,Lara Es Happy,6.08,female,Unknown Mix,black,short,medium,,
+1423,Nina,6.17,female,Unknown Mix,saddle back,short,medium,,yes
+1424,Stella,8.25,female,"Labrador Retriever, Staffordshire Terrier Mix",yellow-brown,short,medium,yes,yes
+1425,Csoki,6.08,female,Jack Russell Terrier Mix,black and brown,short,small,,
+1426,Kalle,6.25,male,Unknown Mix,brown,short,medium,,yes
+1427,Masni,7.25,female,Unknown Mix,brown,short,small,no,no
+1428,Baber,8.75,female,Dachshund Mix,black and tan,short,small,,
+1429,Dio,6.75,male,Unknown Mix,apricot,wirehaired,medium,no,yes
+1430,Jenny,8.75,female,Unknown Mix,brown and white,short,medium,,yes
+1431,Siberia,7.33,male,Siberian Husky,black and white,short,medium,,yes
+1432,Dylen,6.5,male,Unknown Mix,yellow-brown,wirehaired,medium,,yes
+1433,Lili,7.25,female,Labrador Retriever Mix,black,short,medium,yes,
+1434,Harro,6.83,male,Unknown Mix,white,wirehaired,medium,,
+1435,Szalka,5.92,male,Unknown Mix,apricot,short,large,yes,
+1436,Achaz,6.17,male,Unknown Mix,black and white,short,medium,,yes
+1437,Bajos,7.92,female,"Bolognese, Puli Mix",gray and black,medium,small,yes,yes
+1438,Sweety,6.08,male,Unknown Mix,black and brown,short,medium,,
+1439,Maike,7.0,male,Unknown Mix,black,short,medium,,
+1440,Lompos,8.67,male,"Border Collie, Mudi Mix",black,medium,medium,,
+1441,Zorro,9.33,male,"Pumi, Schnauzer Mix",gray,long,small,,
+1442,Adu/Borzas,6.08,male,Unknown Mix,black,wirehaired,medium,yes,yes
+1443,Picur,10.0,male,Unknown Mix,sable,short,medium,,
+1444,Fefe,8.83,male,Unknown Mix,black,short,large,,
+1445,Fips,6.25,male,Unknown Mix,black,wirehaired,medium,,
+1446,Szurkecske,6.83,female,Terrier Mix,gray,short,medium,,
+1447,Ditta,6.83,female,Staffordshire Terrier Mix,striped,short,medium,,
+1448,Luca,6.75,female,Unknown Mix,brown,short,medium,,
+1449,Carly,6.92,female,Unknown Mix,brown,short,medium,,
+1450,Lou,6.08,male,Unknown Mix,yellow-brown,short,medium,,
+1451,Lana,6.08,female,Unknown Mix,black,short,medium,,
+1452,Marina,7.83,female,Labrador Retriever Mix,black,short,medium,,
+1453,Abigel,6.83,female,Unknown Mix,brown and white,short,medium,,
+1454,,7.08,male,"Puli, Pumi Mix",black,long,medium,,
+1455,Holle Anyo,16.83,female,Labrador Retriever Mix,apricot,short,medium,yes,yes
+1456,Chester,7.0,male,Unknown Mix,black,short,medium,,
+1457,Artur,7.33,male,"Dachshund, German Shepherd Dog Mix",black and brown,medium,medium,no,yes
+1458,Rana,7.5,female,Unknown Mix,golden,medium,medium,,yes
+1459,Tokmag,9.83,female,German Shepherd Dog Mix,saddle back,short,medium,yes,yes
+1460,Mirco,11.67,male,Sarplaninac,gray and black,long,large,yes,
+1461,Csivit,9.17,male,Unknown Mix,black and white,short,large,yes,
+1462,,7.17,female,Unknown Mix,gray and black,short,medium,,
+1463,Arno,7.75,male,German Shepherd Dog Mix,black and brown,short,medium,,
+1464,,6.17,female,Unknown Mix,brown,short,medium,,
+1465,Lorinc,8.83,male,Mudi Mix,black,medium,medium,yes,
+1466,Baba,7.83,female,Dachshund Mix,brown and white,short,small,,
+1467,Rozina,7.33,female,Unknown Mix,black,short,medium,,yes
+1468,Frida,12.08,female,German Shepherd Dog,sable,short,medium,no,
+1469,Pepe,6.83,male,Dachshund Mix,tricolor,short,small,yes,yes
+1470,Marco,8.25,male,Dachshund Mix,black,short,medium,,
+1471,Virginia,10.92,female,Unknown Mix,black and brown,short,medium,,
+1472,,6.42,female,German Shepherd Dog Mix,black and brown,short,medium,,
+1473,Bessy,6.17,female,Unknown Mix,saddle back,short,medium,,
+1474,Jakab,6.83,male,Hound Mix,brown,short,large,yes,
+1475,Carlo,10.92,male,Unknown Mix,black,wirehaired,medium,,
+1476,Dener,12.92,male,Unknown Mix,brown,short,large,no,yes
+1477,Primus,16.92,male,German Shepherd Dog,sable,short,medium,,
+1478,Sunny,10.17,female,Unknown Mix,white,short,medium,,yes
+1479,Juhasz,11.0,male,Kuvasz,white,medium,large,yes,
+1480,Betyarka,14.33,male,Unknown Mix,saddle back,short,large,,
+1481,Rozi,8.92,female,"Hungarian Vizsla, Labrador Retriever Mix",yellow,short,medium,,
+1482,Romeo,11.92,male,Unknown Mix,gray and white,short,large,yes,
+1483,Dumbi,7.0,female,"Golden Retriever, Setter, Vizsla Mix",brown and white,medium,medium,,yes
+1484,Dina,15.92,female,Unknown Mix,brown and white,short,medium,,yes
+1485,Potyi,8.17,female,Unknown Mix,black and white,short,medium,,
+1486,Castor,7.75,male,Siberian Husky Mix,black and white,short,medium,,yes
+1487,,10.08,female,"Bolognese, Havanese",white,long,small,,
+1488,Inca,7.25,female,Unknown Mix,black and brown,short,medium,,yes
+1489,Helena,7.17,female,Unknown Mix,yellow-brown,short,medium,,
+1490,Franklin,9.17,male,German Shepherd Dog,sable,short,medium,,yes
+1491,,6.92,male,Unknown Mix,yellow-brown,short,medium,,yes
+1492,Stefan,7.75,male,"Belgian Malinois, Hungarian Vizsla Mix",brown,short,medium,,
+1493,Bobby,6.25,male,German Shepherd Dog Mix,black and brown,short,medium,,
+1494,Mira,13.67,female,"Puli, Schnauzer, Spaniel Mix",black,long,medium,no,yes
+1495,Zoya,15.92,female,Unknown Mix,yellow-brown,short,medium,,yes
+1496,Keverek Kislany,6.08,female,Unknown Mix,black,short,medium,no,yes
+1497,Temes,7.5,male,Labrador Retriever Mix,black,short,medium,,
+1498,Conny,6.83,female,Unknown Mix,white,short,medium,,yes
+1499,Buddy,6.25,male,German Shepherd Dog Mix,black and brown,short,medium,,
+1500,Bobi,7.92,male,Unknown Mix,gray,short,large,no,yes
+1501,Amalia,6.92,female,Unknown Mix,brown and white,short,medium,,
+1502,Ragcsa,8.08,male,Unknown Mix,brown,short,medium,no,
+1503,Lelenc,7.5,female,Unknown Mix,black and white,short,large,no,
+1504,Nugat,7.42,male,German Pointer Mix,brown,short,medium,yes,yes
+1505,Brikett,8.17,male,Schnauzer Mix,black,wirehaired,medium,yes,yes
+1506,Bela,7.25,male,Unknown Mix,black and tan,short,medium,no,
+1507,Buksi,6.75,female,Unknown Mix,apricot,short,medium,yes,yes
+1508,Amina,9.08,female,Unknown Mix,brown and white,short,medium,no,yes
+1509,Flexy,10.75,male,Unknown Mix,black and brown,short,medium,,yes
+1510,Blikk,6.5,male,"Bernese Mountain Dog, Dachshund Mix",tricolor,medium,small,no,yes
+1511,Blacky,9.08,male,"American Pit Bull Terrier, Staffordshire Terrier Mix",black and white,short,large,yes,
+1512,Snoopy,8.17,female,Doberman Mix,black,short,medium,yes,yes
+1513,Mudika,7.08,male,Mudi Mix,black,medium,small,,yes
+1514,Sue,6.92,female,Unknown Mix,brown and white,short,medium,,
+1515,Tom,7.25,male,Unknown Mix,black,short,medium,no,
+1516,Luca,8.17,female,Unknown Mix,black,short,medium,yes,yes
+1517,Negro,11.0,male,Briard Mix,black,long,large,yes,yes
+1518,Zoe,11.0,female,German Shepherd Dog,brown,short,large,,yes
+1519,Sophy,9.92,female,German Shepherd Dog Mix,black and tan,short,medium,yes,
+1520,Szormok,14.92,male,Unknown Mix,saddle back,medium,large,yes,
+1521,Toto,7.17,male,Siberian Husky Mix,black and white,short,medium,no,yes
+1522,Dani,10.08,male,Staffordshire Terrier Mix,black and white,short,large,,
+1523,,11.17,male,Unknown Mix,black,short,medium,,
+1524,Rozsdi,14.42,male,Unknown Mix,brown and white,short,large,,
+1525,Teo,7.75,male,Unknown Mix,black,short,medium,,yes
+1526,Maci,16.17,male,Unknown Mix,brown and white,short,large,,
+1527,Tuske,15.92,male,Collie Mix,tricolor,long,medium,,yes
+1528,Tigo,10.92,male,"German Shepherd Dog, Labrador Retriever, Staffordshire Terrier Mix",black and brown,medium,large,yes,no
+1529,Donci,14.92,male,Old German Shepherd Mix,brown and white,long,medium,,
+1530,Nape,6.58,female,Dachshund Mix,saddle back,short,small,,yes
+1531,Malna,12.92,female,Unknown Mix,black and brown,long,medium,yes,
+1532,Anka,8.92,female,Unknown Mix,black,short,medium,,yes
+1533,Beni,13.92,male,"Beagle, Dachshund Mix",tricolor,short,small,no,
+1534,Martina,7.75,female,Labrador Retriever Mix,black,short,medium,,
+1535,Fruzsi,14.17,female,Schnauzer Mix,gray and white,medium,medium,yes,
+1536,Patak,6.83,female,Dachshund Mix,black and tan,medium,small,,yes
+1537,Stella,15.92,female,German Shepherd Dog,saddle back,short,medium,,
+1538,Primas,8.33,male,Dachshund Mix,black and tan,short,small,,yes
+1539,Celi,7.0,male,Rottweiler Mix,black and tan,short,large,,yes
+1540,Bloki,7.25,male,"German Shepherd Dog, Rottweiler, Staffordshire Terrier Mix",sable,short,medium,no,yes
+1541,Zsani,14.92,female,Dachshund Mix,brown,short,medium,,
+1542,Ledi,7.17,female,German Shepherd Dog,black and tan,short,large,,yes
+1543,Hilda,7.75,female,Unknown Mix,brown,short,medium,,
+1544,Bundas,7.92,male,Terrier Mix,black and white,medium,medium,yes,
+1545,Chagall,7.17,male,German Shepherd Dog Mix,sable,medium,large,,yes
+1546,Betti,8.25,female,German Shepherd Dog Mix,sable,medium,large,no,yes
+1547,Rachel,13.25,female,Rhodesian Ridgeback Mix,red,short,large,,
+1548,Jessica,6.75,female,Unknown Mix,golden,short,medium,,yes
+1549,Sharon,14.33,female,Beagle,tricolor,short,medium,,yes
+1550,Filou,12.25,male,German Pointer Mix,black and white,short,medium,,no
+1551,Panka,14.92,female,German Shepherd Dog Mix,black and brown,short,large,yes,
+1552,Gabor,8.25,male,Siberian Husky Mix,yellow,short,medium,,
+1553,Herta,7.25,female,Unknown Mix,brown and white,short,medium,,
+1554,Kaboca,7.5,female,Unknown Mix,black,wirehaired,medium,yes,
+1555,Amalia,13.17,female,Unknown Mix,yellow-brown,long,large,yes,
+1556,Szemi,7.25,female,Unknown Mix,tricolor,short,large,yes,
+1557,Macky,6.5,male,Unknown Mix,yellow-brown,short,medium,,
+1558,Alma,12.92,female,Unknown Mix,gray and black,long,medium,yes,
+1559,Zsombi,14.92,male,Dachshund Mix,brown,short,medium,,
+1560,Gergo,6.67,male,Unknown Mix,black,short,medium,,yes
+1561,Anda,7.5,female,Labrador Retriever Mix,black,short,large,no,yes
+1562,,9.25,male,Pinscher Mix,black and brown,short,small,,
+1563,Legra,7.17,female,Labrador Retriever Mix,black,short,large,,yes
+1564,Sarah,11.17,female,Unknown Mix,apricot,short,medium,yes,yes
+1565,Havana,8.33,female,Unknown Mix,black,short,medium,,yes
+1566,Brico,6.75,male,Unknown Mix,striped,wirehaired,medium,yes,yes
+1567,Tarzan,7.92,male,Terrier Mix,yellow-brown,medium,large,no,
+1568,,6.67,male,Dachshund Mix,yellow-brown,short,small,no,yes
+1569,Prucsi,10.33,female,Unknown Mix,yellow-brown,short,large,yes,
+1570,Csilla,7.0,female,German Shepherd Dog Mix,black and brown,short,large,no,
+1571,Borika,8.25,female,Pinscher Mix,brown,short,small,yes,yes
+1572,Panna,6.5,female,Bull Terrier Mix,yellow,short,medium,yes,yes
+1573,Borcsa,14.33,female,Unknown Mix,black and tan,short,medium,yes,yes
+1574,Ricsi,7.67,male,"Labrador Retriever, Rhodesian Ridgeback Mix",golden,short,large,yes,yes
+1575,Bond,6.75,male,Unknown Mix,brown and white,wirehaired,medium,yes,yes
+1576,Benga,6.75,male,Unknown Mix,gray,medium,medium,yes,yes
+1577,Pocok,6.5,female,Bull Terrier Mix,striped,short,medium,yes,yes
+1578,Ismeretlen...,7.33,male,Fox Terrier,black and white,short,small,no,yes
+1579,Robi,12.17,male,Labrador Retriever Mix,apricot,short,large,,
+1580,Chili,6.67,male,Unknown Mix,brown,short,medium,,yes
+1581,Fuchur A Sarkany,6.67,male,"Border Collie, Labrador Retriever, White Swiss Shepherd Mix",golden,medium,medium,no,yes
+1582,Eben,6.58,male,Unknown Mix,black,medium,small,,yes
+1583,,7.33,male,Unknown Mix,yellow-brown,medium,medium,,
+1584,Somlo,11.83,female,Dachshund Mix,brown,short,small,,yes
+1585,Boogie,13.92,male,Dogo Argentino Mix,spotty,short,medium,,
+1586,Berci,8.33,male,Unknown Mix,black,short,medium,,
+1587,Nanny,7.83,female,"German Shepherd Dog, Labrador Retriever Mix",golden,short,medium,no,yes
+1588,Bogar,7.83,male,Unknown Mix,black,medium,medium,yes,
+1589,Tomi Es Rani,11.33,male,Unknown Mix,black,wirehaired,medium,yes,
+1590,Rosa,7.75,female,Unknown Mix,black,short,medium,,
+1591,Fondu,7.0,female,"Chinese Shar-Pei, Labrador Retriever Mix",yellow-brown,short,medium,yes,yes
+1592,Csopi,7.33,female,Terrier Mix,black,short,medium,,
+1593,Mimi,7.33,female,Unknown Mix,gray,short,medium,,
+1594,,7.42,male,"Pekingese, Spitz Mix",black and white,medium,small,no,
+1595,,11.83,female,German Shepherd Dog Mix,black and brown,short,small,no,yes
+1596,Juanita,6.92,female,Dogo Argentino,white,short,medium,yes,yes
+1597,Annabell,7.25,female,Unknown Mix,brown,short,medium,,
+1598,Csillag,7.08,male,Unknown Mix,black and brown,short,large,yes,
+1599,Nanook,7.33,male,German Shepherd Dog Mix,sable,medium,large,,yes
+1600,Habarcs,11.58,female,Unknown Mix,tricolor,short,medium,yes,
+1601,Pixie,6.67,female,Staffordshire Terrier Mix,black and brown,short,medium,yes,yes
+1602,Suti,6.75,male,Unknown Mix,tricolor,short,medium,no,yes
+1603,Bozont,8.92,male,Schnauzer Mix,striped,short,small,no,yes
+1604,Raba,9.33,male,"Belgian Sheepdog, German Shepherd Dog Mix",tricolor,short,medium,yes,
+1605,,10.33,male,"Bolognese, Havanese, Maltese",brown and white,medium,small,no,
+1606,Turbo,7.58,male,Unknown Mix,black,short,medium,,
+1607,Larissa,7.08,female,Unknown Mix,black and brown,short,medium,,yes
+1608,Galiba,14.58,male,Unknown Mix,yellow,medium,medium,yes,
+1609,Gyali Gizmo,10.83,male,Unknown Mix,black,short,medium,yes,
+1610,,6.17,male,Unknown Mix,white,medium,small,no,
+1611,Jim,11.92,male,Unknown Mix,black and brown,short,medium,,yes
+1612,,6.17,female,Unknown Mix,yellow-brown,short,medium,no,
+1613,Ozdor,8.92,male,Unknown Mix,black,short,large,,yes
+1614,Opal,8.92,female,Unknown Mix,black,short,large,,
+1615,River,7.0,male,Unknown Mix,brown,short,medium,,yes
+1616,Izabell,8.92,female,German Shepherd Dog Mix,sable,short,large,,yes
+1617,,6.17,male,Unknown Mix,yellow-brown,short,small,,
+1618,Domino,14.92,male,German Dog,spotty,short,large,yes,
+1619,Bobo,6.5,male,Unknown Mix,tricolor,short,small,no,yes
+1620,Sashalmi Alex,12.25,male,Unknown Mix,gray and white,short,large,yes,
+1621,Brenda,6.67,female,Unknown Mix,black and white,short,medium,,
+1622,Jetta,6.58,female,Unknown Mix,black,short,small,,
+1623,Prinz,7.67,male,Unknown Mix,black,wirehaired,medium,,
+1624,Irisz,8.75,female,Staffordshire Terrier Mix,brown and white,short,medium,yes,yes
+1625,Limbo,12.92,male,Puli Mix,gray,wirehaired,medium,,yes
+1626,,6.5,male,Unknown Mix,brown,short,medium,,
+1627,Donna &Amp,11.42,female,German Shepherd Dog,sable,long,large,,
+1628,Theodora,10.92,female,Unknown Mix,brown,long,medium,,yes
+1629,Malvina,7.75,female,Unknown Mix,gray and black,wirehaired,medium,,
+1630,Waldi,6.75,male,Unknown Mix,black and brown,short,medium,,
+1631,Patsy,7.5,female,Unknown Mix,yellow-brown,short,medium,,yes
+1632,Tanja,7.92,female,German Shepherd Dog Mix,black,short,medium,,yes
+1633,Ryen,7.83,male,Unknown Mix,black and brown,short,medium,,
+1634,Kiskutya,6.58,female,Unknown Mix,brown,short,small,no,yes
+1635,Barnabas,7.75,male,Dachshund Mix,brown,short,medium,,yes
+1636,Puszi,14.42,female,Unknown Mix,black and white,short,large,no,yes
+1637,Bari,8.0,female,Kuvasz Mix,white,medium,large,,
+1638,Watson,7.42,male,Unknown Mix,black and brown,short,medium,,yes
+1639,Maya,7.25,female,Adoptable From:,apricot,short,medium,no,
+1640,Johnny,13.0,male,Unknown Mix,sable,short,medium,yes,yes
+1641,Panni,11.5,female,Bull Terrier Mix,white,short,medium,no,yes
+1642,Mekkon,6.75,male,German Shepherd Dog Mix,brown,short,medium,,yes
+1643,"""Bjorn""",6.75,male,Labrador Retriever Mix,black,short,medium,no,yes
+1644,Barnabas,8.5,male,Unknown Mix,brown,short,medium,no,yes
+1645,Peti,7.0,male,Schnauzer Mix,black,long,large,,yes
+1646,Chuby,12.5,female,"Havanese, Puli, Pumi Mix",gray,long,medium,yes,
+1647,Kiki,6.67,male,Fox Terrier Mix,tricolor,short,medium,,yes
+1648,Dezso,7.33,male,Unknown Mix,black and brown,long,small,no,
+1649,Lucky,7.25,male,Unknown Mix,brown,long,small,no,yes
+1650,Bruno,9.5,male,Unknown Mix,black,short,large,no,
+1651,Marina,6.83,female,Unknown Mix,black and brown,medium,large,,yes
+1652,Pongo,8.0,male,Unknown Mix,brown,medium,large,yes,yes
+1653,Jamie,7.92,male,Unknown Mix,black,short,medium,,
+1654,Kisvardai Keve,7.17,male,Greyhound Mix,yellow-brown,short,medium,yes,yes
+1655,Balazs,8.0,male,Unknown Mix,brown,short,large,no,yes
+1656,Szergely,7.0,male,Unknown Mix,black and brown,medium,medium,,yes
+1657,Muffin,6.75,female,German Shepherd Dog Mix,black and brown,short,medium,,yes
+1658,Rudy,9.33,male,Staffordshire Terrier Mix,spotty,short,medium,no,yes
+1659,Bozont,18.5,male,Unknown Mix,gray and white,medium,large,no,yes
+1660,Henry,7.0,male,Unknown Mix,black,short,medium,,
+1661,Fulop,8.5,male,Puli Mix,black,long,medium,,
+1662,Jimboo,11.67,male,Dogo Argentino,white,short,medium,,yes
+1663,Rosso,8.58,male,Unknown Mix,red,medium,medium,,yes
+1664,Dufi,7.75,male,Unknown Mix,white,short,medium,,
+1665,Lotar,14.92,male,Fox Terrier Mix,spotty,short,medium,,yes
+1666,Viktor,17.25,male,Unknown Mix,black and white,short,medium,yes,
+1667,Panni,7.92,female,Unknown Mix,tricolor,short,small,yes,yes
+1668,Beagle Fiu,8.58,male,Beagle,tricolor,short,medium,no,
+1669,Shoko,7.92,male,Unknown Mix,black,medium,medium,,
+1670,Talalt Spicc,11.58,male,Spitz,white,long,small,no,
+1671,Bobby,7.92,male,Unknown Mix,black,short,medium,,
+1672,Carita,7.58,female,Unknown Mix,yellow-brown,medium,medium,,
+1673,Kisvardai Kolos,7.17,male,Greyhound Mix,yellow-brown,short,medium,yes,yes
+1674,Einstein,8.08,male,Pumi Mix,gray,medium,medium,no,yes
+1675,Gyali Csipi,12.42,female,Unknown Mix,yellow-brown,short,medium,,
+1676,Mumus,7.08,male,Unknown Mix,brown,medium,medium,,
+1677,Betty,8.92,female,German Shepherd Dog Mix,saddle back,short,medium,yes,yes
+1678,Picurella,14.67,female,Unknown Mix,black and white,short,small,yes,
+1679,,6.92,female,Unknown Mix,brown,medium,small,,
+1680,Hopi,8.75,male,Unknown Mix,yellow-brown,short,medium,,
+1681,Tina,9.92,female,Cocker Spaniel,black and brown,medium,medium,,
+1682,Resi,13.92,female,Unknown Mix,sable,short,medium,,
+1683,Kajla,7.5,female,Dachshund Mix,brown,short,medium,,
+1684,Marta,9.0,female,Unknown Mix,brown and white,short,medium,,
+1685,Schnecke,7.83,female,Terrier Mix,gray and black,medium,medium,,yes
+1686,Bebi,7.75,female,Unknown Mix,black,medium,medium,,
+1687,Camillo,8.92,male,Pekingese Mix,brown,short,small,,
+1688,Aden,15.92,female,Beagle,tricolor,short,medium,,
+1689,Cheryl,7.92,female,Unknown Mix,black,short,medium,,yes
+1690,Guszti,12.58,male,Dachshund Mix,black and brown,wirehaired,medium,,
+1691,Bogi,7.67,female,Dachshund Mix,black,short,medium,,yes
+1692,Adele,7.92,female,Unknown Mix,sable,short,medium,,
+1693,Xanto,9.83,male,Puli Mix,black,long,medium,,
+1694,Tina,8.08,female,"Kuvasz, Labrador Retriever Mix",brown and white,short,large,no,yes
+1695,Geri,9.92,male,Unknown Mix,spotty,short,medium,,
+1696,Jonny,15.67,male,Unknown Mix,black and brown,short,medium,,
+1697,Ria,7.33,female,Unknown Mix,black and brown,wirehaired,medium,,yes
+1698,Adam,7.75,male,Unknown Mix,black,wirehaired,small,,
+1699,Rezes,10.0,male,Unknown Mix,red,short,medium,yes,
+1700,Borzas,10.75,male,Tibetan Terrier,black,long,medium,,yes
+1701,Suzy,8.17,female,Unknown Mix,black and brown,short,large,yes,yes
+1702,Benga,8.92,male,"Beagle, Chihuahua Mix",black and white,short,small,no,yes
+1703,Dani,7.75,male,Unknown Mix,black,short,small,,no
+1704,Tulipan,12.67,female,Dachshund Mix,red,short,small,,
+1705,Reta,7.33,female,Unknown Mix,black and brown,wirehaired,medium,,yes
+1706,Anda,7.0,female,Unknown Mix,brown,short,medium,,yes
+1707,Olgi,8.08,female,Unknown Mix,black,medium,medium,yes,yes
+1708,Dundi,10.92,female,Dachshund Mix,red,long,small,,
+1709,Grafit Grafi,7.25,male,Terrier Mix,black and tan,short,medium,,
+1710,Puli Keverek,10.75,male,Unknown Mix,black,long,medium,,
+1711,Hevesi Palota Pincsi,16.75,male,Pekingese,red,long,small,,
+1712,Tufa,7.25,male,Unknown Mix,yellow-brown,medium,medium,,
+1713,Rella,7.33,female,Unknown Mix,sable,wirehaired,medium,,yes
+1714,Jamie,8.17,male,Unknown Mix,gray,short,medium,yes,
+1715,Gyali Tacsko Keverek,8.75,male,Unknown Mix,brown and white,short,medium,,yes
+1716,Dino,7.67,female,Dachshund Mix,red,short,small,,
+1717,,13.75,male,Unknown Mix,yellow-brown,short,small,,yes
+1718,Hevesi Keverek Kutyus,10.75,male,Unknown Mix,black and tan,medium,medium,,
+1719,Bundy,12.92,male,Puli,black,long,medium,,
+1720,Geza,7.92,male,Dachshund Mix,yellow,short,medium,,
+1721,Elhagyott,8.25,female,Unknown Mix,spotty,short,medium,,
+1722,Leila,8.17,female,Staffordshire Terrier Mix,black and white,short,medium,,
+1723,Maci,14.75,male,Unknown Mix,brown,medium,large,,
+1724,Nudli,7.92,female,Unknown Mix,brown,short,medium,,yes
+1725,Macko,7.0,male,Unknown Mix,apricot,short,medium,yes,
+1726,Kisvacak,7.42,male,Unknown Mix,black,medium,small,,
+1727,Beni,18.75,male,Unknown Mix,black and white,short,large,no,
+1728,Sumi,9.75,male,Chinese Shar-Pei,yellow-brown,short,medium,,
+1729,Lady,7.75,female,Caucasian Ovtcharka Mix,apricot,medium,medium,,
+1730,Tundi,8.25,female,Unknown Mix,black and white,medium,medium,,
+1731,Buzz,8.25,male,Unknown Mix,black and brown,short,medium,,
+1732,Patrick,7.92,male,Staffordshire Terrier Mix,yellow-brown,short,medium,,
+1733,Basel,9.25,male,"Dachshund, Spaniel Mix",black,short,medium,,
+1734,Tuna,10.92,female,Unknown Mix,striped,short,medium,,
+1735,Gina,12.58,female,Unknown Mix,brown,short,medium,yes,
+1736,Felicia,7.08,female,Unknown Mix,yellow-brown,wirehaired,medium,,
+1737,Kendy Babak,7.08,male,Unknown Mix,black,medium,medium,,
+1738,Piff,7.67,male,Unknown Mix,apricot,short,medium,yes,
+1739,Vuki,7.75,male,Unknown Mix,red,short,medium,,
+1740,Gombi,7.08,male,Unknown Mix,black,medium,medium,,
+1741,Juci,9.83,female,German Shepherd Dog Mix,sable,short,large,,
+1742,Grafit Besso,12.5,female,Unknown Mix,black,short,medium,yes,
+1743,Foltos,10.67,male,Fox Terrier,brown and white,short,small,no,yes
+1744,Missy,7.0,female,Unknown Mix,white,medium,medium,,
+1745,Liderc,7.42,male,Staffordshire Terrier Mix,yellow-brown,short,medium,,yes
+1746,Grafit Dakar,7.25,male,Unknown Mix,yellow,short,medium,yes,
+1747,Grafit Damian,7.25,male,Unknown Mix,black,short,medium,,
+1748,Pici,7.42,male,Unknown Mix,black and white,short,medium,,
+1749,Mizo,7.75,female,Unknown Mix,spotty,short,medium,yes,
+1750,Picur,10.75,male,Unknown Mix,apricot,short,medium,,
+1751,Gombi,15.92,male,Great Dane Mix,brown,short,medium,,yes
+1752,Mizo,7.75,female,Unknown Mix,spotty,short,medium,yes,
+1753,,9.42,female,Pekingese,brown and white,medium,small,no,yes
+1754,Junior,9.25,male,Unknown Mix,apricot,short,medium,,yes
+1755,Betty,12.92,female,Unknown Mix,spotty,medium,medium,,
+1756,Lili,7.08,female,Unknown Mix,black and white,short,medium,,
+1757,Fuge,10.08,male,Fox Terrier Mix,tricolor,wirehaired,small,no,yes
+1758,Borisz,7.58,male,Unknown Mix,brown and white,long,medium,no,yes
+1759,Hera,11.67,female,German Pointer Mix,black and white,wirehaired,medium,,yes
+1760,Marley,11.5,male,Unknown Mix,black,long,large,yes,yes
+1761,Grimbusz,8.17,male,Unknown Mix,black and brown,medium,medium,,yes
+1762,Niga,8.92,male,Labrador Retriever Mix,black,short,medium,,yes
+1763,Kantor,16.92,male,German Shepherd Dog Mix,saddle back,medium,medium,,yes
+1764,Todor,16.92,male,German Shepherd Dog Mix,sable,medium,large,,yes
+1765,Nedda,7.33,female,Unknown Mix,brown,short,medium,,yes
+1766,Moncsi,10.25,female,Unknown Mix,black and white,short,large,yes,yes
+1767,Bartok,9.0,male,Unknown Mix,red,medium,medium,,yes
+1768,Toto,11.42,male,Pekingese Mix,black and brown,medium,small,no,yes
+1769,Nuba,7.33,female,Unknown Mix,brown,short,medium,,yes
+1770,Tequila,16.92,male,Dachshund Mix,red,short,small,,yes
+1771,Ambra,16.92,male,Siberian Husky Mix,gray and white,medium,large,,yes
+1772,Linda,7.92,female,Dachshund Mix,yellow-brown,short,medium,,
+1773,Barnabu,13.92,male,"Akita, German Shepherd Dog Mix",yellow-brown,short,large,,yes
+1774,Lori,10.42,female,Unknown Mix,yellow-brown,medium,medium,yes,yes
+1775,Pulcsi,16.92,male,Puli Mix,white,long,medium,,yes
+1776,Pako,11.67,male,Unknown Mix,black,long,large,no,
+1777,Vincent,7.67,male,Unknown Mix,saddle back,medium,medium,,yes
+1778,Bubu,8.92,male,Staffordshire Terrier Mix,brown,short,medium,,
+1779,Bogi,7.58,female,Unknown Mix,black,short,large,no,yes
+1780,Baltazar,9.92,male,Unknown Mix,black,medium,large,,yes
+1781,Valcsi,9.58,female,Unknown Mix,black and white,short,medium,yes,
+1782,Baro,7.92,male,Unknown Mix,black and brown,short,large,no,yes
+1783,Maszat,11.33,female,Terrier Mix,apricot,short,small,yes,
+1784,Frakk,10.42,male,Vizsla Mix,brown,short,large,,
+1785,Matzo,16.92,male,Caucasian Ovtcharka Mix,black and white,medium,medium,,
+1786,Many,7.83,male,Terrier Mix,brown and white,wirehaired,small,no,
+1787,Terry,15.92,male,Fox Terrier Mix,black and white,short,medium,,
+1788,Candy,9.92,female,Dachshund Mix,sable,short,medium,,
+1789,Orokbeado Nap: Jan.. Illatos Ut,6.92,male,Unknown Mix,apricot,short,medium,,
+1790,Field,8.33,male,Chinese Shar-Pei Mix,apricot,short,medium,yes,
+1791,Lepke,8.92,female,Hound Mix,black and brown,short,medium,,yes
+1792,Tapasz,12.92,male,Belgian Sheepdog Mix,black and brown,long,large,yes,
+1793,Cili,8.75,female,Unknown Mix,black and white,short,large,yes,
+1794,Mesi,9.92,female,Unknown Mix,yellow-brown,short,medium,yes,
+1795,Morzsi,11.25,female,Dachshund Mix,black and white,short,small,yes,yes
+1796,Solange,9.92,female,Unknown Mix,apricot,long,medium,yes,yes
+1797,Furge,9.92,male,Unknown Mix,black and white,short,medium,no,yes
+1798,Kefe,9.92,male,German Pointer,brown and white,long,medium,no,
+1799,Hedi,8.83,female,German Shepherd Dog Mix,sable,medium,medium,,yes
+1800,Rozi,10.5,female,Vizsla Mix,brown,wirehaired,medium,,yes
+1801,Gusto,8.08,male,Unknown Mix,black,medium,medium,,
+1802,Solo,12.92,male,Unknown Mix,black,short,medium,,
+1803,Roxi,7.92,female,Rottweiler Mix,black and brown,short,large,,yes
+1804,Kajla,7.42,male,Unknown Mix,black and brown,short,large,,yes
+1805,Csivi,13.92,female,Unknown Mix,brown and white,long,medium,,yes
+1806,Doc,8.33,male,Unknown Mix,black and brown,short,medium,,
+1807,Maci,7.83,male,Unknown Mix,brown,medium,large,,yes
+1808,Gazsi,15.58,male,Unknown Mix,apricot,wirehaired,medium,,
+1809,Csaba,9.92,male,Unknown Mix,apricot,long,medium,,
+1810,Furtos,7.42,male,Unknown Mix,black and white,medium,medium,,yes
+1811,Drive,9.5,female,Unknown Mix,apricot,medium,medium,,
+1812,Happy,9.42,male,Unknown Mix,black and tan,short,medium,,
+1813,Dingo,8.58,male,Unknown Mix,striped,short,medium,,
+1814,Bella,9.67,female,Setter Mix,black and brown,medium,medium,,
+1815,Sinbad,7.08,male,Unknown Mix,brown,short,small,,yes
+1816,Kuvasz,13.92,female,Kuvasz Mix,white,long,medium,,
+1817,Bator,8.0,male,Unknown Mix,white,medium,small,yes,yes
+1818,Yess,11.17,female,Beagle,brown and white,short,medium,,
+1819,Rasputyin,13.92,male,German Shepherd Dog,sable,short,large,,
+1820,Csopi Ur,11.92,male,Unknown Mix,brown and white,wirehaired,small,no,yes
+1821,Benoke,8.67,male,Unknown Mix,black,short,large,no,
+1822,"Limuzin  ""Limo""",8.5,female,Unknown Mix,black,medium,medium,no,yes
+1823,Arpika,8.17,male,Unknown Mix,brown and white,short,medium,no,yes
+1824,Turbo,8.75,male,Unknown Mix,yellow-brown,short,medium,no,
+1825,,7.08,female,Unknown Mix,black and tan,medium,small,,
+1826,Maya,8.67,female,Unknown Mix,black and white,short,medium,yes,yes
+1827,Luky,12.08,female,Rottweiler,black and tan,short,large,yes,yes
+1828,Yoko,7.33,female,Unknown Mix,brown,short,small,yes,yes
+1829,Bobette,7.92,female,Labrador Retriever Mix,black,short,medium,,
+1830,Mr. Chilli,8.58,male,Unknown Mix,black and brown,short,medium,no,
+1831,Reni,7.92,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+1832,Bambusz,8.67,female,Unknown Mix,black and brown,short,medium,yes,
+1833,Barka,7.75,female,Unknown Mix,black,short,medium,yes,
+1834,Szivi,8.0,female,Unknown Mix,black and brown,short,medium,yes,
+1835,Juhar,7.75,female,Unknown Mix,black and white,short,medium,yes,
+1836,Picurka,8.0,female,Unknown Mix,black,short,medium,,
+1837,Filipke,8.42,male,Unknown Mix,black and brown,short,small,no,
+1838,Oszike,7.5,female,Unknown Mix,black and white,short,medium,yes,yes
+1839,River,7.92,female,Unknown Mix,saddle back,short,medium,yes,
+1840,Ali,8.25,male,Unknown Mix,brown,short,medium,,
+1841,Bia,12.5,female,Unknown Mix,black and white,short,medium,yes,
+1842,Boni,7.25,female,Unknown Mix,black and white,medium,medium,no,
+1843,Cherry Queen,10.92,female,Unknown Mix,wild boar,medium,large,yes,
+1844,Lola,9.92,female,Unknown Mix,brown,short,small,yes,yes
+1845,Chivas,8.67,male,Unknown Mix,red,short,large,,yes
+1846,Carmen,9.25,female,German Shepherd Dog,sable,short,medium,,yes
+1847,Satanka,10.0,male,Unknown Mix,black,short,large,,
+1848,Kuszkusz,9.17,male,Unknown Mix,gray and white,long,medium,yes,yes
+1849,Dumbo,11.25,male,Unknown Mix,yellow,short,medium,yes,
+1850,Rezi,10.92,female,Unknown Mix,yellow-brown,wirehaired,medium,,
+1851,Verne,8.33,male,Unknown Mix,black and tan,short,medium,yes,
+1852,Merzse Twist,8.42,female,Unknown Mix,black,short,medium,yes,
+1853,Tarna,9.33,female,Unknown Mix,black and tan,short,medium,yes,
+1854,Rico,13.0,male,Dachshund Mix,brown,short,small,,
+1855,Jago,7.25,male,Dachshund Mix,black and brown,medium,medium,,
+1856,Szofi,9.92,female,Unknown Mix,black and tan,medium,medium,yes,
+1857,Scylla,9.75,female,Unknown Mix,brown and white,short,medium,,
+1858,Rambo,9.17,male,German Shepherd Dog Mix,sable,short,large,,yes
+1859,Norma,8.75,female,German Shepherd Dog,sable,short,medium,,yes
+1860,Bokros Mini,10.42,female,Unknown Mix,sable,short,medium,yes,
+1861,Bounty,9.92,male,Unknown Mix,black and tan,short,medium,yes,yes
+1862,Ringo,9.33,male,Unknown Mix,saddle back,medium,medium,yes,
+1863,Szamos,9.33,male,Unknown Mix,black and tan,short,medium,yes,
+1864,Kokeny,9.83,female,German Shepherd Dog Mix,black and brown,short,large,yes,
+1865,Rufus,11.25,male,Caucasian Ovtcharka Mix,black and tan,short,large,yes,
+1866,Ijasz Krumpli,9.92,female,Dachshund Mix,black,short,small,yes,
+1867,Jaina,11.92,female,Unknown Mix,yellow,short,medium,,
+1868,Tanya,12.92,female,"Caucasian Ovtcharka, Siberian Husky Mix",yellow-brown,short,large,yes,
+1869,Korso Vanilia,10.67,female,Unknown Mix,white,medium,medium,,
+1870,Bicske,11.25,female,Caucasian Ovtcharka Mix,black and tan,short,large,yes,
+1871,Matula Bacsi,17.92,male,Staffordshire Terrier Mix,black and white,short,medium,yes,
+1872,Kapca,14.33,female,Unknown Mix,black and brown,short,medium,yes,
+1873,Jojo,8.67,male,Hound Mix,black and tan,short,medium,no,
+1874,Diana,10.0,female,Staffordshire Terrier Mix,yellow,short,medium,,yes
+1875,Szerenad,11.83,female,"Labrador Retriever, Transylvanian Hound Mix",black and white,short,medium,yes,
+1876,Tinta,10.92,male,Unknown Mix,tricolor,short,medium,yes,
+1877,Marcell,13.92,male,German Shepherd Dog Mix,yellow,short,medium,yes,
+1878,Thrall,11.92,male,Unknown Mix,yellow,short,medium,yes,
+1879,Lali,9.92,male,German Shepherd Dog Mix,saddle back,short,medium,yes,
+1880,Pottom Panka,7.33,female,Chihuahua Mix,gray and black,short,medium,no,yes
+1881,Frakk,15.25,male,Mudi Mix,black,medium,large,no,
+1882,Szoknya,11.92,female,"Golden Retriever, Kuvasz Mix",white,short,medium,yes,no
+1883,Lina Panka,13.0,female,Unknown Mix,black,short,medium,yes,yes
+1884,Rantas,11.58,female,Unknown Mix,yellow,short,medium,yes,
+1885,Lili,12.42,female,German Shepherd Dog Mix,black and tan,short,large,yes,
+1886,Mimo,8.83,female,Labrador Retriever Mix,apricot,short,large,,
+1887,Tigi,10.25,female,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+1888,Vipi,13.33,female,Whippet Mix,tricolor,short,medium,,
+1889,Sumak,14.92,male,Unknown Mix,yellow,medium,medium,yes,
+1890,Hocipo,10.92,female,Unknown Mix,tricolor,short,medium,,no
+1891,Vac,12.92,female,Caucasian Ovtcharka Mix,black and white,long,large,yes,no
+1892,Bebi,9.58,female,Dachshund Mix,black and tan,short,small,no,yes
+1893,Clio,10.08,male,Unknown Mix,yellow,short,medium,,
+1894,Bell,9.08,female,Adoptable From:,sable,medium,large,no,
+1895,Bandi,8.92,male,Unknown Mix,golden,medium,medium,no,
+1896,Bo,11.08,male,"Chihuahua, Dachshund, Pinscher Mix",golden,short,small,no,yes
+1897,Radar,11.75,male,Belgian Sheepdog Mix,apricot,short,medium,yes,
+1898,Gali,11.83,female,Golden Retriever Mix,yellow,short,medium,,yes
+1899,Gyogyo,10.5,male,Spaniel Mix,yellow,medium,medium,,yes
+1900,Hercegno,11.92,female,Unknown Mix,yellow-brown,short,medium,,
+1901,Bertha,7.75,female,German Shepherd Dog Mix,sable,short,medium,no,
+1902,Nana,11.17,female,Spaniel Mix,brown,long,small,,
+1903,Malna,8.17,female,Schnauzer Mix,gray and black,wirehaired,medium,,
+1904,Saman,11.92,female,Unknown Mix,yellow-brown,short,medium,,
+1905,Adina,7.5,female,Unknown Mix,black and brown,short,medium,no,
+1906,Mikulas,11.92,female,Unknown Mix,golden,short,medium,no,
+1907,Dustin,8.58,male,Unknown Mix,brown,short,medium,no,
+1908,Zsebike,10.08,female,Dachshund Mix,yellow-brown,short,small,,yes
+1909,Venusz,12.92,female,Unknown Mix,yellow-brown,short,medium,no,
+1910,Carlotta,8.75,female,Unknown Mix,yellow-brown,short,medium,,
+1911,Betyar,11.92,male,Unknown Mix,yellow-brown,short,medium,yes,
+1912,Butch,11.92,male,Unknown Mix,yellow-brown,short,medium,yes,
+1913,Cross,9.25,male,Unknown Mix,yellow-brown,short,medium,,
+1914,Erna,8.33,female,Unknown Mix,black,short,medium,,yes
+1915,Ziggy,7.42,male,Unknown Mix,black,short,medium,no,
+1916,Dini,8.08,female,German Shepherd Dog Mix,brown,short,medium,no,
+1917,Winnetou,9.17,male,"Labrador Retriever, Vizsla Mix",black,short,large,,yes
+1918,Boszko,11.08,male,German Shepherd Dog Mix,sable,medium,medium,no,yes
+1919,Szonda,12.92,female,Unknown Mix,black,medium,medium,no,
+1920,Rocca,8.25,female,Unknown Mix,black,short,medium,no,
+1921,Addy,9.5,female,Unknown Mix,yellow,short,medium,no,
+1922,Tara,9.25,female,Unknown Mix,black,short,medium,no,
+1923,Allie,14.92,female,Unknown Mix,black and tan,medium,medium,no,
+1924,Cairo,12.92,female,Unknown Mix,black,short,medium,no,
+1925,Alana,10.17,female,Unknown Mix,black,short,medium,no,
+1926,Boss,8.42,male,Unknown Mix,yellow,short,medium,no,yes
+1927,Borzas,11.92,male,Unknown Mix,tricolor,short,medium,no,
+1928,Vanila,9.58,female,Unknown Mix,yellow-brown,short,medium,no,
+1929,Miro,8.67,male,Unknown Mix,black,short,medium,no,
+1930,Yella,8.17,female,Unknown Mix,yellow-brown,short,medium,no,
+1931,Blacky,7.92,male,Unknown Mix,black,short,medium,no,yes
+1932,Mazli,9.17,male,Unknown Mix,white,wirehaired,medium,,
+1933,Morzsi,19.42,male,Unknown Mix,brown,short,medium,no,yes
+1934,Alexa,13.92,female,Unknown Mix,gray and black,wirehaired,medium,no,yes
+1935,Holly,15.92,female,Unknown Mix,saddle back,short,medium,no,
+1936,Eva,8.75,female,Unknown Mix,golden,short,medium,no,
+1937,Guy,9.17,male,Unknown Mix,brown,short,medium,no,yes
+1938,Sprite,9.33,female,Unknown Mix,yellow-brown,wirehaired,medium,no,
+1939,Picholo,7.58,male,Puli Mix,black,short,small,no,
+1940,Jackson,11.17,male,Unknown Mix,white,short,medium,no,
+1941,Hedda,14.92,female,Dachshund Mix,black,short,small,no,
+1942,Ramszesz,10.75,male,Unknown Mix,black and brown,short,medium,no,
+1943,Scuba,9.83,male,Unknown Mix,yellow-brown,short,medium,no,
+1944,Cale,9.42,female,Unknown Mix,golden,short,medium,no,
+1945,Csopi,12.92,female,Dachshund Mix,black,short,small,no,
+1946,Buck,8.58,male,Unknown Mix,black,short,medium,no,
+1947,Nico,12.75,male,Unknown Mix,brown,short,medium,no,
+1948,Topi,13.92,male,Unknown Mix,black and brown,short,medium,no,
+1949,Bono,8.58,male,Unknown Mix,black,short,medium,no,
+1950,Big Ben,10.75,male,Unknown Mix,black,short,large,no,
+1951,Balu,10.75,male,Unknown Mix,brown,medium,medium,no,
+1952,Max,14.92,male,German Shepherd Dog Mix,sable,short,medium,no,
+1953,Zelda,9.58,female,Unknown Mix,black and brown,short,medium,no,
+1954,Mozes,11.92,male,Mudi Mix,gray,medium,medium,,
+1955,Junior,13.75,male,Labrador Retriever Mix,black,short,large,no,
+1956,Brownie,9.58,male,Unknown Mix,brown,medium,medium,no,
+1957,Zeusz,14.92,male,Unknown Mix,golden,short,medium,no,
+1958,Csufi,11.75,male,Unknown Mix,golden,medium,medium,no,
+1959,Negro,10.75,male,Unknown Mix,black and brown,short,medium,no,
+1960,Ilma,12.92,female,Unknown Mix,brown,short,medium,no,
+1961,Mara,13.75,female,Schnauzer Mix,sable,wirehaired,large,no,
+1962,Tarka,11.83,female,Unknown Mix,brown and white,wirehaired,medium,no,
+1963,Mufi,12.92,male,Unknown Mix,gray,medium,large,no,
+1964,Afir,13.92,male,Unknown Mix,black and brown,short,medium,no,
+1965,Gigi,12.75,female,Unknown Mix,black and white,short,medium,no,
+1966,Negro,12.92,male,Unknown Mix,black,short,medium,no,
+1967,Szemi,12.92,male,Unknown Mix,sable,short,medium,no,
+1968,Avis,8.83,male,Unknown Mix,black,short,medium,no,
+1969,Satin,9.92,female,Unknown Mix,black,short,medium,no,
+1970,Teddy,17.92,male,Unknown Mix,tricolor,medium,medium,no,
+1971,Rheno,14.92,male,German Shepherd Dog,sable,medium,medium,no,
+1972,Pepe,13.92,male,Unknown Mix,brown,short,medium,no,
+1973,Benita,12.75,female,Unknown Mix,black and brown,short,medium,no,yes
+1974,Merlin,13.92,male,Puli Mix,gray,medium,medium,no,
+1975,Nyakiglab,12.33,female,Unknown Mix,black,short,medium,no,
+1976,Foehna,10.92,female,Dachshund Mix,sable,short,medium,no,
+1977,Axle,10.33,male,Unknown Mix,black and brown,medium,medium,no,
+1978,Bogyo,11.92,female,Dachshund Mix,black and brown,short,medium,,
+1979,Nana,11.92,female,German Shepherd Dog Mix,brown,short,medium,no,
+1980,Margret,11.92,female,Unknown Mix,black and brown,short,medium,no,
+1981,Todor,12.92,male,Unknown Mix,sable,wirehaired,medium,no,
+1982,Sera,8.83,female,Vizsla Mix,black,short,medium,,
+1983,Ada,7.5,male,Mudi Mix,black,medium,medium,,
+1984,Rozsdi,17.33,male,Unknown Mix,red,long,medium,yes,
+1985,Rafael,12.33,male,Unknown Mix,black and brown,short,medium,yes,
+1986,Rudi,10.08,male,Unknown Mix,black,short,medium,no,
+1987,Saba,9.92,female,Unknown Mix,brown,short,large,,yes
+1988,Moody,8.75,female,German Shepherd Dog Mix,black and brown,short,medium,no,yes
+1989,Vili,11.17,male,Caucasian Ovtcharka Mix,gray,medium,large,no,yes
+1990,Muki,10.92,male,Unknown Mix,black,medium,medium,no,
+1991,Borisz,12.25,male,Unknown Mix,yellow-brown,short,medium,yes,
+1992,Freja,14.92,female,Unknown Mix,brown,short,medium,no,
+1993,Dalton/Topi,11.92,male,Rottweiler,black and brown,short,medium,no,
+1994,Morcos,12.92,male,Unknown Mix,black and brown,short,large,no,
+1995,Diego,10.25,male,Unknown Mix,black and brown,wirehaired,small,yes,
+1996,Demon,19.25,male,Unknown Mix,black,long,medium,no,
+1997,Reka,12.33,female,Unknown Mix,black and brown,short,medium,no,
+1998,Bella,19.25,female,Unknown Mix,black and brown,short,large,no,
+1999,Aron,11.25,male,Unknown Mix,black,wirehaired,small,yes,
+2000,,10.25,male,German Shepherd Dog Mix,sable,medium,large,,yes
+2001,Suzy,12.25,female,Unknown Mix,sable,short,medium,,yes
+2002,Rezeda,7.75,female,German Shepherd Dog Mix,sable,short,medium,,yes
+2003,Ruci,8.25,male,Unknown Mix,wild boar,wirehaired,small,,yes
+2004,Zsuzsi Baba,7.67,female,Terrier Mix,black and brown,short,medium,no,yes
+2005,Matula,13.33,male,"Puli, Pumi Mix",gray,long,medium,,yes
+2006,,16.25,male,Rottweiler Mix,black,short,large,,
+2007,Gida,8.08,female,Mudi,black,medium,medium,,
+2008,Roki,8.92,male,Dachshund Mix,yellow-brown,short,small,yes,
+2009,Ciko,13.33,female,Unknown Mix,brown,short,small,,yes
+2010,Lusy,11.25,female,Unknown Mix,brown,short,medium,,
+2011,,10.25,female,Vizsla Mix,brown,medium,large,,
+2012,Drazse,11.25,female,Unknown Mix,spotty,short,medium,yes,
+2013,Bator,16.25,male,Labrador Retriever Mix,white,short,large,,yes
+2014,Dodo,11.92,male,Labrador Retriever Mix,black,medium,large,yes,
+2015,Matyi K,7.58,male,Puli Mix,black and white,medium,medium,,yes
+2016,Boci,8.08,female,Mudi,black and white,medium,medium,,
+2017,,16.25,female,Rottweiler Mix,black,short,large,,
+2018,,8.75,male,German Shepherd Dog Mix,black,medium,medium,,
+2019,Kubu,9.25,male,Unknown Mix,tricolor,short,medium,,
+2020,Mutyi,12.25,male,Dachshund Mix,brown,short,small,yes,yes
+2021,Huba,10.25,male,Unknown Mix,white,medium,medium,,
+2022,,11.25,female,Puli Mix,black,medium,medium,,
+2023,Rosso K,7.5,male,Rottweiler Mix,black and brown,short,small,,yes
+2024,Kuli K,7.83,male,Puli Mix,gray,medium,medium,,yes
+2025,Suska,7.67,female,Unknown Mix,red,short,medium,,yes
+2026,Buksi,8.25,male,Unknown Mix,black and brown,short,medium,,
+2027,Hosszu Baba,7.42,male,Unknown Mix,white,short,small,no,
+2028,,9.25,female,Unknown Mix,black and white,medium,medium,,yes
+2029,K,7.58,female,Unknown Mix,brown and white,short,small,,yes
+2030,,11.25,female,Unknown Mix,black,short,medium,,yes
+2031,Serpa,7.67,male,Unknown Mix,striped,short,medium,,yes
+2032,K,7.92,male,Unknown Mix,black,short,medium,,yes
+2033,Sadi,7.67,male,Unknown Mix,striped,short,medium,,yes
+2034,K,8.25,male,Unknown Mix,black,short,medium,,
+2035,Sanda,7.67,female,Unknown Mix,brown,short,medium,,
+2036,Sparga,7.67,female,Unknown Mix,yellow-brown,short,medium,,yes
+2037,Snidling,7.67,female,Unknown Mix,striped,short,medium,,yes
+2038,Sedre,7.67,female,Unknown Mix,yellow-brown,short,medium,,yes
+2039,,9.25,male,Unknown Mix,brown,short,medium,,
+2040,Rocky,9.25,female,Greyhound Mix,brown,short,large,,yes
+2041,Fincsi,8.25,female,Unknown Mix,sable,medium,medium,,yes
+2042,Csengi,9.25,male,Unknown Mix,brown,short,medium,yes,yes
+2043,Bosco,11.25,male,Fox Terrier Mix,black and white,short,small,yes,
+2044,Ledy,10.25,female,Staffordshire Terrier,black and white,short,medium,yes,yes
+2045,Vandor,9.25,male,Unknown Mix,black and white,medium,small,yes,
+2046,Bambi,9.25,female,Dachshund Mix,brown,short,medium,,yes
+2047,Kormi,9.25,female,Dachshund Mix,sable,short,small,,yes
+2048,Mucus,9.25,female,Unknown Mix,brown,short,large,,yes
+2049,Hektor,13.25,male,German Shepherd Dog Mix,sable,medium,medium,yes,yes
+2050,Feco,9.25,male,Fox Terrier Mix,tricolor,short,medium,yes,yes
+2051,,10.25,female,Great Pyrenees Mix,gray and white,medium,medium,,
+2052,Mente,10.25,male,Mudi Mix,black,medium,large,yes,yes
+2053,Fido,10.25,male,Fox Terrier Mix,tricolor,short,medium,yes,yes
+2054,Cimbi,8.25,male,Rottweiler Mix,sable,short,medium,yes,
+2055,,10.25,female,Unknown Mix,saddle back,medium,medium,,
+2056,Boglarka,8.67,female,Unknown Mix,black and white,medium,small,,yes
+2057,Morfi,9.25,male,Pinscher Mix,brown,short,small,yes,
+2058,Max,14.25,male,Dachshund Mix,brown,short,small,yes,yes
+2059,Maci,19.25,male,Unknown Mix,white,medium,medium,,yes
+2060,Maszat,9.08,male,Unknown Mix,wild boar,medium,medium,,
+2061,Bleki,9.75,female,Unknown Mix,black,short,medium,yes,
+2062,Morzsa,11.25,male,Mudi Mix,black,medium,medium,yes,yes
+2063,Artur,10.33,male,Unknown Mix,black and brown,long,small,yes,
+2064,Bodza,7.75,female,Unknown Mix,black,wirehaired,medium,,
+2065,Huszar,9.83,male,"German Shepherd Dog, Labrador Retriever Mix",black,short,large,,yes
+2066,Sziszi,10.25,female,Dachshund Mix,yellow-brown,medium,small,no,yes
+2067,Bruno,8.83,male,Unknown Mix,black and white,short,small,,
+2068,Max,10.33,male,Unknown Mix,black and brown,wirehaired,medium,no,
+2069,Mimoza,9.33,female,Unknown Mix,black,wirehaired,small,,
+2070,Lena,8.33,female,Unknown Mix,black,short,medium,,yes
+2071,Kormi,10.58,male,Unknown Mix,black and brown,wirehaired,medium,yes,yes
+2072,Buksi,10.25,male,Pumi Mix,white,medium,medium,yes,yes
+2073,Lizi,10.33,female,Unknown Mix,apricot,short,medium,no,
+2074,Fulop,13.33,male,Dachshund Mix,golden,short,small,yes,
+2075,Zoli,8.83,male,Unknown Mix,black,short,medium,no,yes
+2076,Tipli,9.33,male,Unknown Mix,golden,short,medium,yes,
+2077,Sony,8.25,female,German Shepherd Dog Mix,gray and white,medium,medium,no,yes
+2078,Maci,14.25,male,Pinscher Mix,black and white,medium,small,yes,yes
+2079,Pille,10.33,female,Unknown Mix,black,short,small,no,
+2080,Carlos,9.08,male,Unknown Mix,brown,short,medium,,yes
+2081,Lady,9.33,female,Labrador Retriever Mix,white,short,medium,no,yes
+2082,Lili,9.58,female,Unknown Mix,black,short,large,no,yes
+2083,Vadasz,12.33,male,Unknown Mix,yellow,short,medium,no,yes
+2084,Dani,16.5,male,Staffordshire Terrier,brown and white,short,medium,no,
+2085,Zsofi,8.17,female,Siberian Husky Mix,red and white,medium,medium,,
+2086,Morzsika,15.33,male,Unknown Mix,spotty,wirehaired,small,no,yes
+2087,Zsomi,8.08,female,Labrador Retriever Mix,brown,short,medium,no,
+2088,Daisy,8.42,female,Unknown Mix,yellow-brown,short,medium,no,
+2089,Mazli,10.08,female,Unknown Mix,spotty,short,medium,yes,
+2090,Picur,7.58,male,Unknown Mix,black and white,medium,small,no,yes
+2091,Saba,12.33,female,Unknown Mix,black,wirehaired,large,,yes
+2092,Roxi,7.75,female,Unknown Mix,black and white,short,large,no,yes
+2093,Gazsi,13.92,male,Unknown Mix,black and white,short,medium,no,yes
+2094,Foxis,7.83,female,Fox Terrier Mix,brown and white,short,medium,no,
+2095,Virag,9.33,female,Unknown Mix,white,short,medium,,
+2096,Pajti,12.5,male,German Pointer Mix,gray,wirehaired,medium,yes,yes
+2097,Orli,15.5,female,Unknown Mix,gray and white,long,medium,no,yes
+2098,Bohoc,7.83,male,Unknown Mix,gray and white,wirehaired,small,no,yes
+2099,Doniz,18.5,female,Staffordshire Terrier,brown and white,short,medium,,
+2100,Ivo,7.67,male,"German Pointer, Parson Russell Terrier, Pointer Mix",black and white,medium,medium,,yes
+2101,Dupla,14.5,female,Dachshund Mix,black and brown,short,medium,yes,yes
+2102,Kaotika,8.08,male,Labrador Retriever Mix,black,short,medium,no,
+2103,Panka &Amp,8.92,male,Unknown Mix,black and tan,short,medium,no,
+2104,Claud,10.5,male,Unknown Mix,sable,medium,medium,,yes
+2105,Panka &Amp,8.92,male,Unknown Mix,black and tan,short,medium,no,
+2106,Hero,9.42,male,Unknown Mix,black,short,medium,no,yes
+2107,Hedvig,13.5,female,Unknown Mix,brown and white,short,medium,,yes
+2108,Bojtar,13.5,male,Unknown Mix,black,medium,medium,,yes
+2109,,10.08,male,Jagd Terrier Mix,black and brown,short,small,yes,
+2110,Detox,9.92,male,Unknown Mix,black,medium,large,yes,yes
+2111,Lurko,9.08,male,Unknown Mix,red,wirehaired,small,,yes
+2112,Kodra,14.5,female,"Hound, Vizsla Mix",black and brown,short,large,,yes
+2113,Fules,8.42,female,Miniature Schnauzer Mix,black,wirehaired,small,yes,
+2114,Mano,10.08,female,Unknown Mix,yellow-brown,medium,medium,yes,yes
+2115,Jazmin,9.5,female,Unknown Mix,apricot,short,small,,
+2116,Lurko,7.75,female,German Shepherd Dog Mix,black and brown,short,large,no,
+2117,Iza,7.67,female,"German Pointer, Parson Russell Terrier, Pointer Mix",black and white,short,medium,,yes
+2118,Huba,10.58,male,Unknown Mix,sable,short,medium,yes,
+2119,Folti,8.5,female,"Fox Terrier, Spaniel Mix",spotty,short,small,yes,
+2120,Miksa,13.92,male,German Shepherd Dog Mix,black and brown,medium,large,yes,
+2121,Reka,13.17,female,German Shepherd Dog Mix,black,short,medium,yes,
+2122,Roza,12.33,female,German Shepherd Dog Mix,saddle back,short,large,yes,
+2123,Fredi,11.92,male,"Fox Terrier, Schnauzer Mix",black,wirehaired,medium,yes,
+2124,Geszti,7.83,male,Unknown Mix,black,medium,medium,,yes
+2125,Bobi,15.92,male,"Dachshund, Hound Mix",brown and white,short,medium,yes,
+2126,Baksis,18.58,male,Dachshund Mix,yellow,medium,small,yes,
+2127,Odi,13.5,male,"Hound, Labrador Retriever Mix",black and white,short,medium,yes,
+2128,Gass,7.83,male,Unknown Mix,black,medium,medium,,yes
+2129,Pemzli,12.58,male,Welsh Terrier Mix,tricolor,medium,medium,yes,yes
+2130,Cezar,14.92,male,Hound Mix,sable,short,medium,,
+2131,Jakab,9.08,male,Dachshund Mix,black and brown,wirehaired,medium,,
+2132,Balhe,12.58,male,Staffordshire Terrier Mix,black,short,medium,yes,
+2133,Bendeguz,12.92,male,Fox Terrier Mix,black,wirehaired,medium,yes,
+2134,Finto,11.92,male,"Fox Terrier, Schnauzer Mix",black,wirehaired,medium,yes,
+2135,Jack,8.42,male,Staffordshire Terrier Mix,brown and white,short,medium,,
+2136,Gino,7.83,male,Unknown Mix,black,medium,medium,,yes
+2137,Guy,7.83,male,Unknown Mix,spotty,medium,medium,,yes
+2138,Huppuj,11.92,female,"Fox Terrier, Schnauzer Mix",black,wirehaired,medium,yes,
+2139,Pipe,7.67,male,Unknown Mix,black and white,short,medium,no,yes
+2140,Bukfenc,11.92,male,Labrador Retriever Mix,black,medium,medium,yes,
+2141,Revesz,10.67,male,"Dachshund, Staffordshire Terrier Mix",brown,medium,medium,,
+2142,Felenk,9.75,male,German Shepherd Dog Mix,black,medium,medium,,
+2143,Gyozo,8.42,male,Unknown Mix,yellow-brown,short,medium,no,
+2144,Rolli,10.67,male,"Dachshund, Hound Mix",brown,short,medium,yes,
+2145,Vermes,10.17,male,Labrador Retriever Mix,black,short,large,yes,
+2146,Blacky,9.75,male,Unknown Mix,black,short,medium,,yes
+2147,Bokszos,10.25,male,Hound Mix,black and tan,short,medium,yes,
+2148,Mamba,9.58,female,Labrador Retriever Mix,black,medium,medium,yes,
+2149,Izso,10.5,male,"German Shepherd Dog, Pumi Mix",black,wirehaired,medium,yes,yes
+2150,Parfe,9.58,male,Labrador Retriever Mix,black,short,medium,yes,
+2151,Lovi,11.92,male,Chow Chow Mix,brown,long,medium,yes,
+2152,Kedves,13.92,female,German Shepherd Dog Mix,black,medium,large,,
+2153,Sirah,8.83,female,Unknown Mix,brown,short,medium,yes,yes
+2154,Ket Felnott Szuka,10.58,female,Hungarian Vizsla Mix,yellow-brown,short,medium,,
+2155,Adi,11.58,male,German Shepherd Dog Mix,apricot,short,medium,,
+2156,Napsugar,8.5,female,Unknown Mix,brown,medium,medium,yes,yes
+2157,Ico,7.67,male,Unknown Mix,tricolor,short,medium,,yes
+2158,Bagi,10.58,male,"Puli, Schnauzer Mix",black,long,medium,,
+2159,Romi,10.42,female,"Australian Cattle Dog, German Shepherd Dog Mix",black and white,medium,large,yes,
+2160,Vazul,8.42,male,"Puli, Schnauzer Mix",black,medium,medium,yes,yes
+2161,Szatyi,11.92,male,German Shepherd Dog Mix,black and tan,medium,medium,yes,
+2162,Lore,9.0,male,"Hound, Labrador Retriever Mix",black,short,medium,yes,
+2163,Fredra,7.83,female,Unknown Mix,gray,wirehaired,medium,,yes
+2164,Gerely,9.33,male,"Kuvasz, Labrador Retriever Mix",yellow-brown,medium,medium,yes,
+2165,Zsoka,15.92,female,"German Shepherd Dog, Siberian Husky Mix",saddle back,short,large,yes,yes
+2166,Dani,7.75,male,"Dachshund, Fox Terrier Mix",black and brown,short,small,,yes
+2167,Csezi,9.75,female,"Chow Chow, Dachshund Mix",brown,short,small,,
+2168,Szendy,10.83,female,Akita Mix,black,medium,large,yes,
+2169,Morzsa,10.33,female,"Basset Hound, Dachshund Mix",brown,short,medium,yes,yes
+2170,Lu,15.92,female,Unknown Mix,yellow-brown,short,medium,,yes
+2171,Vendel,8.42,male,"Puli, Schnauzer Mix",black,medium,medium,yes,yes
+2172,Ledo,10.17,female,Labrador Retriever Mix,yellow-brown,medium,large,yes,
+2173,Fules Es Kolykei,10.83,female,Unknown Mix,apricot,medium,medium,,yes
+2174,Gerti Es Greti,7.75,female,Unknown Mix,apricot,short,small,no,yes
+2175,Gerda,12.0,female,Unknown Mix,black and tan,medium,medium,,yes
+2176,Vendel,9.67,male,"Dachshund, Labrador Retriever Mix",yellow-brown,short,medium,,yes
+2177,Furge,10.17,male,Unknown Mix,striped,short,medium,,yes
+2178,Maxi,9.0,male,Fox Terrier Mix,tricolor,wirehaired,medium,,yes
+2179,Thales,9.92,male,Unknown Mix,black and brown,short,large,,yes
+2180,Aurora,8.67,male,Unknown Mix,black and white,short,medium,,
+2181,Lucas,13.67,male,Bearded Collie Mix,black and tan,medium,medium,,
+2182,Valentina,8.75,female,Unknown Mix,brown,medium,medium,,
+2183,Caroline,10.92,female,Dachshund Mix,black and tan,short,small,,
+2184,Rocky,10.0,male,Staffordshire Terrier,black and white,short,medium,,yes
+2185,Evelyn,13.67,female,Labrador Retriever Mix,black,short,medium,,
+2186,Lui,11.67,male,Miniature Schnauzer Mix,gray,wirehaired,small,,
+2187,Linda,8.17,female,"German Shepherd Dog, Labrador Retriever Mix",black and white,short,medium,,yes
+2188,Cindy,9.67,female,Dachshund Mix,black,short,small,,
+2189,Bozont,9.75,male,German Shepherd Dog Mix,black and brown,wirehaired,medium,,
+2190,Mano,10.17,male,"Puli, Pumi, Tibetan Terrier Mix",black,long,small,yes,
+2191,Haleema,10.92,female,Unknown Mix,black,short,large,,
+2192,Soma,8.08,male,Unknown Mix,striped,short,small,,yes
+2193,!!Aron!!S.O.S!!!! %,8.67,male,Schnauzer Mix,black,wirehaired,medium,,
+2194,Sisi,8.67,female,French Bulldog Mix,brown and white,short,small,,
+2195,Puma,12.92,male,Akita Mix,apricot,medium,large,,
+2196,Mara,14.92,female,German Shepherd Dog Mix,sable,short,medium,,
+2197,Ruby,8.92,female,German Shepherd Dog Mix,sable,short,medium,,
+2198,Ricky,9.0,male,Staffordshire Terrier,black and white,short,medium,,yes
+2199,Sury,9.33,female,German Shepherd Dog Mix,sable,short,medium,,
+2200,Cheese,8.92,female,German Shepherd Dog Mix,sable,short,medium,,
+2201,Betyar,8.83,male,Unknown Mix,gray,short,small,,yes
+2202,Bede,10.75,male,Dachshund Mix,sable,short,small,,yes
+2203,Polly,8.83,female,Unknown Mix,black,short,medium,,
+2204,Apacs,8.5,female,Unknown Mix,black,short,medium,yes,yes
+2205,Nana,8.08,female,Dachshund Mix,white,short,small,,
+2206,Franco,8.75,male,Unknown Mix,yellow-brown,short,medium,,
+2207,Tyuli,8.67,male,Unknown Mix,black and tan,short,medium,,
+2208,Csak,8.33,male,Unknown Mix,apricot,short,medium,,yes
+2209,Inka,9.33,female,Puli Mix,black,medium,medium,,yes
+2210,Csipet,7.83,male,Unknown Mix,spotty,short,small,,yes
+2211,Joco,8.92,male,Unknown Mix,black and tan,medium,medium,,
+2212,Banderas,10.92,male,Spaniel Mix,black,medium,medium,yes,no
+2213,Macy,14.92,male,German Shepherd Dog Mix,sable,short,large,,
+2214,Kifli,9.92,male,Labrador Retriever,yellow,short,medium,no,
+2215,Aszlan,7.92,male,Mudi Mix,black and brown,medium,medium,,yes
+2216,Freddy,8.67,male,"Siberian Husky, Transylvanian Hound Mix",brown,short,medium,,
+2217,Tyuli,8.67,male,Unknown Mix,black and tan,short,medium,,
+2218,Shaba,9.33,female,German Shepherd Dog Mix,sable,short,large,,
+2219,Bobby,10.75,male,Golden Retriever Mix,golden,medium,large,no,yes
+2220,Konyak,8.17,male,Unknown Mix,brown,short,medium,yes,yes
+2221,Honey,8.92,female,Vizsla Mix,yellow-brown,wirehaired,medium,,
+2222,Pista Bacsi,14.08,male,German Shepherd Dog,sable,short,large,,yes
+2223,Tyson,10.83,male,Unknown Mix,apricot,short,small,no,
+2224,Nyafi,12.92,female,Unknown Mix,black,medium,large,yes,
+2225,Timo,9.33,male,Unknown Mix,golden,short,small,no,
+2226,Eddie,12.83,male,"German Shepherd Dog, Scotch Collie Mix",apricot,medium,large,no,
+2227,Foxika,8.42,female,Fox Terrier Mix,tricolor,short,small,,yes
+2228,Foli,9.33,male,Unknown Mix,black,medium,small,,
+2229,Biene,8.92,female,Unknown Mix,black and white,short,medium,,yes
+2230,Redy,10.83,male,Unknown Mix,red,short,small,no,
+2231,Darth Vader,9.33,male,"Labrador Retriever, Newfoundland Mix",black,medium,medium,,
+2232,Hofeherke,9.92,female,Unknown Mix,white,medium,medium,yes,yes
+2233,Brix,9.33,male,Schnauzer Mix,black,wirehaired,medium,,
+2234,Mr Spicc,9.83,male,Spitz,white,long,medium,,
+2235,Judy,9.83,female,Unknown Mix,black and white,short,medium,,
+2236,Koko,9.83,male,Unknown Mix,gray,medium,medium,,
+2237,Gesztenye,8.83,female,Chinese Shar-Pei Mix,brown,short,medium,yes,
+2238,Emma,13.83,female,Unknown Mix,brown,short,small,,
+2239,Pici,10.83,male,Jagd Terrier Mix,black and tan,wirehaired,medium,no,yes
+2240,Wolle,12.92,male,"Poodle, Pumi Mix",white,short,small,,yes
+2241,Titus,8.75,male,Labrador Retriever Mix,yellow-brown,short,medium,,
+2242,Yin Es Yang,8.0,female,Unknown Mix,black and tan,short,small,,
+2243,Lippie,10.92,female,German Shepherd Dog,sable,short,large,,yes
+2244,Terry,8.92,male,Unknown Mix,saddle back,short,large,,yes
+2245,Jeep,8.92,male,German Shepherd Dog Mix,sable,short,large,,
+2246,Bobi,8.92,female,Bearded Collie Mix,black and white,medium,medium,,
+2247,Dart Wader,11.92,male,Labrador Retriever Mix,black,short,medium,,
+2248,Macy,14.92,female,German Shepherd Dog Mix,sable,short,large,,yes
+2249,Aby,9.08,male,Unknown Mix,black,short,medium,,yes
+2250,Sony,8.5,male,Beagle Mix,tricolor,short,medium,,yes
+2251,Bubi,8.42,male,Unknown Mix,black,short,medium,,yes
+2252,Sziporka,8.33,female,Unknown Mix,black and tan,short,medium,,
+2253,Mini,8.42,female,Unknown Mix,brown,short,medium,,
+2254,Serena,8.92,female,"Belgian Malinois, German Shepherd Dog Mix",yellow-brown,short,medium,,yes
+2255,Mak,8.92,male,"Puli, Pumi Mix",gray,medium,medium,,
+2256,Venusz,9.92,female,Labrador Retriever Mix,golden,short,medium,,
+2257,Funny,9.92,female,Pumi Mix,gray,medium,medium,,
+2258,Snoopy,11.92,male,Unknown Mix,black,short,small,,yes
+2259,Freda,8.92,female,Unknown Mix,black and tan,short,medium,,yes
+2260,Titus,8.67,male,Unknown Mix,yellow-brown,short,medium,,
+2261,Kitti,10.92,female,Spaniel Mix,black,long,medium,no,yes
+2262,Angel,9.0,female,"Doberman, Greyhound, Labrador Retriever Mix",black,medium,large,yes,yes
+2263,Serena,9.92,female,"German Shepherd Dog, Labrador Retriever Mix",yellow-brown,short,medium,,
+2264,Lolka,14.75,female,"German Shepherd Dog, Mudi Mix",black and brown,short,medium,yes,
+2265,Afro,9.0,female,Parson Russell Terrier Mix,tricolor,short,medium,yes,yes
+2266,Tacsko Keverek Kolykok,8.0,male,Dachshund Mix,yellow-brown,short,small,,
+2267,Besso,8.25,male,Unknown Mix,black and tan,medium,medium,no,
+2268,Betyar,15.92,male,Hound Mix,black,short,medium,yes,
+2269,Zsazsa,10.08,female,Unknown Mix,tricolor,medium,medium,yes,yes
+2270,Pletyka,8.5,female,Unknown Mix,black,short,medium,yes,yes
+2271,Hannah,8.33,female,Unknown Mix,black,short,medium,,yes
+2272,Bandi,15.92,male,"German Shepherd Dog, Hound Mix",sable,short,medium,,
+2273,Csaki,16.58,male,Dachshund Mix,black,short,medium,yes,
+2274,Hunor,9.17,male,Bull Terrier Mix,black,short,medium,yes,yes
+2275,Horbi,15.17,male,Fox Terrier Mix,black,short,small,yes,yes
+2276,Kami,8.42,female,German Shepherd Dog Mix,black,medium,medium,yes,yes
+2277,Felsz,15.92,female,"German Shepherd Dog, Hound Mix",sable,short,medium,yes,
+2278,Venusz,15.67,female,"Dachshund, German Shepherd Dog Mix",black,short,small,yes,
+2279,Norma,9.42,female,Mudi Mix,black,medium,medium,yes,yes
+2280,Dolly,8.33,female,German Shepherd Dog Mix,tricolor,short,medium,no,yes
+2281,Grisa,9.42,male,"Belgian Sheepdog, Mudi Mix",black,long,medium,no,
+2282,Kinga,8.83,female,Unknown Mix,black,short,medium,yes,
+2283,Elvira,11.92,female,Miniature Schnauzer Mix,gray,wirehaired,small,yes,
+2284,Buksi,13.0,male,Unknown Mix,black,medium,large,no,yes
+2285,Dodo,9.42,male,Unknown Mix,saddle back,short,medium,no,yes
+2286,Szamba,13.92,female,Dachshund Mix,black and white,short,medium,yes,
+2287,John,9.17,male,Unknown Mix,black,medium,medium,no,
+2288,Domino,8.33,male,Unknown Mix,black and white,short,medium,no,yes
+2289,Dollar,10.92,female,"Fox Terrier, Pekingese Mix",tricolor,short,medium,yes,
+2290,Imre,13.92,male,"Fox Terrier, Jagd Terrier Mix",brown,wirehaired,medium,no,yes
+2291,Bogar,10.58,male,Unknown Mix,black and tan,short,medium,no,
+2292,Borsika,10.92,male,Unknown Mix,black and white,short,small,no,yes
+2293,Borzas,11.67,male,Fox Terrier Mix,black and white,wirehaired,medium,,yes
+2294,Morzsa,13.0,male,Pekingese Mix,red and white,short,medium,yes,
+2295,Lord,11.92,male,Labrador Retriever Mix,white,short,medium,,yes
+2296,Veda,10.92,male,Unknown Mix,black,medium,medium,,yes
+2297,Pedro,8.5,male,German Shepherd Dog Mix,striped,short,medium,no,yes
+2298,Ledi,9.92,female,Greyhound Mix,black,short,medium,yes,
+2299,Borika,10.92,female,Unknown Mix,black and white,medium,medium,yes,
+2300,Buci Es Fifi,9.67,female,German Shepherd Dog Mix,black and brown,medium,medium,yes,yes
+2301,Cseri,10.17,female,Hound Mix,sable,short,medium,yes,
+2302,Vitara,8.5,female,Unknown Mix,brown and white,short,medium,,
+2303,Mufi,10.0,female,Greyhound Mix,striped,short,medium,yes,
+2304,Santi,10.0,male,Unknown Mix,brown,short,large,no,yes
+2305,Kocos,10.0,female,Unknown Mix,black,wirehaired,medium,no,
+2306,Kobor,13.0,male,Dachshund Mix,black,short,small,no,
+2307,Muffin,10.42,female,Hound Mix,black and tan,short,large,yes,yes
+2308,Delon,9.5,male,Labrador Retriever Mix,black,medium,medium,no,
+2309,Boci,9.0,male,Unknown Mix,black and white,medium,medium,no,yes
+2310,Benji,10.0,male,Unknown Mix,sable,short,medium,,
+2311,Szalma,8.58,female,Unknown Mix,yellow-brown,short,medium,,yes
+2312,Amanda,12.42,female,Cane Corso,apricot,short,medium,,yes
+2313,Bufi,10.0,female,Greyhound Mix,black and brown,short,medium,yes,
+2314,Vacak,10.0,female,Schnauzer Mix,black,wirehaired,medium,yes,
+2315,Zizi,8.5,female,Unknown Mix,black,medium,medium,yes,yes
+2316,Csopi,19.0,male,Unknown Mix,red,short,medium,,yes
+2317,Dinka,9.0,female,Schnauzer Mix,black,wirehaired,medium,yes,
+2318,Picur,9.5,female,Dachshund Mix,black,short,small,no,
+2319,Grof,10.0,male,Schnauzer Mix,black,wirehaired,large,no,
+2320,Ricotta,14.17,male,Beagle Mix,spotty,short,small,,yes
+2321,Rozsdi,13.92,male,Unknown Mix,brown,wirehaired,medium,yes,yes
+2322,Puska,12.92,female,Unknown Mix,black,short,medium,yes,
+2323,Rudi/Buksi,15.92,male,Unknown Mix,sable,short,medium,yes,
+2324,Atosz,17.92,male,Kuvasz Mix,white,medium,large,,
+2325,Silver,13.17,female,Unknown Mix,gray,medium,medium,yes,
+2326,Sharpi,9.5,female,Chinese Shar-Pei Mix,tricolor,short,medium,yes,
+2327,Sam,11.08,male,Unknown Mix,black and tan,short,medium,,
+2328,Ali,11.92,male,Unknown Mix,white,short,large,yes,
+2329,Inas,9.08,male,Unknown Mix,brown,short,medium,yes,yes
+2330,Thor,10.92,male,Unknown Mix,black and brown,short,large,no,
+2331,Olga,13.08,female,Unknown Mix,black and tan,short,medium,,yes
+2332,Judy,9.83,female,Unknown Mix,black and brown,short,large,yes,yes
+2333,Elza,11.92,female,German Shepherd Dog Mix,striped,short,large,yes,
+2334,Buco,9.5,male,Unknown Mix,black,short,large,yes,yes
+2335,Harold,11.92,male,Unknown Mix,white,wirehaired,large,yes,yes
+2336,Lenke,9.25,female,Unknown Mix,sable,short,medium,,yes
+2337,Vilma,11.92,female,Labrador Retriever Mix,yellow-brown,short,medium,yes,
+2338,Ron,11.92,male,Unknown Mix,black,wirehaired,large,yes,yes
+2339,Felix,10.92,male,Unknown Mix,black and tan,short,medium,yes,
+2340,Mira,10.92,female,Unknown Mix,black and brown,short,large,yes,
+2341,Lujzi,9.92,female,Unknown Mix,black and brown,short,large,yes,yes
+2342,Lili,14.92,female,Unknown Mix,striped,short,large,yes,yes
+2343,Magnum,11.92,male,Rottweiler Mix,black and tan,short,large,no,
+2344,Macko,11.92,male,German Shepherd Dog Mix,sable,short,large,yes,yes
+2345,Vega,11.92,female,Unknown Mix,black and brown,short,large,yes,yes
+2346,Malna,13.92,female,Unknown Mix,brown,short,medium,yes,yes
+2347,Jenny,10.83,female,German Shepherd Dog Mix,sable,short,medium,yes,yes
+2348,Taco,12.5,male,Unknown Mix,black and brown,short,large,yes,yes
+2349,Lena,9.58,female,Unknown Mix,saddle back,short,large,yes,yes
+2350,Vadoc,11.92,female,Unknown Mix,yellow-brown,short,medium,yes,
+2351,Sharpi,9.5,male,Chinese Shar-Pei Mix,yellow-brown,short,medium,yes,
+2352,Dorisz,17.92,female,Unknown Mix,saddle back,short,medium,yes,
+2353,Suti,11.92,male,Unknown Mix,black,wirehaired,medium,yes,yes
+2354,Huba,10.92,male,Unknown Mix,brown and white,short,large,yes,yes
+2355,Otto,14.92,male,Dachshund Mix,saddle back,short,small,no,
+2356,Mak,12.92,male,Unknown Mix,dotted,short,large,no,yes
+2357,Brauni,10.0,female,Unknown Mix,black and brown,short,large,yes,yes
+2358,Atika,11.92,male,Unknown Mix,black,short,medium,yes,
+2359,Pamacs,15.92,male,Scotch Collie Mix,black and brown,long,large,yes,no
+2360,Lipot,11.42,male,"Jagd Terrier, Puli Mix",black and tan,long,medium,yes,yes
+2361,Zolika,10.92,male,Unknown Mix,saddle back,short,medium,yes,yes
+2362,Husi,10.83,female,Dachshund Mix,apricot,short,small,no,yes
+2363,Elza,10.67,female,Unknown Mix,yellow-brown,short,medium,,yes
+2364,Cookie,8.75,female,Staffordshire Terrier Mix,black,short,medium,yes,yes
+2365,Zafira,10.75,female,"German Pointer, Vizsla Mix",brown,short,medium,yes,yes
+2366,Suba,10.5,male,Puli Mix,black,long,medium,no,yes
+2367,Szotyi,9.92,male,Terrier Mix,black and tan,short,medium,,yes
+2368,Moricka,11.25,male,Vizsla Mix,black and tan,wirehaired,large,yes,yes
+2369,Pepe,11.92,male,Unknown Mix,brown,medium,medium,no,yes
+2370,Stefi &Amp,8.33,female,Unknown Mix,black,short,medium,,
+2371,Romi,16.92,male,German Shepherd Dog Mix,sable,short,large,yes,yes
+2372,B.Andi,13.08,female,"Mudi, Puli Mix",black,medium,medium,,yes
+2373,Piri,11.92,female,Unknown Mix,black,short,medium,yes,yes
+2374,Atosz,17.08,male,Kuvasz Mix,white,medium,large,,yes
+2375,Minike,8.67,female,German Shepherd Dog Mix,saddle back,medium,medium,,yes
+2376,Valka,11.67,female,Unknown Mix,black,short,medium,yes,yes
+2377,Ravaszka,17.08,female,Dachshund Mix,brown,short,small,,yes
+2378,Kara Anyu,12.92,female,Unknown Mix,black,short,medium,yes,yes
+2379,Koppany,10.92,male,Transylvanian Hound Mix,saddle back,short,large,yes,yes
+2380,Lena,9.08,female,Schnauzer Mix,black,wirehaired,medium,yes,yes
+2381,Potyike,10.08,female,Dalmatian Mix,dotted,short,medium,,yes
+2382,Hisztis,10.08,female,German Shepherd Dog Mix,golden,medium,medium,,
+2383,C,14.08,female,Pumi Mix,gray,medium,medium,,
+2384,Bella,13.08,female,German Shepherd Dog Mix,sable,short,large,,yes
+2385,Lara,13.08,female,German Shepherd Dog,sable,short,large,,yes
+2386,Gordon,14.08,male,Golden Retriever Mix,apricot,short,large,,yes
+2387,Rita,13.08,female,German Shepherd Dog Mix,yellow-brown,short,large,,
+2388,Nozi,9.58,male,Unknown Mix,brown,short,medium,yes,yes
+2389,Kornel,9.08,male,Labrador Retriever Mix,black,short,medium,yes,yes
+2390,Ginger,9.08,female,German Shepherd Dog,sable,short,medium,,yes
+2391,Zola,17.08,female,"German Shepherd Dog, Siberian Husky Mix",sable,medium,large,,yes
+2392,Candy,9.17,female,"Belgian Sheepdog, German Shepherd Dog Mix",yellow-brown,short,medium,,yes
+2393,Kokeny,14.92,female,Irish Wolfhound Mix,wild boar,wirehaired,large,,
+2394,Soma,10.0,male,Standard Schnauzer Mix,black,wirehaired,medium,yes,
+2395,Dolli,15.08,female,Unknown Mix,brown,short,large,,yes
+2396,Vali,9.75,female,Unknown Mix,black and tan,short,small,yes,yes
+2397,Lola,11.08,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+2398,Brandy,14.08,female,Vizsla Mix,yellow-brown,short,medium,yes,yes
+2399,Papi,13.08,male,Dachshund Mix,brown,short,small,,
+2400,Vica,10.58,female,"Labrador Retriever, Vizsla Mix",golden,short,medium,yes,yes
+2401,Eddy,10.0,male,Labrador Retriever Mix,black,medium,medium,,
+2402,Bozont,9.58,female,Unknown Mix,black and brown,medium,medium,no,
+2403,Roka,9.25,male,"Dachshund, Mudi, Papillon Mix",red and white,short,small,,yes
+2404,Miszti,14.75,female,Schnauzer Mix,black,short,medium,yes,yes
+2405,Lala,11.67,male,Unknown Mix,spotty,wirehaired,medium,,yes
+2406,Foltos,13.17,female,Unknown Mix,tricolor,medium,medium,yes,yes
+2407,Tanya,8.92,female,German Shepherd Dog Mix,saddle back,medium,medium,,yes
+2408,Dugo,10.08,male,Unknown Mix,black and tan,short,medium,no,
+2409,Capitain Jack Sparrow,9.08,male,"Puli, Scotch Collie Mix",apricot,short,medium,yes,
+2410,Natasa,9.42,female,Terrier Mix,wild boar,medium,medium,yes,yes
+2411,Leon,9.42,male,Unknown Mix,brown,short,medium,no,yes
+2412,Miksa,15.25,male,Unknown Mix,brown,short,medium,,yes
+2413,Amarok,12.08,male,Siberian Husky Mix,gray and white,short,large,,
+2414,Toto,13.08,male,Dachshund Mix,brown,short,small,yes,
+2415,Lina,9.25,female,Unknown Mix,black,short,medium,,
+2416,Milky Way,10.0,male,Labrador Retriever Mix,apricot,short,large,,
+2417,Rini,9.25,female,Dachshund Mix,black and tan,short,small,,yes
+2418,Puszi,8.58,female,Hound Mix,black and tan,short,medium,,yes
+2419,Nina,9.42,female,"Vizsla, Whippet Mix",tricolor,short,medium,yes,yes
+2420,Almady Greti,8.42,female,Unknown Mix,tricolor,short,medium,,yes
+2421,Saba,14.92,female,German Shepherd Dog,saddle back,short,large,yes,yes
+2422,Pincsik,8.58,male,Greyhound Mix,black and brown,short,small,,
+2423,Vidra,8.67,female,Unknown Mix,black and tan,short,small,no,
+2424,Klaudia,10.92,female,Unknown Mix,black,long,large,yes,yes
+2425,Micike,18.42,female,Unknown Mix,red,short,medium,,yes
+2426,Gahan,9.83,male,German Shepherd Dog Mix,black,medium,medium,yes,yes
+2427,Alvin,9.17,male,German Shepherd Dog Mix,saddle back,medium,medium,no,yes
+2428,Ariel,9.17,female,German Shepherd Dog Mix,sable,short,medium,no,yes
+2429,Elke,10.33,female,Unknown Mix,black and white,short,medium,yes,yes
+2430,Shila,14.92,female,German Shepherd Dog,saddle back,short,large,yes,yes
+2431,Lencsi,9.5,female,"Dachshund, Hound Mix",black and brown,short,medium,,
+2432,Ulrik,11.17,male,"Bull Terrier, Hungarian Greyhound Mix",striped,short,medium,yes,yes
+2433,Felix,10.33,male,Terrier Mix,gray and black,wirehaired,medium,,yes
+2434,Csinszka,10.5,female,Vizsla Mix,brown,wirehaired,medium,,yes
+2435,Bajusz Ur,12.92,male,Fox Terrier,black and white,short,medium,,yes
+2436,Vilma,9.83,female,Unknown Mix,brown,short,medium,yes,yes
+2437,Almady Tobias,8.42,male,Unknown Mix,saddle back,short,medium,,yes
+2438,Meny,11.58,female,German Shepherd Dog Mix,black and brown,medium,large,yes,
+2439,Zizi,9.25,male,Dachshund Mix,red,short,medium,,
+2440,Barat,10.92,male,Unknown Mix,black and brown,short,medium,,yes
+2441,Csalfa,10.92,male,Jagd Terrier Mix,black and tan,short,medium,,yes
+2442,Vidor,8.67,male,Unknown Mix,sable,long,medium,,
+2443,Turbo,9.08,male,Labrador Retriever Mix,black and white,short,medium,,yes
+2444,Zsombor,10.0,male,Greyhound Mix,black,medium,large,yes,yes
+2445,Fidel,9.67,male,Unknown Mix,black,wirehaired,medium,no,yes
+2446,Franci,10.75,female,German Shepherd Dog Mix,sable,short,medium,yes,yes
+2447,Gina,12.42,male,Rottweiler,black,short,medium,,
+2448,Bator,11.92,male,Vizsla Mix,brown,short,large,,yes
+2449,Mogyoro,10.92,male,German Shepherd Dog Mix,saddle back,medium,large,,yes
+2450,Hetti,8.83,female,Unknown Mix,sable,short,medium,,yes
+2451,Mami,9.92,female,Labrador Retriever Mix,brown and white,short,large,yes,yes
+2452,Zorro,10.0,male,Greyhound Mix,black and white,long,medium,yes,yes
+2453,Jazmin,9.58,female,German Shepherd Dog Mix,tricolor,short,large,yes,yes
+2454,Roxi,12.17,female,Unknown Mix,black and tan,long,medium,yes,yes
+2455,Bubu,9.92,male,Terrier Mix,black and brown,long,medium,,yes
+2456,Cifra,8.58,female,Unknown Mix,gray and white,medium,medium,,yes
+2457,Bogracs,14.92,male,Dachshund,brown,short,small,,yes
+2458,Ledike,11.42,female,Unknown Mix,dotted,medium,small,,yes
+2459,Nimrod,11.5,male,Labrador Retriever Mix,black,short,large,yes,yes
+2460,Turbo,8.92,male,Dachshund Mix,brown,short,small,no,no
+2461,Muci,10.08,female,Belgian Sheepdog Mix,red,long,medium,,yes
+2462,Marton,10.75,male,Unknown Mix,black,long,large,yes,yes
+2463,Paszka,17.92,female,Unknown Mix,red,short,medium,,yes
+2464,Panka,9.92,female,Fox Terrier,spotty,short,small,,yes
+2465,Bundas,12.58,male,Unknown Mix,yellow-brown,short,small,,
+2466,Pita,9.67,female,Unknown Mix,red and white,short,medium,yes,yes
+2467,Lasszo,9.42,male,Unknown Mix,black,medium,medium,yes,yes
+2468,Pajti,13.92,male,German Shepherd Dog Mix,saddle back,short,medium,,yes
+2469,Zepter Molli,13.58,female,Unknown Mix,brown,short,large,yes,yes
+2470,Chili,12.92,female,Siberian Husky Mix,gray and white,short,medium,yes,yes
+2471,Happy,12.33,male,"Dachshund, German Shepherd Dog Mix",wild boar,medium,medium,yes,yes
+2472,Pityus,18.5,male,Unknown Mix,red,short,medium,,
+2473,Zoran,10.75,male,Vizsla Mix,black,short,medium,no,yes
+2474,Galagonya,13.33,male,Staffordshire Terrier Mix,striped,short,medium,yes,yes
+2475,Tobi,13.42,male,"German Shepherd Dog, Pinscher, Siberian Husky Mix",black and brown,short,large,no,yes
+2476,Jenny,11.08,female,Dachshund Mix,yellow,short,small,yes,yes
+2477,Bobe,10.75,female,Dachshund Mix,tricolor,long,small,yes,yes
+2478,Roni,9.5,female,Dachshund Mix,brown,short,small,no,yes
+2479,Fipsz,11.92,male,Labrador Retriever Mix,black and brown,medium,medium,,yes
+2480,Timo,14.0,male,Transylvanian Hound Mix,black and brown,short,medium,no,yes
+2481,Dennis,10.75,male,Unknown Mix,white,medium,large,no,
+2482,Arnyek,10.08,female,Unknown Mix,black,short,medium,yes,
+2483,Csubi,12.08,male,"Labrador Retriever, Vizsla Mix",brown,short,medium,yes,yes
+2484,Melinda,12.17,female,Unknown Mix,wild boar,short,medium,yes,yes
+2485,Trisztan,12.25,male,Unknown Mix,tricolor,short,medium,yes,yes
+2486,Beno,9.75,male,Unknown Mix,black,wirehaired,medium,no,
+2487,Bogancs,10.25,male,Puli Mix,black,medium,medium,,
+2488,Szultan,18.67,male,German Shepherd Dog Mix,sable,short,medium,,
+2489,Leila,12.5,female,Unknown Mix,white,short,large,yes,yes
+2490,Bob,11.92,male,Unknown Mix,brown,short,large,,
+2491,Bator,9.75,male,Unknown Mix,black,short,medium,no,
+2492,Bronco,9.5,male,Unknown Mix,black,short,medium,yes,yes
+2493,Kevin,13.58,male,Unknown Mix,black and white,short,large,,yes
+2494,Katrina,14.75,female,Unknown Mix,striped,short,medium,yes,yes
+2495,Jagd Terrier Keverek Kolykok,8.83,female,Jagd Terrier Mix,black and tan,short,medium,,yes
+2496,Csorfos,10.92,female,Rhodesian Ridgeback Mix,brown,short,large,yes,yes
+2497,Morgan,10.75,male,Schnauzer Mix,gray,wirehaired,medium,,yes
+2498,Karak,10.92,female,German Shepherd Dog Mix,sable,short,large,yes,yes
+2499,Rozika,11.08,female,Unknown Mix,black,short,medium,yes,
+2500,Heda,11.92,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+2501,Kaukazusi,13.75,female,Caucasian Ovtcharka,brown,long,large,no,
+2502,Cecil,10.25,female,German Shepherd Dog Mix,black and brown,short,large,,
+2503,Morris,10.92,male,Rottweiler Mix,black and tan,short,large,,no
+2504,Igor,14.83,male,Unknown Mix,brown,short,medium,no,
+2505,Gombi,9.83,male,Schnauzer Mix,wild boar,wirehaired,medium,,
+2506,Lujzika,9.83,female,Fox Terrier Mix,tricolor,wirehaired,small,no,yes
+2507,Bob,10.92,male,Hungarian Vizsla Mix,red,short,large,,yes
+2508,Velence,12.83,female,Unknown Mix,tricolor,short,medium,yes,
+2509,Hessy,12.0,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+2510,Mozes,11.42,male,Unknown Mix,white,medium,small,no,
+2511,Buksi,16.08,male,German Shepherd Dog,sable,medium,large,,
+2512,Tango,10.83,male,Unknown Mix,red,short,small,no,
+2513,Solt,11.0,male,"Setter, Spaniel, Terrier Mix",striped,medium,medium,no,yes
+2514,Olga,9.42,female,German Shepherd Dog Mix,brown,medium,large,,yes
+2515,Potyi,15.25,male,Cane Corso Mix,yellow-brown,short,large,,
+2516,Adria,11.75,female,Dachshund Mix,black and brown,short,medium,yes,yes
+2517,Brad/Baboka,9.67,male,Unknown Mix,yellow-brown,short,medium,no,yes
+2518,Tyson,10.17,male,Rottweiler Mix,black and tan,short,large,,
+2519,Zsuzsi,12.17,female,Fox Terrier Mix,black and white,short,medium,yes,yes
+2520,Paca,9.0,male,Unknown Mix,black and white,short,small,no,yes
+2521,Karcsi,9.25,male,Unknown Mix,brown,medium,medium,no,yes
+2522,Nusi,10.92,female,Unknown Mix,brown,short,medium,yes,yes
+2523,Lompos,10.92,male,Unknown Mix,white,medium,medium,no,yes
+2524,Szilveszter,10.33,male,Hound Mix,black and brown,short,large,,yes
+2525,Picur,9.25,female,Unknown Mix,black,short,medium,yes,yes
+2526,Kicsi,10.17,female,Unknown Mix,brown,medium,small,yes,yes
+2527,Zita,10.5,female,Unknown Mix,black,short,medium,yes,yes
+2528,Tucsok,11.83,female,Unknown Mix,black and white,short,medium,yes,yes
+2529,Van Gogh,13.92,male,Bearded Collie Mix,black and white,short,medium,yes,yes
+2530,Bogica,10.83,female,Pumi Mix,black,medium,medium,,yes
+2531,Picur,9.25,female,Unknown Mix,black,short,medium,yes,yes
+2532,Vidor,9.08,male,Unknown Mix,yellow-brown,short,small,no,yes
+2533,Mazas,9.25,female,Unknown Mix,brown,medium,small,no,yes
+2534,Albert,9.5,male,Bernese Mountain Dog Mix,black and white,long,medium,,yes
+2535,Gigi,9.92,female,Unknown Mix,white,short,medium,yes,yes
+2536,Bojszi,11.83,male,Unknown Mix,brown,short,large,,yes
+2537,Zoe,11.92,female,German Shepherd Dog Mix,brown,short,medium,yes,yes
+2538,Kata,9.25,female,Unknown Mix,apricot,short,medium,,yes
+2539,Gigi,9.92,female,Unknown Mix,white,short,medium,yes,yes
+2540,Lina,10.92,female,Unknown Mix,apricot,short,small,,
+2541,Ramszesz,17.83,male,Unknown Mix,brown,short,medium,no,
+2542,Talalt Kuvasz,11.83,male,Kuvasz,white,medium,large,no,
+2543,Portas,10.92,male,Hound Mix,sable,short,large,,
+2544,Gentleman,14.92,male,Unknown Mix,saddle back,short,large,,no
+2545,Dora,9.5,female,Unknown Mix,brown,medium,medium,,
+2546,Virag,10.83,female,Unknown Mix,yellow,short,medium,no,
+2547,Konrad,12.33,male,Unknown Mix,black,short,medium,,yes
+2548,Zsuzsi,9.92,female,Terrier Mix,apricot,short,large,,
+2549,Bori,10.5,female,"German Shepherd Dog, Rottweiler Mix",brown,short,medium,no,
+2550,Dragon,10.25,male,German Shepherd Dog Mix,yellow-brown,short,large,no,
+2551,Tango,19.83,male,Staffordshire Terrier Mix,apricot,short,medium,,
+2552,Leila,10.33,female,Siberian Husky Mix,brown,short,medium,yes,
+2553,Rex,11.0,male,German Shepherd Dog,brown,short,medium,no,
+2554,Blanka,11.92,female,Unknown Mix,black and brown,short,medium,yes,yes
+2555,Morcos,10.83,male,Unknown Mix,black and brown,short,medium,,
+2556,Bart,13.92,male,Dachshund Mix,sable,short,small,,
+2557,Brikett,9.83,male,Mudi Mix,black,short,medium,yes,yes
+2558,Ivan,10.75,male,Dachshund Mix,black and white,short,small,no,
+2559,Bundi,16.83,male,Puli Mix,black and brown,long,medium,,
+2560,Csopi,10.17,male,Unknown Mix,brown,short,small,no,yes
+2561,Max,9.58,male,Unknown Mix,black,short,medium,,
+2562,Mogyi,10.17,male,Unknown Mix,brown,short,large,no,yes
+2563,Alfa,9.67,female,Unknown Mix,yellow,wirehaired,medium,yes,yes
+2564,Soret,10.5,male,Adoptable From:,black,short,large,no,
+2565,Casper,11.0,male,"German Shepherd Dog, Siberian Husky Mix",gray and white,medium,large,,no
+2566,Blanka,11.92,female,Unknown Mix,black and brown,short,medium,yes,yes
+2567,Farao,15.67,male,Unknown Mix,brown,short,medium,no,
+2568,Maci,15.67,male,Unknown Mix,black,medium,medium,no,
+2569,Fleki,10.17,female,Unknown Mix,yellow,short,medium,yes,yes
+2570,Rulett,9.33,male,Unknown Mix,striped,short,large,no,yes
+2571,Mazsola,10.08,male,Unknown Mix,brown,short,medium,no,
+2572,Loncs,9.17,male,Unknown Mix,golden,short,small,no,yes
+2573,Fleki,10.17,female,Unknown Mix,yellow,short,medium,yes,yes
+2574,Szocske,10.08,male,Unknown Mix,brown,short,medium,no,
+2575,Negro,10.0,female,Unknown Mix,black,short,medium,yes,yes
+2576,Dalma,9.92,female,Unknown Mix,brown,short,medium,yes,
+2577,Greta,10.5,female,Unknown Mix,black,short,medium,,yes
+2578,Cindy,9.58,female,Pekingese Mix,brown and white,long,small,,
+2579,Sari,19.0,female,Poodle Mix,black,medium,small,,yes
+2580,Szutyi,11.33,female,Unknown Mix,black,short,medium,,
+2581,Kullancs,9.75,female,Unknown Mix,golden,short,small,,
+2582,Leila,10.33,female,Unknown Mix,brown,short,medium,yes,
+2583,Kokszos,10.33,male,Unknown Mix,apricot,short,medium,,
+2584,Toto,10.17,female,Unknown Mix,black,short,medium,yes,yes
+2585,Vizsi,11.0,female,Hungarian Vizsla Mix,brown,wirehaired,medium,yes,
+2586,Bobby,10.5,male,Schnauzer Mix,black,wirehaired,medium,no,
+2587,Gemma,11.0,female,Unknown Mix,tricolor,medium,large,,
+2588,Barsony,11.33,male,Unknown Mix,apricot,short,medium,,
+2589,Mimi,10.42,female,Unknown Mix,tricolor,short,medium,,
+2590,Liliom,9.5,female,Unknown Mix,white,short,medium,yes,yes
+2591,Bambi,11.0,female,Unknown Mix,golden,short,large,,
+2592,Sissy,10.0,female,Unknown Mix,black,short,medium,yes,yes
+2593,Mazsola,9.83,female,Unknown Mix,brown,short,large,yes,
+2594,Elza,9.17,female,Unknown Mix,apricot,short,medium,,
+2595,Toki,12.92,male,Unknown Mix,golden,short,medium,yes,
+2596,Panni,11.0,female,Dachshund Mix,black,short,small,yes,yes
+2597,Pletyka,9.75,female,Unknown Mix,black,medium,medium,yes,yes
+2598,Endi,10.08,male,Unknown Mix,black,short,medium,,yes
+2599,Picuri,10.25,female,Unknown Mix,black,short,small,yes,
+2600,Csimbok,9.92,male,Puli Mix,black,long,medium,no,yes
+2601,Zsanett,9.5,female,Unknown Mix,golden,medium,medium,,
+2602,Sunyi,14.08,male,Spaniel Mix,black and brown,medium,medium,no,no
+2603,Macika,19.08,female,Unknown Mix,striped,medium,large,,yes
+2604,Kokusz,13.08,male,Unknown Mix,black,short,medium,,
+2605,Dizel,12.08,male,Unknown Mix,black and brown,short,medium,,
+2606,Jaco,15.08,male,German Shepherd Dog Mix,sable,short,large,,yes
+2607,Apollo,12.08,male,Unknown Mix,yellow-brown,short,large,,
+2608,Spano,13.08,male,Golden Retriever Mix,golden,medium,medium,,
+2609,Buksi,15.08,male,Puli Mix,black,long,medium,,
+2610,Baro,13.92,male,Rottweiler Mix,black and tan,short,large,no,no
+2611,Joker,12.08,male,Unknown Mix,yellow-brown,short,large,,no
+2612,Bruno,11.08,male,Terrier Mix,yellow-brown,wirehaired,medium,,
+2613,Fanny,14.08,female,Collie Mix,brown and white,medium,large,yes,
+2614,Boni,12.08,male,Jagd Terrier,sable,short,small,,
+2615,Bruno,12.08,male,Labrador Retriever Mix,black,short,large,,
+2616,Sarkany,12.25,male,German Shepherd Dog Mix,sable,short,large,,
+2617,Hubertus,10.08,male,"German Pointer, Staffordshire Terrier Mix",golden,short,large,,yes
+2618,Kope,14.08,male,German Shepherd Dog Mix,yellow-brown,short,large,,
+2619,"""Perdido""",12.0,male,Collie Mix,brown and white,medium,medium,,
+2620,Zsebi,9.17,female,Unknown Mix,apricot,short,medium,no,
+2621,Rita,18.83,female,Unknown Mix,black and white,medium,small,,
+2622,Kolyok,9.33,female,German Shepherd Dog Mix,black and brown,short,medium,no,yes
+2623,Kokszos,9.5,male,Labrador Retriever Mix,black,short,medium,no,yes
+2624,Kolyok,9.33,male,Unknown Mix,brown,short,large,no,yes
+2625,Ancsa,9.75,female,Unknown Mix,black,short,medium,,
+2626,Flitter,10.33,female,Unknown Mix,white,short,medium,yes,yes
+2627,Csao,10.92,male,Dachshund Mix,yellow,short,small,no,
+2628,Kolyok,9.33,female,Unknown Mix,brown,short,medium,no,yes
+2629,Kolyok,9.33,male,Labrador Retriever Mix,white,short,medium,no,yes
+2630,Lidi,10.08,female,Dachshund Mix,red,short,small,no,
+2631,Lili,10.33,female,Unknown Mix,saddle back,short,medium,yes,yes
+2632,Radar,10.17,female,Unknown Mix,black,short,medium,yes,yes
+2633,Snaci,9.58,male,Schnauzer Mix,black,short,small,no,yes
+2634,Barsony,10.33,female,German Shepherd Dog Mix,saddle back,short,medium,yes,
+2635,Borcsa,10.17,female,Staffordshire Terrier Mix,brown,short,medium,no,
+2636,Oreglany,19.67,female,Old German Shepherd Mix,brown,long,large,yes,
+2637,Kolyok,9.25,male,Unknown Mix,black and brown,short,medium,no,yes
+2638,Kapocs,11.33,male,Chow Chow Mix,red,short,medium,no,yes
+2639,Szutyi,11.67,female,Unknown Mix,black,short,medium,,
+2640,Fityisz,11.17,male,Unknown Mix,yellow,short,medium,no,
+2641,Pamacs,10.33,female,Unknown Mix,black,medium,medium,yes,yes
+2642,Muki,9.67,male,Unknown Mix,yellow-brown,short,medium,no,yes
+2643,Joco,10.33,male,Unknown Mix,golden,short,medium,no,yes
+2644,Sunci,16.33,male,Unknown Mix,brown,medium,medium,no,
+2645,Pitypang,11.33,female,Unknown Mix,apricot,short,medium,yes,
+2646,Bori,10.17,female,Puli Mix,black,medium,small,yes,no
+2647,Dezso,9.83,male,Unknown Mix,white,wirehaired,medium,no,yes
+2648,Tucsi,9.58,female,Unknown Mix,black,medium,medium,no,yes
+2649,Hancur,9.5,male,Unknown Mix,yellow,short,medium,no,yes
+2650,Lili,10.33,female,Unknown Mix,yellow,short,medium,yes,yes
+2651,Volgyi,12.92,male,Unknown Mix,spotty,short,medium,no,
+2652,Pottom Panni,10.33,female,Unknown Mix,yellow,short,small,yes,yes
+2653,Simlis,13.58,male,Miniature Schnauzer Mix,apricot,short,small,no,
+2654,Csokor,10.33,female,Unknown Mix,black,short,medium,yes,
+2655,Husi,10.08,female,German Shepherd Dog Mix,apricot,short,medium,yes,
+2656,Soma,10.58,female,Unknown Mix,black,short,large,yes,
+2657,Zsilip,10.42,female,Unknown Mix,black,short,large,yes,yes
+2658,Muki,10.67,female,Schnauzer Mix,black,wirehaired,medium,yes,yes
+2659,Meki,11.25,male,Unknown Mix,black and white,short,medium,no,yes
+2660,Ledi,10.75,female,Unknown Mix,saddle back,short,medium,yes,
+2661,Lili,16.17,female,Unknown Mix,red,short,large,yes,
+2662,Inez,9.92,female,Unknown Mix,spotty,short,medium,yes,
+2663,Bizsu,14.25,female,Rottweiler Mix,black and brown,short,medium,no,
+2664,Ledi,10.75,female,Unknown Mix,saddle back,short,medium,yes,
+2665,Hurka,11.33,male,Unknown Mix,apricot,short,small,no,yes
+2666,Felho,11.33,male,Unknown Mix,white,short,large,yes,
+2667,Cekla,11.25,female,Unknown Mix,black,short,medium,yes,
+2668,Arany,9.75,female,Unknown Mix,black and tan,short,medium,yes,yes
+2669,Gerinc,10.33,male,German Shepherd Dog,saddle back,short,medium,no,yes
+2670,Zsarnok,11.67,male,Unknown Mix,brown,short,medium,yes,
+2671,Labanc,12.92,male,Unknown Mix,brown,short,large,no,
+2672,Felho,11.33,male,Unknown Mix,white,wirehaired,large,yes,
+2673,Csocsi,9.67,female,Unknown Mix,gray and white,short,medium,yes,yes
+2674,Csocsi,9.67,female,Unknown Mix,gray and white,short,medium,yes,yes
+2675,Rasztas,10.25,male,Komondor,white,long,large,no,yes
+2676,Bobby,10.92,male,Rottweiler Mix,brown,short,large,yes,yes
+2677,Bors,10.0,female,Unknown Mix,brown and white,short,medium,yes,
+2678,Arany,9.75,female,Unknown Mix,black and tan,short,medium,yes,yes
+2679,Felho,11.33,male,Unknown Mix,white,wirehaired,large,yes,
+2680,Brumi,9.75,male,Unknown Mix,black,short,medium,no,
+2681,Inez,9.92,female,Unknown Mix,spotty,short,medium,yes,
+2682,Panki,12.25,female,Unknown Mix,black and brown,wirehaired,small,yes,
+2683,Hurka,11.33,male,Dachshund Mix,black and tan,short,small,no,
+2684,Brumi,9.83,male,Unknown Mix,black,wirehaired,medium,no,
+2685,Floky,11.33,male,Unknown Mix,gray and white,short,medium,no,
+2686,Felho,11.33,male,Unknown Mix,white,short,large,yes,
+2687,Dodzso,10.83,male,Unknown Mix,yellow-brown,medium,large,,
+2688,Bors,10.0,female,Unknown Mix,saddle back,short,medium,yes,
+2689,Hurka,11.33,male,Dachshund Mix,black and tan,short,small,no,
+2690,Mano,11.33,female,Unknown Mix,black and brown,wirehaired,small,yes,
+2691,Bocskor,10.58,female,Unknown Mix,black,long,medium,yes,
+2692,Odin,10.92,male,Labrador Retriever Mix,black,short,large,yes,yes
+2693,Hurka,11.33,male,Dachshund Mix,black and tan,short,small,no,
+2694,Mano,11.33,female,Unknown Mix,brown,short,small,yes,yes
+2695,Ledi,10.75,female,Unknown Mix,black and tan,short,medium,yes,
+2696,Panki,12.25,female,Unknown Mix,black and brown,wirehaired,small,yes,
+2697,Mano,11.33,female,Unknown Mix,black and brown,wirehaired,small,yes,
+2698,Pipa,10.75,male,Dachshund Mix,tricolor,short,small,,yes
+2699,Egres,17.25,male,Unknown Mix,white,medium,medium,no,
+2700,Szutyi,11.33,female,Unknown Mix,black,short,medium,yes,
+2701,Ficko,11.92,male,Unknown Mix,brown,wirehaired,medium,yes,yes
+2702,Kira,10.92,female,Unknown Mix,black and tan,short,medium,yes,
+2703,Kleo,11.92,female,Unknown Mix,black,medium,large,no,
+2704,Sanci,11.25,male,Unknown Mix,black and tan,short,medium,no,
+2705,Foltoska,11.92,male,Unknown Mix,spotty,short,medium,yes,
+2706,Kicsi,11.92,female,Unknown Mix,apricot,long,small,yes,
+2707,Odon,16.25,male,Dachshund Mix,yellow-brown,short,small,,
+2708,Lili,10.92,female,Labrador Retriever Mix,white,short,large,no,
+2709,Nero,15.92,male,Puli Mix,black,long,large,no,yes
+2710,Matyi,11.25,male,Jagd Terrier Mix,saddle back,short,medium,,yes
+2711,Limbo,12.92,female,Unknown Mix,spotty,wirehaired,medium,no,
+2712,Frici,11.92,male,Hound Mix,black and brown,short,medium,yes,
+2713,Rexi,17.25,male,German Shepherd Dog Mix,black and tan,short,medium,,no
+2714,Mano,10.33,female,Unknown Mix,brown,short,medium,yes,yes
+2715,Fleki,10.08,female,Unknown Mix,brown,short,medium,no,
+2716,Kocka,11.92,female,Unknown Mix,apricot,wirehaired,medium,yes,
+2717,Juli,10.92,female,Unknown Mix,black and brown,long,medium,yes,
+2718,Banan,9.58,male,Unknown Mix,brown,short,small,,
+2719,Picur,12.75,female,Dachshund Mix,brown and white,short,small,yes,
+2720,Kifli,11.33,female,Unknown Mix,black and white,short,medium,yes,
+2721,Potyi,11.33,male,Unknown Mix,gray and black,wirehaired,medium,no,
+2722,Buksi,11.33,male,Unknown Mix,black,wirehaired,medium,yes,
+2723,Eber,11.92,female,Unknown Mix,apricot,short,medium,yes,
+2724,Pletyka,18.33,female,German Shepherd Dog Mix,black and tan,short,large,yes,
+2725,Fibi,9.92,male,German Shepherd Dog Mix,black and brown,medium,medium,,
+2726,Anizs,14.33,female,Unknown Mix,black,medium,medium,yes,
+2727,Fityisz,10.33,male,Unknown Mix,brown,short,medium,,
+2728,Zsomi,11.75,female,Unknown Mix,golden,short,medium,yes,
+2729,Csabi,18.33,male,Unknown Mix,apricot,short,large,yes,
+2730,Joda,11.67,female,Unknown Mix,black,short,large,yes,
+2731,Centi,10.33,female,Unknown Mix,black and white,short,medium,yes,
+2732,Sari,10.33,female,Unknown Mix,striped,short,medium,yes,yes
+2733,Fodor,9.83,female,Unknown Mix,spotty,short,medium,no,yes
+2734,Manci,11.33,female,Unknown Mix,golden,short,medium,yes,
+2735,Labanc,12.33,male,German Shepherd Dog Mix,black and tan,short,large,no,
+2736,Majres,12.33,female,Unknown Mix,apricot,short,medium,yes,
+2737,Vacak,13.33,male,Dachshund Mix,brown,short,medium,no,
+2738,Ozgida,17.33,female,Unknown Mix,brown,short,medium,yes,
+2739,Gombike,16.33,male,German Pointer Mix,apricot,short,medium,no,
+2740,Piri,14.92,female,German Shepherd Dog Mix,black and white,wirehaired,medium,,
+2741,Bobi,10.58,male,Unknown Mix,brown and white,short,medium,yes,yes
+2742,Pulika,16.58,male,Puli,black,medium,medium,,
+2743,Bendeguz,10.0,male,Unknown Mix,black,wirehaired,medium,no,yes
+2744,Meli,10.33,female,Unknown Mix,black,short,small,no,yes
+2745,Casper,10.25,male,Unknown Mix,spotty,medium,large,no,
+2746,Steffi,9.75,female,Dachshund Mix,black and brown,medium,medium,no,yes
+2747,Muveszno,11.33,female,"Puli, Pumi Mix",black,medium,medium,no,yes
+2748,Tapi,15.5,male,Komondor,white,long,large,yes,yes
+2749,Barni,10.58,male,Vizsla Mix,brown,medium,medium,,yes
+2750,Dolli,12.75,female,German Shepherd Dog Mix,black and tan,short,large,,
+2751,Dagi,14.33,male,Unknown Mix,black,medium,medium,no,yes
+2752,Sonja,11.33,female,Unknown Mix,striped,short,small,yes,yes
+2753,Szuzi,14.75,female,Rottweiler Mix,black and tan,short,medium,yes,
+2754,Nudli,16.5,male,Russian Laikas Mix,saddle back,medium,large,no,yes
+2755,Botond,11.42,male,Unknown Mix,white,medium,large,no,
+2756,Samu,10.42,male,Unknown Mix,wild boar,wirehaired,medium,no,
+2757,Nozzi,10.17,male,Scotch Collie Mix,saddle back,short,medium,yes,yes
+2758,Blacky,10.83,male,Unknown Mix,black,short,small,yes,yes
+2759,Nomad,16.92,male,German Shepherd Dog Mix,sable,medium,medium,no,yes
+2760,Ocsike,12.58,male,German Shepherd Dog Mix,sable,long,medium,,
+2761,Kolli,11.67,male,Collie Mix,tricolor,long,small,,
+2762,Dale,11.67,male,Bernese Mountain Dog Mix,black and brown,long,medium,,yes
+2763,Fleki,10.08,female,Unknown Mix,gray,short,medium,no,yes
+2764,Szatyor,13.5,male,Unknown Mix,brown,short,medium,no,
+2765,Pajti,10.83,female,Unknown Mix,white,short,large,yes,no
+2766,Capa,11.92,male,Unknown Mix,black and brown,wirehaired,medium,no,
+2767,Frici,11.92,male,Hound Mix,black and tan,short,medium,yes,
+2768,Ozgida,17.92,female,Unknown Mix,brown,short,medium,yes,
+2769,Balu,17.58,male,Unknown Mix,wild boar,wirehaired,large,no,
+2770,Kicsi,11.92,female,Unknown Mix,brown,medium,medium,yes,
+2771,Borzas,10.75,male,Puli Mix,gray,long,medium,,
+2772,Peti,10.92,male,Hound Mix,brown,short,medium,,yes
+2773,Picur,11.92,female,Dachshund Mix,black,short,small,yes,
+2774,Rokko,11.5,male,Unknown Mix,wild boar,medium,medium,no,no
+2775,Marcipan,10.67,male,Unknown Mix,saddle back,long,large,,
+2776,Kocka,11.92,female,Unknown Mix,spotty,short,medium,yes,
+2777,Kicsikek,9.83,male,German Shepherd Dog Mix,apricot,short,medium,,
+2778,Schwarzi,17.58,male,Unknown Mix,black and tan,short,medium,no,
+2779,Kira,10.92,female,Unknown Mix,striped,short,large,yes,
+2780,Gombi,16.92,male,German Pointer,dotted,short,medium,no,
+2781,Toto,17.92,male,Mudi Mix,black,medium,medium,no,
+2782,Dorka,11.17,female,Unknown Mix,black,short,medium,no,
+2783,Bundas,13.92,male,Rottweiler Mix,black and brown,medium,large,no,
+2784,Cipoke,11.75,female,Mudi Mix,gray,short,medium,no,
+2785,Szuzi,11.33,female,German Shepherd Dog Mix,apricot,short,medium,,yes
+2786,Maca,17.92,female,Dachshund Mix,spotty,short,small,no,
+2787,Joda,11.67,female,Unknown Mix,striped,short,medium,yes,
+2788,Sacika,17.92,female,Unknown Mix,striped,short,large,no,
+2789,Abigel,12.75,female,Puli Mix,black,medium,medium,no,
+2790,Tata,19.92,male,Unknown Mix,black,short,small,no,
+2791,Bundas,12.92,male,Unknown Mix,spotty,medium,medium,no,
+2792,Manci,11.75,female,Unknown Mix,yellow-brown,short,medium,yes,yes
+2793,Csabi,18.5,male,Unknown Mix,gray and white,short,large,yes,
+2794,Samu,14.75,male,Dachshund Mix,red,short,medium,no,
+2795,Picur,12.67,male,Unknown Mix,white,short,medium,,
+2796,Gomboc,11.75,male,Unknown Mix,spotty,medium,medium,no,
+2797,Potyi,11.33,male,Unknown Mix,black and white,short,medium,no,
+2798,Dolly Es Ledi,10.5,female,Hound Mix,black and brown,short,medium,no,
+2799,Jagd,12.67,male,Jagd Terrier,black and tan,wirehaired,small,,yes
+2800,Gesztenye,13.92,male,Staffordshire Terrier Mix,saddle back,short,large,yes,yes
+2801,Indi,11.92,male,German Shepherd Dog Mix,black,medium,large,yes,yes
+2802,Farkas,11.83,male,"German Shepherd Dog, Labrador Retriever Mix",black,medium,large,yes,
+2803,Jessica,11.08,female,"Great Dane, Staffordshire Terrier Mix",yellow-brown,short,medium,yes,
+2804,Torposok,9.83,female,German Shepherd Dog Mix,black and brown,medium,medium,,
+2805,Dido,12.0,male,Dachshund Mix,black and tan,short,medium,,
+2806,Kobold,12.92,male,Hound Mix,brown,short,large,yes,
+2807,Gorni,19.17,male,Unknown Mix,saddle back,wirehaired,medium,yes,yes
+2808,Szaffi,14.33,female,Unknown Mix,gray and white,short,medium,yes,
+2809,Barnus,13.92,male,Unknown Mix,yellow-brown,short,large,yes,yes
+2810,Leo,14.92,male,German Shepherd Dog Mix,black and tan,short,large,no,yes
+2811,Lujza,11.92,female,Unknown Mix,yellow-brown,short,medium,yes,
+2812,Luszi,11.92,female,Unknown Mix,black and brown,short,medium,yes,
+2813,Baba,12.92,female,Unknown Mix,brown and white,short,large,yes,
+2814,Cooper,13.92,male,German Shepherd Dog Mix,saddle back,short,large,yes,yes
+2815,Janka,10.0,female,German Shepherd Dog Mix,brown,medium,medium,,yes
+2816,Bekasi  Bagira,10.17,male,German Shepherd Dog Mix,tricolor,short,medium,no,yes
+2817,Alfa,10.67,male,Unknown Mix,saddle back,short,large,yes,
+2818,Robi,16.92,male,Unknown Mix,black and brown,short,large,yes,yes
+2819,Zara,10.25,female,German Shepherd Dog Mix,black and tan,short,medium,yes,yes
+2820,Kedves,14.92,male,Unknown Mix,black and brown,short,large,yes,yes
+2821,Barni,16.42,male,Unknown Mix,black and brown,short,medium,no,yes
+2822,Szuzi,13.92,female,Hound Mix,black and tan,short,large,yes,yes
+2823,Tigris,14.92,male,Staffordshire Terrier Mix,black and brown,short,medium,no,yes
+2824,Kandur,12.92,male,Unknown Mix,yellow-brown,short,large,yes,
+2825,Apostol,16.92,male,"German Shepherd Dog, Siberian Husky Mix",black and white,medium,medium,no,yes
+2826,Black,16.17,male,German Shepherd Dog Mix,black,short,medium,no,no
+2827,Cezar,12.33,male,Unknown Mix,apricot,short,medium,,
+2828,Bleki,15.92,male,"Hungarian Vizsla, Labrador Retriever Mix",black and brown,short,medium,yes,yes
+2829,Burma,12.42,male,"German Shepherd Dog, Labrador Retriever Mix",black,short,medium,yes,
+2830,Panna,11.25,female,Schnauzer Mix,black,wirehaired,small,yes,yes
+2831,Ricsi,11.5,male,Belgian Sheepdog Mix,black and brown,medium,large,yes,
+2832,Buck,19.0,male,Dachshund Mix,brown,medium,small,,
+2833,Atos,12.25,male,German Pointer Mix,black and white,wirehaired,medium,,yes
+2834,Bacsi,21.92,male,German Shepherd Dog Mix,black and brown,short,medium,no,no
+2835,Lupo,12.92,male,Labrador Retriever Mix,black,short,large,yes,yes
+2836,Janka,12.92,female,Hound Mix,black and brown,short,medium,yes,
+2837,Alfonz,12.92,male,Unknown Mix,red,short,medium,no,
+2838,Dome,15.92,male,German Shepherd Dog,sable,medium,large,,
+2839,Richard,14.5,male,German Shepherd Dog Mix,black,short,medium,no,
+2840,Tila,11.75,male,Unknown Mix,black,short,medium,yes,yes
+2841,Ludmilla,12.67,female,Great Dane Mix,spotty,short,large,yes,yes
+2842,Kicsi,12.92,female,German Pointer Mix,gray and black,short,medium,yes,
+2843,Natacsi,13.92,male,"Dachshund, Setter Mix",black and tan,medium,small,no,yes
+2844,Mamka,13.92,female,Unknown Mix,black,short,large,yes,yes
+2845,Toki,12.92,male,Unknown Mix,black and tan,short,medium,no,
+2846,Bubo,13.08,male,"German Shepherd Dog, Siberian Husky Mix",black and brown,medium,medium,yes,yes
+2847,Bandita,18.83,male,Unknown Mix,black and tan,long,large,,yes
+2848,Kavics,12.92,male,"Giant Schnauzer, Pumi Mix",gray and black,short,medium,no,
+2849,Tango,14.92,male,German Pointer Mix,black,short,medium,,
+2850,Bogyo,14.5,male,Staffordshire Terrier Mix,yellow-brown,short,medium,yes,
+2851,Feri,15.92,male,German Pointer Mix,spotty,short,medium,no,
+2852,L I N A,14.92,female,German Shepherd Dog,saddle back,short,medium,yes,yes
+2853,Morgo,18.83,male,Unknown Mix,yellow-brown,short,medium,yes,
+2854,Csillag,12.5,male,Unknown Mix,black and white,short,medium,,
+2855,Dadus,12.0,female,Unknown Mix,yellow-brown,short,medium,no,yes
+2856,Cola,13.33,female,"Caucasian Ovtcharka, Rottweiler Mix",saddle back,medium,large,yes,yes
+2857,Berci,15.5,male,Staffordshire Terrier Mix,black,short,medium,no,
+2858,Mikrobi,13.67,male,Unknown Mix,black and white,short,medium,,
+2859,Dukat,11.5,male,"Pointer, Setter Mix",dotted,short,medium,no,
+2860,Pajti,13.92,female,Unknown Mix,black and brown,medium,medium,yes,yes
+2861,Zsanett,15.92,female,Unknown Mix,black,medium,medium,,
+2862,Bubu,20.0,male,Unknown Mix,black and brown,short,medium,no,
+2863,Szendy,14.92,female,Unknown Mix,black,short,medium,yes,
+2864,Tucsok,17.42,female,Unknown Mix,tricolor,short,medium,yes,
+2865,Baro,15.42,male,Unknown Mix,black,short,medium,no,
+2866,Labi Es Dobi,14.92,female,Unknown Mix,brown,short,medium,,
+2867,Fonok,16.33,male,German Shepherd Dog Mix,black and tan,short,medium,no,
+2868,Pancsi,12.83,female,Unknown Mix,black and brown,short,medium,yes,
+2869,Saba,19.5,female,Labrador Retriever Mix,black,medium,medium,yes,no
+2870,Pongo,12.58,male,Dalmatian Mix,black and white,short,medium,yes,no
+2871,Bobe,17.33,female,Unknown Mix,black and tan,short,medium,yes,
+2872,Sajo,19.33,male,Schnauzer Mix,gray and white,long,large,no,
+2873,Szemi,16.92,female,Unknown Mix,sable,medium,medium,,
+2874,Bakfitty,12.92,male,German Shepherd Dog Mix,black and tan,medium,medium,yes,
+2875,Vadoc,12.75,female,Hound Mix,brown and white,short,large,yes,
+2876,Bojtar,13.92,male,Unknown Mix,black,medium,medium,no,
+2877,Maszat,17.42,male,German Shepherd Dog Mix,black and tan,short,large,no,
+2878,Cezar,19.92,male,"Fox Terrier, German Shepherd Dog Mix",black,medium,medium,yes,
+2879,Rudi,19.92,male,Unknown Mix,black and white,short,medium,no,yes
+2880,Horbi,17.42,male,Unknown Mix,tricolor,short,medium,no,
+2881,Szamoca,13.75,male,German Shepherd Dog Mix,wild boar,short,large,yes,
+2882,Hamvas,13.92,male,Puli Mix,white,short,small,yes,
+2883,Tupir,13.17,female,Unknown Mix,black and brown,medium,medium,,
+2884,Trampli,13.92,male,Unknown Mix,saddle back,short,medium,no,yes
+2885,Eper,12.92,female,Spaniel Mix,black and tan,medium,medium,yes,no
+2886,Mona,15.25,female,Unknown Mix,sable,medium,medium,yes,
+2887,Polly,13.0,female,German Shepherd Dog Mix,sable,short,large,yes,
+2888,Kajla,16.25,male,German Shepherd Dog Mix,yellow-brown,short,large,no,
+2889,Erik,15.25,male,"German Shepherd Dog, Rottweiler Mix",black and tan,short,large,yes,
+2890,Pirinyo,13.25,male,Miniature Schnauzer Mix,black,short,small,no,
+2891,Fifi,15.67,female,German Shepherd Dog Mix,sable,short,medium,yes,
+2892,Dante .,14.0,male,Bullmastiff Mix,yellow,short,medium,yes,
+2893,Tina,18.92,female,Unknown Mix,black and brown,short,medium,yes,
+2894,Lexi,16.25,male,Unknown Mix,red,short,medium,yes,
+2895,Radar,13.58,female,Unknown Mix,black,short,medium,,
+2896,Vita,19.42,male,German Shepherd Dog Mix,sable,short,large,no,
+2897,Frici,14.58,male,Unknown Mix,red,short,large,no,
+2898,Csipet Csapat,12.67,female,Puli Mix,black,medium,medium,yes,
+2899,Ficko,14.58,male,Puli,black,long,medium,,
+2900,Zokni,16.67,male,German Shepherd Dog Mix,black,short,medium,no,yes
+2901,Geza Es Rexi,16.67,male,German Shepherd Dog Mix,gray,short,medium,no,yes
+2902,Ricsi,19.67,male,Spitz,red,medium,medium,no,yes
+2903,Picur,12.92,female,Labrador Retriever Mix,black,short,medium,,yes
+2904,Roni,13.0,male,Labrador Retriever Mix,black,short,medium,no,yes
+2905,Rexi,14.67,male,German Shepherd Dog Mix,saddle back,short,medium,,yes
+2906,Zeno,16.67,male,German Shepherd Dog Mix,sable,short,large,no,yes
+2907,Jucus,13.75,female,German Shepherd Dog Mix,black and tan,short,medium,,
+2908,Troy,13.92,male,Pointer Mix,brown and white,short,medium,no,yes
+2909,Kira,13.25,female,Unknown Mix,white,medium,medium,yes,
+2910,Pongo,14.67,male,"Beagle, Dachshund Mix",tricolor,short,small,,yes
+2911,Brutus,13.67,male,Unknown Mix,black,medium,large,yes,
+2912,Maggie,14.67,female,"German Dog, Labrador Retriever Mix",black,short,large,,yes
+2913,Diego,13.67,male,Dachshund Mix,red,short,small,,yes
+2914,Bobo,14.5,male,"German Shepherd Dog, Labrador Retriever Mix",yellow-brown,short,medium,no,yes
+2915,Lea,13.17,female,"English Bloodhound, German Shepherd Dog Mix",tricolor,short,medium,yes,yes
+2916,Patty,19.67,female,Unknown Mix,sable,long,large,yes,yes
+2917,Kormi,17.67,male,German Shepherd Dog Mix,black,short,medium,no,yes
+2918,Fifi,13.67,female,German Shepherd Dog Mix,sable,short,medium,yes,yes
+2919,Kitty,15.67,female,Kuvasz,white,medium,large,yes,yes
+2920,Roy,17.83,male,Dalmatian Mix,dotted,short,small,no,
+2921,Lucky,16.75,female,Unknown Mix,black and brown,medium,medium,yes,
+2922,Mazli,17.67,male,Terrier Mix,red,medium,medium,no,
+2923,Barbara,13.75,female,Unknown Mix,black and brown,short,medium,no,yes
+2924,Kormi,14.42,male,Unknown Mix,black,short,medium,no,
+2925,Yuki,13.75,male,German Shepherd Dog Mix,red,short,medium,yes,yes
+2926,Kari,13.33,female,"German Pointer, Pointer Mix",black and white,short,medium,,
+2927,Gyock,19.83,male,Unknown Mix,black,short,medium,no,
+2928,Kavics,13.75,male,Pumi Mix,striped,medium,medium,,yes
+2929,Oleg,16.92,male,Unknown Mix,saddle back,medium,medium,no,
+2930,Potyi,14.25,female,"German Pointer, Greyhound, Pointer Mix",black and white,short,medium,yes,
+2931,Tunder,14.75,female,Labrador Retriever Mix,apricot,medium,medium,yes,yes
+2932,Fodri,16.92,male,Unknown Mix,yellow-brown,short,medium,no,yes
+2933,Csibi,17.33,female,Staffordshire Terrier Mix,striped,short,large,yes,
+2934,Konrad,18.17,male,Unknown Mix,black,short,medium,no,
+2935,Kolni,17.17,male,Unknown Mix,black and brown,medium,medium,no,
+2936,Kedves,16.08,male,"German Shepherd Dog, Hound Mix",sable,short,medium,yes,
