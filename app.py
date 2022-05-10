@@ -1,3 +1,4 @@
+import logging
 from flask import Flask, request, jsonify, make_response
 from flask_sqlalchemy import SQLAlchemy
 import uuid
@@ -5,6 +6,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 import jwt
 import datetime
 from functools import wraps
+from models import db, Log, User
 
 app = Flask(__name__)
 
@@ -14,12 +16,15 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
 db = SQLAlchemy(app)
 
 
-class User(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    public_id = db.Column(db.String(50), unique=True)
-    name = db.Column(db.String(50))
-    password = db.Column(db.String(80))
-    admin = db.Column(db.Boolean)
+@app.before_request
+def before_request():
+    now = datetime.datetime.utcnow()
+    from sqlalchemy.sql.functions import current_user
+    new_log = Log(user=current_user.name, endpoint=request.endpoint, timestamp=now)
+    from app import db
+    db.session.add(new_log)
+    db.session.commit()
+    print(f'Accessed API {request.endpoint} \t {now.strftime("%Y-%m-%d %H:%M:%S")}')
 
 
 def token_required(f):
