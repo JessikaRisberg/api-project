@@ -14,14 +14,15 @@ app.config['SECRET_KEY'] = 'securekey'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
-
+from sqlalchemy.sql.functions import current_user
 
 @app.before_request
 def before_request():
-    token = request.headers.get('x-access-token')
-    user = User.query.filter_by(latesttoken=token).first()
+    # token = request.headers.get('x-access-token')
+    # user = User.query.filter_by(latesttoken=token).first()
     now = datetime.datetime.utcnow()
-    new_log = Log(user=user.name, endpoint=request.endpoint, timestamp=now)
+
+    new_log = Log(user=current_user.name, endpoint=request.endpoint, timestamp=now)
     from app import db
     db.session.add(new_log)
     db.session.commit()
@@ -160,8 +161,8 @@ def login():
             {'public_id': user.public_id, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=1000)},
             app.config['SECRET_KEY'])
 
-        user.latesttoken = token
-        db.session.commit()
+        # user.latesttoken = token
+        # db.session.commit()
         return jsonify({'token': token.encode().decode('UTF-8')})
 
     return make_response('Could not verify', 401, {'WWW-Authenticate', 'Basic realm="Login required!"'})
