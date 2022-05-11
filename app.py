@@ -1,21 +1,27 @@
-import logging
 import sqlite3
 from flask import Flask, request, jsonify, make_response, Response
-from flask_sqlalchemy import SQLAlchemy
+
 import uuid
+
+
+from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 import jwt
 import datetime
 from functools import wraps
 from models import db, Log, User, update_dog, ShelterDogs
-
+from src.blueprints.admin import bp_admin
+from src.blueprints.open import bp_open
+from src.blueprints.user import bp_user
+from sqlalchemy.sql.functions import current_user
 app = Flask(__name__)
 
 app.config['SECRET_KEY'] = 'securekey'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SWAGGER'] = {"title": "Swagger-UI", "uiversion": 2}
 db = SQLAlchemy(app)
-from sqlalchemy.sql.functions import current_user
+
 
 @app.before_request
 def before_request():
@@ -24,7 +30,7 @@ def before_request():
     now = datetime.datetime.utcnow()
 
     new_log = Log(user=current_user.name, endpoint=request.endpoint, timestamp=now)
-    from app import db
+
     db.session.add(new_log)
     db.session.commit()
     print(f'Accessed API {request.endpoint} \t {now.strftime("%Y-%m-%d %H:%M:%S")}')
@@ -170,18 +176,19 @@ def login():
 
 
 def create_app():
+
     app = Flask(__name__)
 
     # Register the open blueprint with app object
-    from blueprints.open import bp_open
+    #from blueprints.open import bp_open
     app.register_blueprint(bp_open)
 
     # Register the user blueprint with app object
-    from blueprints.user import bp_user
+    #from blueprints.user import bp_user
     app.register_blueprint(bp_user)
 
     # Register the admin blueprint with app object
-    from blueprints.admin import bp_admin
+   # from blueprints.admin import bp_admin
     app.register_blueprint(bp_admin)
 
     return app
@@ -209,6 +216,7 @@ def createdog():
 
 
 @app.route("/dog/read", methods=["GET"])
+
 def readdog():
     dogs = ShelterDogs.query.all()
 
@@ -223,6 +231,7 @@ def readdog():
 
 @app.route("/dog/read/<name>", methods=["PUT"])
 def readsomedogs(name):
+
     try:
         sqliteconnection = sqlite3.connect('db.sqlite')
         cursor = sqliteconnection.cursor()
@@ -235,15 +244,14 @@ def readsomedogs(name):
             dogsearch = f'index: {row[0]}, name: {row[1]}, age: {row[2]}, sex: {row[3]}, breed: {row[4]},' \
                         f' color: {row[5]}, coat: {row[6]}, size: {row[7]}, neutered: {row[8]}, likes_children: {row[9]}'
             output.append(dogsearch)
-
-        return jsonify({'You searched for': name}, {"Here are the results": output})
         cursor.close()
+        return jsonify({'You searched for': name}, {"Here are the results": output})
 
     except sqlite3.Error as error:
         return jsonify("Failed to read data", error)
     finally:
-        if sqliteConnection:
-            sqliteConnection.close()
+        if sqliteconnection:
+            sqliteconnection.close()
 
 
 @app.route("/dog/update", methods=["PUT"])
