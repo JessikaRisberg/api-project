@@ -19,9 +19,10 @@ db = SQLAlchemy(app)
 
 @app.before_request
 def before_request():
+    token = request.headers.get('x-access-token')
+    user = User.query.filter_by(latesttoken=token).first()
     now = datetime.datetime.utcnow()
-    from sqlalchemy.sql.functions import current_user
-    new_log = Log(user=current_user.name, endpoint=request.endpoint, timestamp=now)
+    new_log = Log(user=user.name, endpoint=request.endpoint, timestamp=now)
     from app import db
     db.session.add(new_log)
     db.session.commit()
@@ -37,13 +38,13 @@ def token_required(f):
             token = request.headers['x-access-token']
 
         if not token:
-            return jsonify({'message': 'No token.'}), 401
+            return jsonify({'message' : 'No token.'}), 401
 
         try:
             data = jwt.decode(token, app.config['SECRET-KEY'])
             current_user = User.query.filter_by(public_id=data['public_id']).first()
         except:
-            return jsonify({'message': 'Token is invalid'}), 401
+            return jsonify({'message' : 'Token is invalid'}), 401
 
         return f(current_user, *args, **kwargs)
 
@@ -53,8 +54,9 @@ def token_required(f):
 @app.route('/user', methods=['GET'])
 @token_required
 def get_all_users(current_user):
+
     if not current_user.admin:
-        return jsonify({'message': "Can't perform that function"})
+        return jsonify({'message' : "Can't perform that function"})
 
     users = User.query.all()
 
@@ -73,13 +75,15 @@ def get_all_users(current_user):
 @app.route('/user/<public_id>', methods=['GET'])
 @token_required
 def get_one_user(current_user, public_id):
+
     if not current_user.admin:
-        return jsonify({'message': "Can't perform that function"})
+        return jsonify({'message' : "Can't perform that function"})
 
     user = User.query.filter_by(public_id=public_id).first()
 
     if not user:
         return jsonify({'message': 'No user found'})
+
 
     user_data = {}
     user_data['public_id'] = user.public_id
@@ -94,16 +98,17 @@ def get_one_user(current_user, public_id):
 @token_required
 def create_user(current_user):
     if not current_user.admin:
-        return jsonify({'message': "Can't perform that function"})
+        return jsonify({'message' : "Can't perform that function"})
 
     data = request.get_json()
 
     hashed_password = generate_password_hash(data['password'], method='sha256')
 
     new_user = User(public_id=str(uuid.uuid4()), name=data['name'], password=hashed_password, admin=False)
+
     db.session.add(new_user)
     db.session.commit()
-
+    print("User created")
     return jsonify({'message': 'New user created!'})
 
 
@@ -111,7 +116,7 @@ def create_user(current_user):
 @token_required
 def promote_user(current_user, public_id):
     if not current_user.admin:
-        return jsonify({'message': "Can't perform that function"})
+        return jsonify({'message' : "Can't perform that function"})
 
     user = User.query.filter_by(public_id=public_id).first()
 
@@ -154,13 +159,14 @@ def login():
         return make_response('Could not verify', 401, {'WWW-Authenticate', 'Basic realm="Login required!"'})
 
     if check_password_hash(user.password, auth.password):
-        token = jwt.encode(
-            {'public_id': user.public_id, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=30)},
-            app.config['SECRET_KEY'])
+        token = jwt.encode({'public_id': user.public_id, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=1000)}, app.config['SECRET_KEY'])
 
-        return jsonify({'token': token.encode().decode('UTF-8')})
+        user.latesttoken = token
+        db.session.commit()
+        return jsonify({'token' : token.encode().decode('UTF-8')})
 
     return make_response('Could not verify', 401, {'WWW-Authenticate', 'Basic realm="Login required!"'})
+
 
 
 @app.route("/dog/create", methods=['POST'])
