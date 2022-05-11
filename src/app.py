@@ -1,4 +1,3 @@
-import logging
 import sqlite3
 from flask import Flask, request, jsonify, make_response, Response
 from flask_sqlalchemy import SQLAlchemy
@@ -7,7 +6,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 import jwt
 import datetime
 from functools import wraps
-from models import db, Log, User, update_dog, ShelterDogs
+from src.models import db, Log, User, update_dog, ShelterDogs
 
 app = Flask(__name__)
 
