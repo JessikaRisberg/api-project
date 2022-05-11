@@ -1,4 +1,4 @@
-from ..fixture import client
+from .fixture import client
 
 
 def test_home_page():
