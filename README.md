@@ -5,7 +5,8 @@ An API for sheltered dog in spain
 
 [GET] /user
 
-       if current user = Admin, it pulls down all user databases and sorts it in "public_id", "name", "password", "admin"
+       if current user = Admin, it pulls down all user databases 
+       and sorts it in "public_id", "name", "password", "admin"
        
  [POST] /user
 
