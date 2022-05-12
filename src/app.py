@@ -6,7 +6,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 import jwt
 import datetime
 from functools import wraps
-from src.models import db, Log, User, update_dog, ShelterDogs
+from models import Log, User, update_dog, ShelterDogs
 from sqlalchemy.sql.functions import current_user
 
 
@@ -39,7 +39,8 @@ def create_app():
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     db = SQLAlchemy(app)
-
+    sqliteconnection = sqlite3.connect('src/db.sqlite', check_same_thread=False)
+    cursor = sqliteconnection.cursor()
     # Register the open blueprint with app object
     from blueprints.open import bp_open
     app.register_blueprint(bp_open)
@@ -59,7 +60,7 @@ def create_app():
         now = datetime.datetime.utcnow()
 
         new_log = Log(user=current_user.name, endpoint=request.endpoint, timestamp=now)
-        from app import db
+
         db.session.add(new_log)
         db.session.commit()
         print(f'Accessed API {request.endpoint} \t {now.strftime("%Y-%m-%d %H:%M:%S")}')
@@ -175,11 +176,8 @@ def create_app():
 
         return make_response('Could not verify', 401, {'WWW-Authenticate', 'Basic realm="Login required!"'})
 
-    @app.route("/dog/create", methods=['POST'])
+    @app.route("/dog/v1/create", methods=['POST'])
     def createdog():
-        sqliteconnection = sqlite3.connect('db.sqlite')
-        cursor = sqliteconnection.cursor()
-
         cursor.execute('SELECT ID FROM shelter_dogs WHERE ID IN ( SELECT max( ID ) FROM shelter_dogs );')
         row = cursor.fetchone()
         rownumb = row[0] + 1
@@ -195,7 +193,7 @@ def create_app():
 
         return jsonify({'message: New dog created with the index:': rownumb})
 
-    @app.route("/dog/read", methods=["GET"])
+    @app.route("/dog/v1/read", methods=["GET"])
     def readdog():
         dogs = ShelterDogs.query.all()
 
@@ -207,11 +205,9 @@ def create_app():
             output.append(dogs_data)
         return jsonify({'dogs': output})
 
-    @app.route("/dog/read/<name>", methods=["PUT"])
+    @app.route("/dog/v1/read/<name>", methods=["GET"])
     def readsomedogs(name):
         try:
-            sqliteconnection = sqlite3.connect('db.sqlite')
-            cursor = sqliteconnection.cursor()
 
             sql_select_query = """select * from shelter_dogs where name = ?"""
             cursor.execute(sql_select_query, (name,))
@@ -221,17 +217,16 @@ def create_app():
                 dogsearch = f'index: {row[0]}, name: {row[1]}, age: {row[2]}, sex: {row[3]}, breed: {row[4]},' \
                             f' color: {row[5]}, coat: {row[6]}, size: {row[7]}, neutered: {row[8]}, likes_children: {row[9]}'
                 output.append(dogsearch)
-
-            return jsonify({'You searched for': name}, {"Here are the results": output})
             cursor.close()
+            return jsonify({'You searched for': name}, {"Here are the results": output})
 
         except sqlite3.Error as error:
             return jsonify("Failed to read data", error)
         finally:
-            if sqliteConnection:
-                sqliteConnection.close()
+            if sqliteconnection:
+                sqliteconnection.close()
 
-    @app.route("/dog/update", methods=["PUT"])
+    @app.route("/dog/v1/update", methods=["PUT"])
     def updatedog():
         request_data = request.get_json()
         update_dog(request_data['ID'], request_data['name'], request_data['age'], request_data["sex"],
@@ -241,11 +236,9 @@ def create_app():
         response = Response("Dog Updated", status=200, mimetype='application/json')
         return response
 
-    @app.route("/dog/delete/<id>", methods=["DELETE"])
+    @app.route("/dog/v1/<id>", methods=["DELETE"])
     def deletedog(id):
         try:
-            sqliteconnection = sqlite3.connect('db.sqlite')
-            cursor = sqliteconnection.cursor()
             sql_select_query = """select * from shelter_dogs where ID = ?"""
             cursor.execute(sql_select_query, (id,))
             records = cursor.fetchall()
