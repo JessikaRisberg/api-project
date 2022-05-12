@@ -4,9 +4,6 @@ from src.app import create_app
 
 @pytest.fixture
 def client():
-    app = create_app()
+    url = 'http://127.0.0.1:5000' # The root url of the flask app
 
-    app.config['TESTING']
-
-    with app.app_context() as api_client:
-        yield api_client
+    return url
